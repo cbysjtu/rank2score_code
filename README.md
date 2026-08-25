@@ -3,7 +3,9 @@
 </h1>
 <div align="center">
 Bingyang Cui<sup>1*</sup>, Yujie Zhang<sup>1*</sup>, Qi Yang<sup>2</sup>, Zhu Li<sup>2</sup>, Yiling Xu<sup>1</sup>
+  
 <sup>1</sup> Shanghai Jiao Tong University, <sup>2</sup> University of Missouri-Kansas City
+
 <small><sup>*</sup> Equal Contribution &nbsp;&nbsp;&nbsp;</small>
 <br><br>
 <a href="https://link.springer.com/article/10.1007/s11263-026-02994-x" target="_blank">
