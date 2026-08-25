@@ -1,11 +1,10 @@
-[README.md](https://github.com/user-attachments/files/31415450/README.md)
 # Towards Fine-Grained Text-to-3D Quality Assessment: A Benchmark and A Two-Stage Rank-Learning Metric
 <div align="center"> Bingyang Cui<sup>1*</sup>, Yujie Zhang<sup>1*</sup>, Qi Yang<sup>2</sup>, Zhu Li<sup>2</sup>, Yiling Xu<sup>1?</sup>
 
 <div align="center"> <sup>1</sup> Shanghai Jiao Tong University, <sup>2</sup> University of Missouri-Kansas City</small>
 <div align="center"> <small><sup>*</sup> Equal Contribution &nbsp;&nbsp;&nbsp <sup>?</sup>Corresponding author</small>
 
-<div align="left">
+<div align="center">
   <a href="https://link.springer.com/article/10.1007/s11263-026-02994-x?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260825&utm_content=10.1007/s11263-026-02994-x" target="_blank"><img src="https://img.shields.io/badge/Paper_Link-IJCV-blue"></a>
   <a href="https://arxiv.org/abs/2509.23841" target="_blank"><img src="https://img.shields.io/badge/Paper_PDF-arXiv-red"></a>
   <a href="https://cbysjtu.github.io/Rank2Score/" target='_blank'><img src="https://img.shields.io/badge/Project-&#x1F680-blue"></a>
@@ -13,11 +12,13 @@
 
 This repository contains a PyTorch implementation of **Rank2Score**, as presented in our paper [*Towards Fine-Grained Text-to-3D Quality Assessment: A Benchmark and A Two-Stage Rank-Learning Metric*](https://link.springer.com/article/10.1007/s11263-026-02994-x?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260825&utm_content=10.1007/s11263-026-02994-x).
 
-## ? News
 
-- **[2026.08]** Our paper has been accepted by **IJCV** ???
+## 🔥 News
 
-## ? Overview
+- **[2026.08]** Our paper has been accepted by **IJCV** 🎉🎉🎉
+
+
+## 📖 Overview
 
 **T23D-CompBench** is a comprehensive benchmark for compositional Text-to-3D generation. **Rank2Score** is an effective evaluator with two-stage training for Text-to-3D quality assessment.
 
@@ -30,8 +31,7 @@ Overview of the Rank2Score Evaluator
 </div>
 
 
-
-## ?? Installation
+## 🛠️ Installation
 
 To set up this repository, clone it, create a new conda environment, and install all dependencies within it:
 
@@ -53,14 +53,13 @@ conda install -c bottler nvidiacub
 conda install pytorch3d -c pytorch3d
 ```
 
-
-## ? Open-Source Plan
+## 📑 Open-Source Plan
 
 - [ ] Code Usage
 - [ ] Model Checkpoints
 
 
-## ? Citation
+## 📝 Citation
 
 If you find this work useful in your research, please consider citing our paper:
 
