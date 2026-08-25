@@ -1,0 +1,721 @@
+model,prompt,Object Alignment,Attribute Alignment,Interaction Alignment,Overall Alignment,Texture Clarity,Texture Aesthetics,Geometry Loss,Geometry Redundancy,Geometry Roughness,Overall Visual,3D Authentic,Overall Quality
+3DTopia,A spiked dragon,2,1,0,1,2.666666667,2.333333333,2.333333333,4,3.666666667,2,3,1
+3DTopia,A spiky green iguana with a long tail and a row of spines along its back,3,4,0,3,3,2,3,4,3.666666667,2.666666667,4.666666667,3.666666667
+3DTopia,A spiky lizard with jagged wings and uneven scales on its body,3,2.333333333,0,2.333333333,3,2.333333333,3.333333333,3,4,3,4,2
+3DTopia,A spoon in a bowl,1,0,1,1,3,2.333333333,3.666666667,3.666666667,3.333333333,2,4,2
+3DTopia,"A spruce tree with sharp, triangular needles and a slightly curved trunk",2.666666667,1.333333333,0,2,3,3,2,3,4,2.333333333,3.333333333,2
+3DTopia,A square camera,1.666666667,4,0,2,3,2.666666667,2.666666667,4.666666667,4,2.333333333,4,1.666666667
+3DTopia,A square mirror surrounded by blooming flowers,3,4.666666667,0,4,4,4,4.333333333,4.333333333,4,4,4,4
+3DTopia,A squirrel eating a donut,3,0,3,3,3,2,2,2,2.333333333,1.666666667,2,1.666666667
+3DTopia,A squirrel jumping from a tree with an acorn in its mouth,1,0,1,1,1,1,1,1,1,1,1,1
+3DTopia,A squirrel wearing a tuxedo and holding a conductor's baton,1.333333333,1,1,1.333333333,1,1,1,1,1,1,2,1.666666667
+3DTopia,A starfish inside a seashell,2.666666667,0,2,2,3,3,3.333333333,4,3,3,4,2
+3DTopia,A steak and potatoes,1,0,0,1,1,1,1,1,1,1,1,1
+3DTopia,A steaming basket full of dumplings,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,A stone arched bridge with a hole on the surface,4.666666667,4.666666667,0,4.666666667,3.333333333,4,4.333333333,5,4.666666667,4,4.666666667,3.666666667
+3DTopia,A stone castle,4,3,0,3,2.666666667,2,3,4,3,2.333333333,4,2.333333333
+3DTopia,A stool below a table,3,0,2,2,4,4,5,5,5,4,5,3
+3DTopia,A stool with legs like an elephant's leg and a seat like a mushroom top,4.666666667,2,0,2.666666667,3,3,4,3.666666667,4,3,4,2.333333333
+3DTopia,"A striped tiger with orange fur, black stripes, and green eyes",3,3.333333333,0,3,3,2.333333333,3,3,3.333333333,2.333333333,4,2
+3DTopia,A sunflower next to a rose,1.333333333,0,1,1.333333333,2,2,2,4,3,2,3,2
+3DTopia,"A sunflower with a circular head, slender petals and dense foliage",2,2,0,2,3,2,2.666666667,3,3.666666667,2,3,2
+3DTopia,A sunflower with a diamond center,2,1,0,2,3,2.666666667,3,4,3,2.333333333,4,3
+3DTopia,A sunflower with metallic petals and a brown clock face in the middle,4.333333333,3,0,3.333333333,3,3,3.333333333,4.333333333,3.666666667,3.333333333,4,3.333333333
+3DTopia,A sunflower with yellow petals and a dark brown center,2.333333333,3,0,2.666666667,3,2.666666667,3,4,3,2,3.666666667,2.333333333
+3DTopia,A swan inside a crystal,1,0,1,1,1,1,1,1,1,1,1,1
+3DTopia,A symmetrical bridge,4.333333333,4,0,4,3.666666667,3.666666667,3,5,4.666666667,3,4.333333333,3.333333333
+3DTopia,A symmetrical dragonfly with wings made of light-colored glass,1.666666667,3,0,2,2.666666667,2,3,2.333333333,4,1.666666667,2.333333333,2
+3DTopia,A table with a top like a leaf and legs like branches,3,4,0,3,3,3,3,4.666666667,4.333333333,3.333333333,4.333333333,3
+3DTopia,A tall brown-furred giraffe,2,4,0,2,3,1.333333333,2.666666667,3.333333333,4,2,3,2
+3DTopia,A teddy bear with a red bow,4,4,0,4,2.666666667,2.333333333,2,4,4,2.333333333,4,3
+3DTopia,"A television, decorated with gold and inlaid with jewels",2.333333333,3.666666667,0,3,3,3,4,4,4,3,3.333333333,3.333333333
+3DTopia,A tiger dressed as a doctor,2,1,0,2,3,2.333333333,3,3.666666667,4,2.333333333,4,2
+3DTopia,A tiger driving a car,2.666666667,0,2,2,4,3.666666667,1.666666667,4,3.666666667,2,2,2
+3DTopia,A tiger outside a house,2.666666667,0,2,2,3.666666667,3.666666667,1,4,3.333333333,2,3,2
+3DTopia,A tiger warrior next to a stone castle,1,1,1,1,1,1,1,1,1,1,1,1
+3DTopia,A tiny shark wearing a racing driver's suit and a helmet on its head,2,3,0,2,3,2,3,4,3,2.333333333,3,2
+3DTopia,A tortoise with a shell that looks like stained glass,1.333333333,1.666666667,0,1.333333333,1,1,1,1,1,1,1,1
+3DTopia,A tower with a pointed top,3.333333333,1,0,3,3,2.666666667,3,4,4,3,4,2.666666667
+3DTopia,A tree with silver bark,2,1.333333333,0,1.666666667,3,2.666666667,3.666666667,4.333333333,3.333333333,3,3,1.333333333
+3DTopia,A truck hauling a box,3,0,2,2,3.666666667,3,4,5,4,3.666666667,4,2
+3DTopia,A vintage rocking chair with curved arms and a woven cane seat,4,2,0,2.333333333,3,3,3,4,4,3,4.666666667,3
+3DTopia,A watermelon with golden and silver stripes,2,2.666666667,0,2.333333333,3,2.333333333,3.333333333,4,3,2.333333333,5,2.666666667
+3DTopia,A whale inside a bag,3,0,2,2,3,3,3,4,3,3,4,2.666666667
+3DTopia,A white ceramic vase with floral motifs,3,3.333333333,0,3,3,2.333333333,3,3.666666667,3,3,4.666666667,2.666666667
+3DTopia,A white dog with wings,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,"A white headphones with soft, padded ear cups and a black headband",2,2,0,2,3,2.666666667,3,2,3.333333333,2,4,1.666666667
+3DTopia,A white milk carton with a yellow logo,4.666666667,4.666666667,0,4.666666667,4,4,5,5,4.666666667,4,5,4
+3DTopia,A white rabbit nibbling on a carrot,2.333333333,4,2.333333333,2.333333333,3,1.333333333,3,4,3,2,2,2.666666667
+3DTopia,A white rabbit with round ears,2.333333333,2,0,2,3,3,2.333333333,2.666666667,3.666666667,2.333333333,3,2
+3DTopia,A white scarf with fringed edges,3,2.333333333,0,2.333333333,3,3,2,3,4,3,3,2.666666667
+3DTopia,A wide hat,4.666666667,5,0,4.666666667,3,3,3.333333333,4,3.333333333,3.333333333,5,3
+3DTopia,A wide-brimmed straw hat with a black ribbon and a woven texture,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,A willow tree with silvery branches and a slender trunk,3,3,0,3,3,2.666666667,3,4,3,2.666666667,4,2
+3DTopia,A wooden apple above a brass plate,1,1,1,1,3,2,3,4,3.333333333,2,1,1
+3DTopia,A wooden chair with a cushioned seat placed next to a round table,3,2,2,2,3.666666667,3.333333333,4,5,4.333333333,4,5,3
+3DTopia,A wooden desk with square drawers,4,5,0,4,3.333333333,4,3,4,4,3.666666667,5,4
+3DTopia,A wooden dining table with cylindrical legs,4.666666667,4.333333333,0,4,4,4,5,4.666666667,4.666666667,4,4.333333333,3.333333333
+3DTopia,A wooden guitar with a curved body and metal strings,4.666666667,3,0,4,4,3,4.333333333,5,4.666666667,4,4.666666667,3
+3DTopia,A wooden house,4.333333333,4.333333333,0,4.333333333,3,3,3,4,4,3,4.333333333,3.666666667
+3DTopia,A wooden violin,5,4.666666667,0,4.666666667,3.666666667,3.666666667,5,5,4.666666667,4,5,4
+3DTopia,A yellow banana with brown spots,2,3.666666667,0,3,3,2.333333333,3,5,4,3,3,2
+3DTopia,A yellow canary with a pointed beak and a copper crest on its head,3,2.333333333,0,2.666666667,3,2,2.333333333,4,3.333333333,2,3,2
+3DTopia,An apple next to a banana,2,0,1.666666667,2,1,1,1,1,1,1,4,2
+3DTopia,An earring designed as miniature chandeliers adorned with crystals,3.666666667,4.666666667,0,4,3,3,4,5,4,3,5,3.666666667
+3DTopia,An octopus playing the piano,1,0,1,1,1,1,1,1,1,1,1,1
+3DTopia,"An office building with a flat roof, and evenly spaced windows",3.666666667,4,0,4,2.333333333,2,4,5,4,2.666666667,4.666666667,3
+3DTopia,An olive-shaped metal leaf,3,1.666666667,0,2,2.666666667,2.666666667,4,4.333333333,3,2.666666667,4.333333333,2.666666667
+3DTopia,An orange cat with a long tail,2,3,0,2,3,2,3,4,4,2,4,2
+3DTopia,An orange square chimney,4,4,0,4,3.666666667,3,3,4.333333333,4,3,4,3.666666667
+3DTopia,"An oval-shaped hummingbird with thin legs, and a pointed beak",4,3,0,3.333333333,3,1.666666667,3,4,4,2.333333333,4,3
+3DTopia,An owl on a boat,1,0,1,1,1,1,1,1,1,1,1,1
+3DTopia,An umbrella with a curved handle,1,1,0,1,3,2.666666667,1.333333333,3,4,2,1,1
+3DTopia,Several quadrangle stars on the surface of a coffee cup,2.333333333,3,0,2.333333333,3,3,3,4,3,3,4,3
+Consistent3D,A spiked dragon,3,4,0,3,3,2,4,3.666666667,2,2,3,2
+Consistent3D,A spiky green iguana with a long tail and a row of spines along its back,3.666666667,3.333333333,0,3.333333333,2.333333333,2,4,2,3,2,2.666666667,2
+Consistent3D,A spiky lizard with jagged wings and uneven scales on its body,3,2,0,2,2.333333333,1.333333333,3,3.666666667,2,2,2.333333333,2
+Consistent3D,A spoon in a bowl,1.666666667,0,2,1.666666667,3,2.333333333,4,3.333333333,3,2.333333333,4,2
+Consistent3D,"A spruce tree with sharp, triangular needles and a slightly curved trunk",4.666666667,2,0,2.333333333,3.333333333,3,4,4,3,3,5,3
+Consistent3D,A square camera,1,1,0,1,1,1,1,1,1,1,2,1.666666667
+Consistent3D,A square mirror surrounded by blooming flowers,1,1,0,1,1,1,1,1,1,1,1,1
+Consistent3D,A squirrel eating a donut,4,0,4.666666667,4,2.666666667,2,3,4,3,3,4,3.666666667
+Consistent3D,A squirrel jumping from a tree with an acorn in its mouth,1,1,1,1,1,1,1,1,1,1,1,1
+Consistent3D,A squirrel wearing a tuxedo and holding a conductor's baton,3,3,2,3,2.666666667,2.666666667,3,3,2.666666667,2.333333333,3,2.666666667
+Consistent3D,A starfish inside a seashell,2.333333333,0,2,2,2.333333333,2.333333333,3.333333333,4,3,2.333333333,3,2
+Consistent3D,A steak and potatoes,3,0,0,3,2,2,3,2.666666667,2.333333333,1.666666667,3,2
+Consistent3D,A steaming basket full of dumplings,3.333333333,3,0,2.666666667,1.333333333,1,4,3.666666667,3,1,4,2.333333333
+Consistent3D,A stone arched bridge with a hole on the surface,1,1,0,1,1,1,1,1,1,1,1,1
+Consistent3D,A stone castle,3,2,0,2.333333333,2.666666667,2,4,2,3,2,4,1.666666667
+Consistent3D,A stool below a table,3,0,2,2,2.666666667,2.666666667,4.666666667,5,2.333333333,2.666666667,4,2.333333333
+Consistent3D,A stool with legs like an elephant's leg and a seat like a mushroom top,3,3.333333333,0,3,2.666666667,2,4,3,1.666666667,2,3,2
+Consistent3D,"A striped tiger with orange fur, black stripes, and green eyes",3.666666667,2.666666667,0,2.333333333,2.333333333,1.666666667,4,3.333333333,3,2,2,2
+Consistent3D,A sunflower next to a rose,2.666666667,0,2,2,2,2,3.666666667,3,3,2,3,2.5
+Consistent3D,"A sunflower with a circular head, slender petals and dense foliage",3,2,0,2,2.333333333,2,4,2.333333333,3,2,2,2
+Consistent3D,A sunflower with a diamond center,1,1,0,1,3,1.666666667,2,3.333333333,3,1.333333333,1,1
+Consistent3D,A sunflower with metallic petals and a brown clock face in the middle,3,2,0,2,2.666666667,2,3.333333333,3,2,2,4,2.333333333
+Consistent3D,A sunflower with yellow petals and a dark brown center,3,3.333333333,0,3,2.666666667,2,3,4,2.666666667,2,3.333333333,2
+Consistent3D,A swan inside a crystal,3,0,2,2,2,2,4,2.666666667,2,2,2.666666667,2
+Consistent3D,A symmetrical bridge,2,2,0,2,2.333333333,2,4,2,3.333333333,2,2,2
+Consistent3D,A symmetrical dragonfly with wings made of light-colored glass,3.333333333,3,0,3,2,1,4,2,2,1.333333333,2,2
+Consistent3D,A table with a top like a leaf and legs like branches,1,1.333333333,0,1,1,1,1,1,1,1,1,1
+Consistent3D,A tall brown-furred giraffe,4,4,0,4,3,3,2.333333333,3.666666667,3,3,3,2
+Consistent3D,A teddy bear with a red bow,4,4,0,4,2.666666667,2,3,3,3,2,2.333333333,2.333333333
+Consistent3D,"A television, decorated with gold and inlaid with jewels",1,1,0,1,2,1,3.666666667,4,3,2,1,1
+Consistent3D,A tiger dressed as a doctor,3,3.666666667,0,3.333333333,3,2.666666667,4,4,3,2,4,2.333333333
+Consistent3D,A tiger driving a car,2.333333333,0,1,1.333333333,3,2,2,1.666666667,3,1.666666667,1,1
+Consistent3D,A tiger outside a house,2.666666667,0,2,2,3,2,4,3,3,2.333333333,3,3
+Consistent3D,A tiger warrior next to a stone castle,3,1,2,2,3,2.333333333,4,2,2.333333333,2.333333333,3,3
+Consistent3D,A tiny shark wearing a racing driver's suit and a helmet on its head,3,3,0,3,2.666666667,2,3.333333333,3.333333333,3,2.333333333,2,2.333333333
+Consistent3D,A tortoise with a shell that looks like stained glass,1.333333333,2,0,1.666666667,2,2,2,4,2,1.666666667,4,2
+Consistent3D,A tower with a pointed top,4,4.333333333,0,4,3,2.666666667,4,3,3,2.666666667,4.666666667,3
+Consistent3D,A tree with silver bark,2.333333333,3,0,3,2,2,1,4,3,1.333333333,4,2
+Consistent3D,A truck hauling a box,2.333333333,0,2.333333333,2.333333333,2,2,3,3,3,2,2,2
+Consistent3D,A vintage rocking chair with curved arms and a woven cane seat,3.333333333,1,0,2.333333333,2,1,4,4,1,2,4,1.666666667
+Consistent3D,A watermelon with golden and silver stripes,2.333333333,2.666666667,0,2.333333333,2,2,3.333333333,4.333333333,3,2,4,2
+Consistent3D,A whale inside a bag,2.333333333,0,2.333333333,2.333333333,2.666666667,1.666666667,3.666666667,2,3,2,2,2
+Consistent3D,A white ceramic vase with floral motifs,4,4,0,4,2,1.666666667,2,4,1.333333333,2,4,2
+Consistent3D,A white dog with wings,2.333333333,3,0,2.333333333,2,2,4,3,2.333333333,2,2,2
+Consistent3D,"A white headphones with soft, padded ear cups and a black headband",1.666666667,1,0,1,1,1,1,1,1,1,3.666666667,1.666666667
+Consistent3D,A white milk carton with a yellow logo,3,2,0,2.333333333,3,2,3,4.333333333,3,2.666666667,3.666666667,2
+Consistent3D,A white rabbit nibbling on a carrot,3.666666667,4,4,3.666666667,2,1.666666667,3,3,2,2,2,2.666666667
+Consistent3D,A white rabbit with round ears,4,2.666666667,0,3.5,2.666666667,2,3,3.333333333,2,2.666666667,4,2
+Consistent3D,A white scarf with fringed edges,2,2,0,1.666666667,2,1.333333333,3.333333333,2,2.666666667,2,3,1.333333333
+Consistent3D,A wide hat,3.333333333,3.666666667,0,3.333333333,2.333333333,2.333333333,4,3.333333333,2.333333333,3,4.666666667,3
+Consistent3D,A wide-brimmed straw hat with a black ribbon and a woven texture,4,4,0,4,2.333333333,2,3,4,3,2,4,2
+Consistent3D,A willow tree with silvery branches and a slender trunk,1.666666667,2.333333333,0,2,2,2,2.333333333,4,2,2,3.5,1.666666667
+Consistent3D,A wooden apple above a brass plate,1.666666667,1,1,1,1.333333333,1,4,4,2,1,3.333333333,1.333333333
+Consistent3D,A wooden chair with a cushioned seat placed next to a round table,2.333333333,2,2,2,2,1.333333333,5,5,2,2.333333333,4,2
+Consistent3D,A wooden desk with square drawers,4,5,0,4,2.666666667,1.666666667,4,3.666666667,3,2.333333333,3,2
+Consistent3D,A wooden dining table with cylindrical legs,3,2.333333333,0,2.333333333,3,2.666666667,2.666666667,5,3,2.666666667,5,3
+Consistent3D,A wooden guitar with a curved body and metal strings,2,2,0,2,2,1,3.666666667,3,3,2,2,2
+Consistent3D,A wooden house,2.333333333,2,0,2,2,1.333333333,4,2.333333333,3,1.666666667,2,2
+Consistent3D,A wooden violin,3,1.333333333,0,2,2,2,3,4,3,2,1,1
+Consistent3D,A yellow banana with brown spots,4,4,0,4,3,2.333333333,3.333333333,4.333333333,3,3,4,3
+Consistent3D,A yellow canary with a pointed beak and a copper crest on its head,4,3,0,3,3,2,3,3.333333333,3,2,3,2
+Consistent3D,An apple next to a banana,2.666666667,0,1.666666667,1.666666667,2.666666667,2,4,3,3,2.333333333,3,2
+Consistent3D,An earring designed as miniature chandeliers adorned with crystals,3.666666667,4,0,4,2.333333333,2,2.666666667,4,2.333333333,2,4,2
+Consistent3D,An octopus playing the piano,2.666666667,0,2,2,2,2,4.333333333,4,2.666666667,2.333333333,2,2
+Consistent3D,"An office building with a flat roof, and evenly spaced windows",3.666666667,3,0,3,2.333333333,2,3,3.666666667,2,2,4,1.666666667
+Consistent3D,An olive-shaped metal leaf,2.333333333,3,0,3,2.333333333,2,4,4,2,2.333333333,3,3
+Consistent3D,An orange cat with a long tail,3,4,0,4,2.333333333,2,4,3,2.333333333,2,2.333333333,2.333333333
+Consistent3D,An orange square chimney,3,3.333333333,0,3,2,2,3.333333333,4,3,2.666666667,4.333333333,2
+Consistent3D,"An oval-shaped hummingbird with thin legs, and a pointed beak",3,3,0,3,2,1.333333333,2.666666667,3,3,2,4,1.333333333
+Consistent3D,An owl on a boat,3.333333333,0,3.666666667,3.333333333,2,2,4,2,2.333333333,2,2.666666667,2.666666667
+Consistent3D,An umbrella with a curved handle,3.333333333,4,0,3.333333333,3,2,3,3.333333333,2,2,4.333333333,3
+Consistent3D,Several quadrangle stars on the surface of a coffee cup,2.666666667,1.333333333,0,2,2,2,4,3,3,2,4.333333333,2.333333333
+DreamFusion,A spiked dragon,2,1,0,1,2.333333333,1.333333333,2,3,4,1.666666667,1.333333333,1.333333333
+DreamFusion,A spiky green iguana with a long tail and a row of spines along its back,3.666666667,3.666666667,0,3.666666667,3,1.333333333,4.666666667,4.666666667,3,2.666666667,4.666666667,2.333333333
+DreamFusion,A spiky lizard with jagged wings and uneven scales on its body,4,1.333333333,0,2,2,2,4,4,3,2.333333333,4.333333333,2
+DreamFusion,A spoon in a bowl,3.333333333,0,3,3,2,2,5,4,4,2,3.333333333,2.333333333
+DreamFusion,"A spruce tree with sharp, triangular needles and a slightly curved trunk",1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A square camera,1.666666667,2,0,1.666666667,1,1,2.666666667,4,4,1.333333333,1.666666667,1
+DreamFusion,A square mirror surrounded by blooming flowers,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A squirrel eating a donut,1,0,1,1,1,1,1,1,1,1,1,1
+DreamFusion,A squirrel jumping from a tree with an acorn in its mouth,1,1,1,1,1,1,1,1,1,1,1,1
+DreamFusion,A squirrel wearing a tuxedo and holding a conductor's baton,1,1,1,1,1,1,1,1,1,1,1,1
+DreamFusion,A starfish inside a seashell,3.333333333,0,3.333333333,3,3,2.333333333,4.333333333,4,3,3,3.666666667,2
+DreamFusion,A steak and potatoes,1,0,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A steaming basket full of dumplings,2.333333333,2.333333333,0,2.333333333,2,2,4,3.666666667,3.333333333,2.333333333,4,2.666666667
+DreamFusion,A stone arched bridge with a hole on the surface,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A stone castle,2,1.333333333,0,1.333333333,2.333333333,2.333333333,3,2.333333333,3.666666667,2,3,2
+DreamFusion,A stool below a table,3,0,2,2,3,3,4.333333333,4.333333333,3.333333333,3,4.666666667,3
+DreamFusion,A stool with legs like an elephant's leg and a seat like a mushroom top,4.333333333,2.333333333,0,3,3,2.333333333,4,4.333333333,2.666666667,3,4,2
+DreamFusion,"A striped tiger with orange fur, black stripes, and green eyes",3.666666667,4,0,4,3,2,3.666666667,4,2.333333333,2.333333333,4,2.666666667
+DreamFusion,A sunflower next to a rose,1,0,1,1,2.333333333,2.333333333,3,3,3,1.666666667,1,1
+DreamFusion,"A sunflower with a circular head, slender petals and dense foliage",1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A sunflower with a diamond center,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A sunflower with metallic petals and a brown clock face in the middle,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A sunflower with yellow petals and a dark brown center,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A swan inside a crystal,3,0,3.666666667,3,2,2,3.666666667,3.333333333,3,2,3,3
+DreamFusion,A symmetrical bridge,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A symmetrical dragonfly with wings made of light-colored glass,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A table with a top like a leaf and legs like branches,4,4,0,4,3,2.666666667,4,5,3,2.666666667,4.333333333,3.666666667
+DreamFusion,A tall brown-furred giraffe,3,3,0,3,1.666666667,2,2,3.333333333,2.666666667,2,4,2
+DreamFusion,A teddy bear with a red bow,2,2.333333333,0,2,2,2,2,3.333333333,3.666666667,2,1.666666667,1.333333333
+DreamFusion,"A television, decorated with gold and inlaid with jewels",1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A tiger dressed as a doctor,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A tiger driving a car,4.666666667,0,4.666666667,4.666666667,3,3,4,4,3,3,3,3.5
+DreamFusion,A tiger outside a house,1,0,1,1,1,1,1,1,1,1,1,1
+DreamFusion,A tiger warrior next to a stone castle,2,3,2,2.333333333,2,1.333333333,2.666666667,2,3,1.666666667,2,2
+DreamFusion,A tiny shark wearing a racing driver's suit and a helmet on its head,1.333333333,2,0,1.666666667,2.333333333,2,2.333333333,4,3,2,3,2
+DreamFusion,A tortoise with a shell that looks like stained glass,4,4.666666667,0,4,3,2,4,4,3,3,4,3.333333333
+DreamFusion,A tower with a pointed top,2,5,0,3,2,1.333333333,4,4.333333333,3,2.333333333,5,3
+DreamFusion,A tree with silver bark,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A truck hauling a box,4,0,2.666666667,3,2.333333333,2,4,4,3,2.333333333,4,2
+DreamFusion,A vintage rocking chair with curved arms and a woven cane seat,4.666666667,4,0,4,2.666666667,2,4,4.666666667,2.666666667,2.666666667,5,3
+DreamFusion,A watermelon with golden and silver stripes,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A whale inside a bag,3,0,3,3,3,2,4,4,4,3,4,1.666666667
+DreamFusion,A white ceramic vase with floral motifs,4,2.333333333,0,3,2,1.333333333,5,4.666666667,2.666666667,2,4,2
+DreamFusion,A white dog with wings,4,3,0,3.333333333,2.333333333,2,4,3,3,2,2.666666667,2.666666667
+DreamFusion,"A white headphones with soft, padded ear cups and a black headband",1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A white milk carton with a yellow logo,5,4.333333333,0,4.333333333,3,2.666666667,5,5,1.666666667,3,5,3.333333333
+DreamFusion,A white rabbit nibbling on a carrot,4,4,4,4,3,2.666666667,5,4,3,3.333333333,3.333333333,3.333333333
+DreamFusion,A white rabbit with round ears,5,3,0,4,3,2,3.333333333,4,3,2.666666667,5,3
+DreamFusion,A white scarf with fringed edges,2.333333333,2.333333333,0,2.333333333,3,2.666666667,3,3,3.333333333,3,1,1
+DreamFusion,A wide hat,4,4.333333333,0,4,3,3,4.333333333,4,4,3.666666667,4.666666667,3
+DreamFusion,A wide-brimmed straw hat with a black ribbon and a woven texture,3,3,0,3,2.666666667,2,3.666666667,4,3,2.333333333,4,2.666666667
+DreamFusion,A willow tree with silvery branches and a slender trunk,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A wooden apple above a brass plate,2,1.666666667,1.666666667,1.333333333,2.333333333,2,3.333333333,3.333333333,3.333333333,2.333333333,4,2
+DreamFusion,A wooden chair with a cushioned seat placed next to a round table,3,2,2,2,2,2,4,5,3,2.666666667,4,2
+DreamFusion,A wooden desk with square drawers,4,3.333333333,0,3.333333333,2,2,4.333333333,3,4,2.333333333,4,3
+DreamFusion,A wooden dining table with cylindrical legs,4,3,0,3.333333333,3,2,3,4.666666667,2.666666667,2.333333333,4.666666667,3
+DreamFusion,A wooden guitar with a curved body and metal strings,3,1.333333333,0,2,2,2,3,4,3.666666667,2.666666667,3.666666667,2
+DreamFusion,A wooden house,2,2.333333333,0,2,2,1.666666667,2.666666667,4,2.666666667,2,4,2
+DreamFusion,A wooden violin,4.333333333,3,0,3.333333333,2.333333333,2,2.666666667,4,3,2.333333333,4,2.333333333
+DreamFusion,A yellow banana with brown spots,3,4,0,3.333333333,3,2.333333333,5,5,3.666666667,3,3,2.666666667
+DreamFusion,A yellow canary with a pointed beak and a copper crest on its head,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,An apple next to a banana,3,0,2,2,2,2,4,4.666666667,4,2.666666667,5,2.666666667
+DreamFusion,An earring designed as miniature chandeliers adorned with crystals,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,An octopus playing the piano,4,0,4,4,3,2.666666667,4,4,3,3,3.333333333,3.666666667
+DreamFusion,"An office building with a flat roof, and evenly spaced windows",1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,An olive-shaped metal leaf,3,3,0,3,2,2,4.666666667,4,4,3,3.666666667,2.333333333
+DreamFusion,An orange cat with a long tail,3.333333333,3.666666667,0,3.333333333,3,2.333333333,3.333333333,5,4,3,4,2.666666667
+DreamFusion,An orange square chimney,4,4.666666667,0,4,3,2.666666667,4,4.333333333,3,3,4.666666667,3
+DreamFusion,"An oval-shaped hummingbird with thin legs, and a pointed beak",2,1.333333333,0,1.666666667,2,1,2.333333333,4,4,2,4,2
+DreamFusion,An owl on a boat,3,0,4,3,2,2,3.333333333,3,3,2,3,2.666666667
+DreamFusion,An umbrella with a curved handle,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,Several quadrangle stars on the surface of a coffee cup,1,1,0,1,1,1,1,1,1,1,1,1
+Hunyuan,A spiked dragon,4,4.333333333,0,4,4,4,2.333333333,4,4,3.333333333,5,3.333333333
+Hunyuan,A spiky green iguana with a long tail and a row of spines along its back,5,5,0,5,4.666666667,4,5,4,5,4.333333333,5,5
+Hunyuan,A spiky lizard with jagged wings and uneven scales on its body,5,3.333333333,0,3.666666667,4.666666667,4,4.666666667,5,4.666666667,4,5,3.666666667
+Hunyuan,A spoon in a bowl,5,0,4,4.666666667,5,4,5,5,5,4.666666667,5,4.666666667
+Hunyuan,"A spruce tree with sharp, triangular needles and a slightly curved trunk",4,2,0,2.333333333,3.333333333,4,4,4,4,4,4.666666667,2.666666667
+Hunyuan,A square camera,5,5,0,5,5,5,5,5,5,5,5,5
+Hunyuan,A square mirror surrounded by blooming flowers,3,3,0,3,4,3.333333333,4,4,4,4,3.333333333,2.666666667
+Hunyuan,A squirrel eating a donut,5,0,5,5,5,4,5,4,4.333333333,4.333333333,4,4
+Hunyuan,A squirrel jumping from a tree with an acorn in its mouth,3,3,2,2,5,4.666666667,5,5,5,5,5,4
+Hunyuan,A squirrel wearing a tuxedo and holding a conductor's baton,5,5,5,5,5,4.666666667,5,5,5,5,5,5
+Hunyuan,A starfish inside a seashell,4,0,4.333333333,4,5,4,4,4.666666667,4.666666667,4,4.666666667,4
+Hunyuan,A steak and potatoes,5,0,0,5,5,4,5,4.333333333,4.666666667,4.666666667,5,5
+Hunyuan,A steaming basket full of dumplings,5,5,0,5,4.333333333,4,5,5,5,4,5,4
+Hunyuan,A stone arched bridge with a hole on the surface,5,5,0,5,5,4,5,5,4.666666667,5,5,5
+Hunyuan,A stone castle,5,5,0,5,5,4.666666667,5,5,4.666666667,5,5,5
+Hunyuan,A stool below a table,3,0,2,2,5,5,5,5,5,5,5,4
+Hunyuan,A stool with legs like an elephant's leg and a seat like a mushroom top,5,2,0,2.333333333,5,5,5,5,5,5,5,4
+Hunyuan,"A striped tiger with orange fur, black stripes, and green eyes",5,4,0,4.333333333,5,4.666666667,5,4.333333333,5,4.666666667,5,4.333333333
+Hunyuan,A sunflower next to a rose,3,0,2,2,5,5,5,5,4.666666667,5,5,4
+Hunyuan,"A sunflower with a circular head, slender petals and dense foliage",5,5,0,5,5,4.666666667,5,5,4.333333333,5,5,5
+Hunyuan,A sunflower with a diamond center,5,5,0,5,5,5,5,5,5,5,5,5
+Hunyuan,A sunflower with metallic petals and a brown clock face in the middle,1,2,0,2,5,4.666666667,5,4,5,4.666666667,4,2
+Hunyuan,A sunflower with yellow petals and a dark brown center,5,5,0,5,5,5,5,5,5,5,5,4.666666667
+Hunyuan,A swan inside a crystal,4,0,4,4,4.666666667,4,5,5,4.666666667,4.333333333,5,3.666666667
+Hunyuan,A symmetrical bridge,2,4,0,2.333333333,4,4,4,4,4,4,4,3.666666667
+Hunyuan,A symmetrical dragonfly with wings made of light-colored glass,5,5,0,5,5,4.666666667,5,4.333333333,5,4.666666667,5,5
+Hunyuan,A table with a top like a leaf and legs like branches,4.666666667,3,0,4,4,3.333333333,4.333333333,4.666666667,5,4,4.666666667,3.333333333
+Hunyuan,A tall brown-furred giraffe,4.666666667,4.666666667,0,4.666666667,5,4.666666667,5,5,5,5,4.666666667,4.666666667
+Hunyuan,A teddy bear with a red bow,4,5,0,5,5,4,5,5,5,4.333333333,5,4
+Hunyuan,"A television, decorated with gold and inlaid with jewels",5,5,0,5,5,5,5,5,5,5,3,4
+Hunyuan,A tiger dressed as a doctor,5,5,0,5,5,5,5,5,5,5,5,4
+Hunyuan,A tiger driving a car,5,0,5,5,5,4,4,4.666666667,4.666666667,4.333333333,5,4
+Hunyuan,A tiger outside a house,4.666666667,0,4.666666667,4.666666667,5,4,4,5,4.333333333,4.333333333,5,4
+Hunyuan,A tiger warrior next to a stone castle,3,1,2.666666667,2.333333333,4,4,5,5,4.666666667,4,5,3
+Hunyuan,A tiny shark wearing a racing driver's suit and a helmet on its head,4,5,0,4,5,5,5,5,5,5,4,4
+Hunyuan,A tortoise with a shell that looks like stained glass,5,5,0,5,5,5,5,5,5,5,5,4.666666667
+Hunyuan,A tower with a pointed top,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Hunyuan,A tree with silver bark,4.666666667,3.333333333,0,4,4,4,5,4,4,4,4.666666667,4
+Hunyuan,A truck hauling a box,5,0,3.333333333,4,5,4.333333333,5,5,5,4.666666667,5,4
+Hunyuan,A vintage rocking chair with curved arms and a woven cane seat,5,3,0,4,4.666666667,4,5,5,5,5,5,4.333333333
+Hunyuan,A watermelon with golden and silver stripes,4,4.333333333,0,4,5,4,4,4,5,4,5,4.333333333
+Hunyuan,A whale inside a bag,5,0,4.666666667,4.666666667,4.666666667,4,5,5,5,4.333333333,5,4.5
+Hunyuan,A white ceramic vase with floral motifs,5,5,0,5,5,4,5,4,5,4.666666667,5,4
+Hunyuan,A white dog with wings,5,5,0,5,4.333333333,4,4,4,4,4,5,4
+Hunyuan,"A white headphones with soft, padded ear cups and a black headband",5,5,0,5,5,4.333333333,5,5,5,5,5,4.666666667
+Hunyuan,A white milk carton with a yellow logo,5,5,0,5,5,4,5,5,5,5,5,5
+Hunyuan,A white rabbit nibbling on a carrot,5,5,4.666666667,4.666666667,5,4,5,5,5,4.333333333,5,4
+Hunyuan,A white rabbit with round ears,5,3,0,4,4.666666667,4,4.666666667,4,5,4,4,3.666666667
+Hunyuan,A white scarf with fringed edges,4,4,0,4,4.666666667,4,4,5,4,4,5,4
+Hunyuan,A wide hat,5,5,0,5,4.666666667,3.666666667,4,5,5,4,5,4.666666667
+Hunyuan,A wide-brimmed straw hat with a black ribbon and a woven texture,5,4.666666667,0,4.666666667,5,4,4,5,4,4.333333333,5,4.333333333
+Hunyuan,A willow tree with silvery branches and a slender trunk,5,4,0,4,5,4,5,4,4,4.333333333,5,4.333333333
+Hunyuan,A wooden apple above a brass plate,5,5,5,5,5,4,5,5,4.333333333,4,5,4.333333333
+Hunyuan,A wooden chair with a cushioned seat placed next to a round table,3,3,2.666666667,2.666666667,5,5,5,5,5,5,5,4
+Hunyuan,A wooden desk with square drawers,5,5,0,5,5,4.333333333,5,5,5,5,5,4.666666667
+Hunyuan,A wooden dining table with cylindrical legs,5,4,0,4.333333333,5,4.666666667,5,5,5,5,5,4.333333333
+Hunyuan,A wooden guitar with a curved body and metal strings,5,5,0,5,5,5,5,5,5,5,5,4.666666667
+Hunyuan,A wooden house,5,5,0,5,5,4.333333333,5,5,4.333333333,5,5,5
+Hunyuan,A wooden violin,5,5,0,5,5,4.666666667,5,5,5,5,5,4.666666667
+Hunyuan,A yellow banana with brown spots,4.333333333,4,0,4,4,3.333333333,5,5,5,4,5,4.333333333
+Hunyuan,A yellow canary with a pointed beak and a copper crest on its head,4.333333333,3.333333333,0,3.666666667,5,4.333333333,5,4.666666667,4.666666667,5,4.333333333,3.333333333
+Hunyuan,An apple next to a banana,5,0,5,5,5,5,4.333333333,4.666666667,5,4.666666667,5,4.333333333
+Hunyuan,An earring designed as miniature chandeliers adorned with crystals,4,5,0,4,5,5,5,5,5,5,5,5
+Hunyuan,An octopus playing the piano,5,0,5,5,4,4,5,5,4.666666667,4,5,4.333333333
+Hunyuan,"An office building with a flat roof, and evenly spaced windows",5,2,0,3,5,4,5,5,5,5,5,3.333333333
+Hunyuan,An olive-shaped metal leaf,5,5,0,5,5,5,5,5,5,5,5,5
+Hunyuan,An orange cat with a long tail,5,5,0,5,5,5,5,5,5,5,5,4.666666667
+Hunyuan,An orange square chimney,4,5,0,4,5,4.666666667,5,5,5,5,5,4
+Hunyuan,"An oval-shaped hummingbird with thin legs, and a pointed beak",5,5,0,5,4.666666667,3.333333333,5,5,5,4,4.666666667,4
+Hunyuan,An owl on a boat,5,0,5,5,5,5,5,4.666666667,4.666666667,4.666666667,5,5
+Hunyuan,An umbrella with a curved handle,5,5,0,5,5,5,5,5,5,5,5,5
+Hunyuan,Several quadrangle stars on the surface of a coffee cup,5,1.666666667,0,2,5,5,5,5,5,5,5,4
+LGM,A spiked dragon,3,2.333333333,0,2.666666667,3,3,3,3,3,2.666666667,4,2
+LGM,A spiky green iguana with a long tail and a row of spines along its back,1.333333333,1,0,1,1,1,1,1,1,1,1,1
+LGM,A spiky lizard with jagged wings and uneven scales on its body,1,1,0,1,1,1,1,1,1,1,1,1
+LGM,A spoon in a bowl,1,0,1,1,1,1,1,1,1,1,1,1
+LGM,"A spruce tree with sharp, triangular needles and a slightly curved trunk",1,1,0,1,2,2,1.333333333,1.666666667,2,1.333333333,2,1
+LGM,A square camera,2,3,0,2.333333333,3,2,2,3,3,2,3.333333333,2
+LGM,A square mirror surrounded by blooming flowers,2,3,0,2.666666667,2.333333333,2,4,3,3,2,3,2
+LGM,A squirrel eating a donut,2.333333333,0,2,2,3,3,4,3,2.333333333,2,3,2.666666667
+LGM,A squirrel jumping from a tree with an acorn in its mouth,1,1,1,1,1,1,1,1,1,1,1,1
+LGM,A squirrel wearing a tuxedo and holding a conductor's baton,3,3.333333333,3.333333333,3.333333333,3,2.666666667,3,3.333333333,3,2.666666667,4,3
+LGM,A starfish inside a seashell,2,0,1.666666667,1.666666667,3.333333333,3.333333333,4,3,3,3,1.666666667,1.666666667
+LGM,A steak and potatoes,3.666666667,0,0,3.666666667,3,3,3,2.666666667,3,2.666666667,2.666666667,3
+LGM,A steaming basket full of dumplings,2.333333333,2,0,2,2.666666667,2.666666667,2,2,2.333333333,2,3,2
+LGM,A stone arched bridge with a hole on the surface,1,1,0,1,1,1,1,1,1,1,1,1
+LGM,A stone castle,4,4,0,4,2.333333333,2,2,3.333333333,3,2,4,2.666666667
+LGM,A stool below a table,3,0,2,2,3.333333333,3.333333333,3.666666667,4,4,3.666666667,4.333333333,2.333333333
+LGM,A stool with legs like an elephant's leg and a seat like a mushroom top,3.333333333,2,0,2,3,2.333333333,3,3.666666667,3.666666667,3,4,2
+LGM,"A striped tiger with orange fur, black stripes, and green eyes",3.666666667,3.333333333,0,3.333333333,2.333333333,3,2,2,2,2,4,2
+LGM,A sunflower next to a rose,3.666666667,0,4,4,3,3,2.666666667,2.666666667,3,2,3.333333333,3
+LGM,"A sunflower with a circular head, slender petals and dense foliage",1.666666667,1,0,1,2,1.666666667,1.666666667,2,3,1,2,2
+LGM,A sunflower with a diamond center,4,1.666666667,0,3,3,3.333333333,3,3.333333333,3.333333333,3,4,2.333333333
+LGM,A sunflower with metallic petals and a brown clock face in the middle,4.666666667,2.666666667,0,3.333333333,3,3.666666667,4,4,4,3,4.666666667,4
+LGM,A sunflower with yellow petals and a dark brown center,4.666666667,5,0,4.666666667,4,4,4,4,3.666666667,3.666666667,5,4
+LGM,A swan inside a crystal,1.666666667,0,1,1.333333333,2,2,2,2,2.333333333,1.666666667,2,1.666666667
+LGM,A symmetrical bridge,1.666666667,1,0,1.333333333,3,3,2.333333333,3,3.333333333,2,3.666666667,2
+LGM,A symmetrical dragonfly with wings made of light-colored glass,4,4,0,4,3.666666667,3.666666667,4,3.666666667,3.666666667,3.666666667,5,4
+LGM,A table with a top like a leaf and legs like branches,3,3,0,3,3,3,2.333333333,3.666666667,3,2.333333333,4.333333333,2
+LGM,A tall brown-furred giraffe,3.666666667,4,0,3.666666667,3,3,3,3,3,3,3,2
+LGM,A teddy bear with a red bow,4,3,0,3.333333333,3.333333333,4,3.666666667,3,3,3,4,3
+LGM,"A television, decorated with gold and inlaid with jewels",4,4,0,4,3.666666667,4,4,4,4,4,5,4
+LGM,A tiger dressed as a doctor,3.666666667,3,0,3.333333333,2.333333333,2.666666667,2,3,3,2,4,2
+LGM,A tiger driving a car,2,0,1.333333333,2,1.666666667,1.666666667,2,2.333333333,2.333333333,1.666666667,2.333333333,2
+LGM,A tiger outside a house,1.333333333,0,1.333333333,1.333333333,1,1,1,1,1,1,3,2
+LGM,A tiger warrior next to a stone castle,2,1,2,1.666666667,3,2.666666667,3,2,2.666666667,2,3,2
+LGM,A tiny shark wearing a racing driver's suit and a helmet on its head,1,2,0,1.666666667,3,3,3,4,3,3,4,2
+LGM,A tortoise with a shell that looks like stained glass,3,4,0,3,3,3,2,3.666666667,3,2,4,2.666666667
+LGM,A tower with a pointed top,4.666666667,5,0,4,3,2.666666667,4,4,3,3,5,3
+LGM,A tree with silver bark,1,1,0,1,1,1,1,1,1,1,1,1
+LGM,A truck hauling a box,3.333333333,0,3,3,3,3,3,3.333333333,3,3,4,2
+LGM,A vintage rocking chair with curved arms and a woven cane seat,3,1.666666667,0,2,3,2.333333333,3,2,3,2,3,2.333333333
+LGM,A watermelon with golden and silver stripes,4,3,0,3,3.333333333,3,4,4,4,3,4,2.333333333
+LGM,A whale inside a bag,3.333333333,0,3.666666667,3.666666667,3,3,4,4,4,3,3,2.666666667
+LGM,A white ceramic vase with floral motifs,4,4.333333333,0,4,3.666666667,3.333333333,5,3.666666667,4,4,5,3
+LGM,A white dog with wings,2.333333333,3,0,2.666666667,3,3,4,3.666666667,3,3,3,2
+LGM,"A white headphones with soft, padded ear cups and a black headband",4,4,0,4,3,3,2,3.666666667,3,2,3.333333333,2
+LGM,A white milk carton with a yellow logo,5,5,0,5,4,4,5,4,4,4,5,4
+LGM,A white rabbit nibbling on a carrot,4,4,3,3,3,3.333333333,4,3,3,3,3,3
+LGM,A white rabbit with round ears,4,2.333333333,0,3,4,3.333333333,4,4,3,3.666666667,4.333333333,2.333333333
+LGM,A white scarf with fringed edges,4,3,0,3.333333333,3,3,2.333333333,3.666666667,3,2.333333333,5,3
+LGM,A wide hat,3,4,0,4,3,3,3,2,3,2,4,2
+LGM,A wide-brimmed straw hat with a black ribbon and a woven texture,4,2.333333333,0,3,3,3.666666667,3.666666667,4,4,3,4,2
+LGM,A willow tree with silvery branches and a slender trunk,2.333333333,2,0,2,2,2.333333333,3,2,3,2,2,2
+LGM,A wooden apple above a brass plate,3,3,4,3,3,3,4,4,3,3,4.5,3.333333333
+LGM,A wooden chair with a cushioned seat placed next to a round table,2.333333333,2,2,2,3,3,3,3,3,3,4,2
+LGM,A wooden desk with square drawers,4.333333333,4,0,4,3,4,5,4,3.666666667,4,5,3
+LGM,A wooden dining table with cylindrical legs,4,2.333333333,0,3,3,3,2,3,3,2.333333333,4,2.333333333
+LGM,A wooden guitar with a curved body and metal strings,4,3.333333333,0,4,3,3.666666667,3,4,3,3,4.666666667,3
+LGM,A wooden house,4,3.333333333,0,4,3,3,3,4,3.666666667,3,4,3
+LGM,A wooden violin,2,2,0,2,2.666666667,2.666666667,2,1.666666667,3.333333333,2,4,2
+LGM,A yellow banana with brown spots,4.333333333,5,0,4.333333333,4,4,5,4,4,4,5,4
+LGM,A yellow canary with a pointed beak and a copper crest on its head,4,2.666666667,0,3,3,3.333333333,4,3,3,3,4.666666667,3
+LGM,An apple next to a banana,3.666666667,0,4,3.666666667,3,3,3.333333333,3,3,3,3,3
+LGM,An earring designed as miniature chandeliers adorned with crystals,2,2.666666667,0,2.333333333,2.333333333,2.333333333,3.666666667,2.666666667,3,2.333333333,4,3
+LGM,An octopus playing the piano,2,0,1.333333333,2,2.666666667,2,3.333333333,2,2.333333333,2,2,2
+LGM,"An office building with a flat roof, and evenly spaced windows",2,2.666666667,0,2,3,2.333333333,1.333333333,3,3,2,4,2
+LGM,An olive-shaped metal leaf,4,3.333333333,0,3.666666667,3,3,4,4,3.666666667,3,4,3
+LGM,An orange cat with a long tail,3,2,0,3,3,3,3.333333333,3,3,3,4,2
+LGM,An orange square chimney,2.333333333,3,0,2.333333333,3,3,3.333333333,3.333333333,3.333333333,3,4,2
+LGM,"An oval-shaped hummingbird with thin legs, and a pointed beak",2.333333333,2,0,2,3,2.666666667,2,3.666666667,3,2,3,2
+LGM,An owl on a boat,1.333333333,0,1.333333333,1.333333333,1,1,1,1,1,1,4,1.333333333
+LGM,An umbrella with a curved handle,4,5,0,4,3,3,3,4,3,3.333333333,5,3
+LGM,Several quadrangle stars on the surface of a coffee cup,1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A spiked dragon,2.333333333,4,0,3,2.666666667,2,4,2.333333333,2,2,3,2.333333333
+Magic3D,A spiky green iguana with a long tail and a row of spines along its back,4,3,0,3,2,2,4,3,2,2,3,2.333333333
+Magic3D,A spiky lizard with jagged wings and uneven scales on its body,2,1.333333333,0,2,2.666666667,2,3,3,2,2,2,1.666666667
+Magic3D,A spoon in a bowl,1,0,1,1,1,1,1,1,1,1,1,1
+Magic3D,"A spruce tree with sharp, triangular needles and a slightly curved trunk",1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A square camera,2,4,0,2.666666667,2,1,3,3,3.333333333,2,2,2
+Magic3D,A square mirror surrounded by blooming flowers,1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A squirrel eating a donut,4,0,4,4,2,2,4.666666667,4,3,2,4.333333333,3
+Magic3D,A squirrel jumping from a tree with an acorn in its mouth,2.333333333,1,2.666666667,2.333333333,2,2,4,4.666666667,3,2,4,2
+Magic3D,A squirrel wearing a tuxedo and holding a conductor's baton,2,1,1.333333333,1.666666667,2,2,3.333333333,4,3.333333333,2.333333333,3.333333333,2
+Magic3D,A starfish inside a seashell,4,0,4.333333333,4,3,2.333333333,4,3.333333333,3,3,2.666666667,2
+Magic3D,A steak and potatoes,3.666666667,0,0,3.666666667,3,2,4.333333333,4,3,3,3,3
+Magic3D,A steaming basket full of dumplings,3,2.333333333,0,3,2.666666667,2,4,3.666666667,2.333333333,2.666666667,4,3
+Magic3D,A stone arched bridge with a hole on the surface,1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A stone castle,4.333333333,4.333333333,0,4.333333333,2,2,4,4,3,2.666666667,4.666666667,3
+Magic3D,A stool below a table,2.666666667,0,2,2.333333333,2.666666667,2,4,5,2,2.666666667,5,2.666666667
+Magic3D,A stool with legs like an elephant's leg and a seat like a mushroom top,4,2.333333333,0,3,3,2.666666667,4.333333333,4.333333333,2,3,4,2
+Magic3D,"A striped tiger with orange fur, black stripes, and green eyes",4,3.666666667,0,4,3,1.333333333,2.333333333,3.666666667,2,2,3.666666667,2.333333333
+Magic3D,A sunflower next to a rose,2,0,2,2,2,2,3,3,3,2,2.666666667,2
+Magic3D,"A sunflower with a circular head, slender petals and dense foliage",1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A sunflower with a diamond center,1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A sunflower with metallic petals and a brown clock face in the middle,1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A sunflower with yellow petals and a dark brown center,2,2.333333333,0,2,2,1.666666667,2,4,2,2,3,2
+Magic3D,A swan inside a crystal,3,0,2,2,2.666666667,2,2.333333333,4,3,2,3,2.333333333
+Magic3D,A symmetrical bridge,1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A symmetrical dragonfly with wings made of light-colored glass,3.333333333,3,0,3,1.666666667,1,4.333333333,3,2,1.333333333,4,3
+Magic3D,A table with a top like a leaf and legs like branches,4,4.333333333,0,4,2.666666667,2,3,4,2,2.666666667,4.333333333,3
+Magic3D,A tall brown-furred giraffe,4,5,0,4,2.333333333,1.333333333,4,4,3,2,4.666666667,3
+Magic3D,A teddy bear with a red bow,3,3.666666667,0,3,2.666666667,2.333333333,4,2.666666667,3.666666667,2.333333333,3.666666667,2.333333333
+Magic3D,"A television, decorated with gold and inlaid with jewels",1,1,0,1,2,1,3,4,3,2,2.666666667,2
+Magic3D,A tiger dressed as a doctor,4,4.333333333,0,4.333333333,3,2.333333333,4,4,3,3,3,3
+Magic3D,A tiger driving a car,4,0,4,4,2.666666667,2,4,4,3,2.666666667,3,3.333333333
+Magic3D,A tiger outside a house,2,0,2,2,2.333333333,2.333333333,3.333333333,4,3,2.666666667,4,2.333333333
+Magic3D,A tiger warrior next to a stone castle,2,3,2.333333333,2,3,2.333333333,3.333333333,4,3.333333333,3,3,2.666666667
+Magic3D,A tiny shark wearing a racing driver's suit and a helmet on its head,2.666666667,1,0,2,1,1,1,1,1,1,4,2
+Magic3D,A tortoise with a shell that looks like stained glass,4,3.666666667,0,4,3,2,5,4.666666667,2,3,3,3
+Magic3D,A tower with a pointed top,4.333333333,5,0,4.333333333,3,2,4,4,3,3.333333333,5,3
+Magic3D,A tree with silver bark,1,2,0,1.333333333,1,1,1,1,1,1,1,1
+Magic3D,A truck hauling a box,3.666666667,0,3,3,3,2,3,4,3,2.666666667,4,2.666666667
+Magic3D,A vintage rocking chair with curved arms and a woven cane seat,4,3,0,3.333333333,2,1.333333333,4,5,1.666666667,2,5,3
+Magic3D,A watermelon with golden and silver stripes,4,3,0,3,3,2,4,4,3,3,5,2
+Magic3D,A whale inside a bag,3,0,3,2.666666667,3,2,4,4,4,2.666666667,3,2
+Magic3D,A white ceramic vase with floral motifs,4.333333333,3,0,3.333333333,3,3,4,3.333333333,3,3,4.333333333,3
+Magic3D,A white dog with wings,4,4,0,4,3,2,3,3,2.333333333,2,3,3
+Magic3D,"A white headphones with soft, padded ear cups and a black headband",1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A white milk carton with a yellow logo,4,4.333333333,0,4,3,2,3.333333333,3.666666667,3,3,4,3
+Magic3D,A white rabbit nibbling on a carrot,4,4,3,3.333333333,3,3,4,4.333333333,3.666666667,3,4,3.333333333
+Magic3D,A white rabbit with round ears,4,3,0,3,3,2.666666667,4.666666667,4,4,3.333333333,3,2.333333333
+Magic3D,A white scarf with fringed edges,1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A wide hat,4.333333333,4.333333333,0,4.333333333,2.666666667,2.333333333,4,3.666666667,3.666666667,3,4,3
+Magic3D,A wide-brimmed straw hat with a black ribbon and a woven texture,5,4,0,4,3,3,5,4.666666667,2,3.666666667,5,3.333333333
+Magic3D,A willow tree with silvery branches and a slender trunk,2.333333333,3,0,2.666666667,2,2,4,3,3,2,3,2
+Magic3D,A wooden apple above a brass plate,3,2,4,2.333333333,2.666666667,2,4,4,3.333333333,3,4,3
+Magic3D,A wooden chair with a cushioned seat placed next to a round table,3,3.333333333,2,3,2.333333333,2.333333333,5,4.666666667,3.333333333,2.666666667,4.666666667,3
+Magic3D,A wooden desk with square drawers,3.333333333,4,0,3,3,2,3.333333333,4,3.333333333,2.333333333,4,2
+Magic3D,A wooden dining table with cylindrical legs,4,4,0,4,2,2,3,5,2,2.333333333,5,3.333333333
+Magic3D,A wooden guitar with a curved body and metal strings,4.333333333,3,0,3.666666667,3,2,4,4,3,3,4,2.333333333
+Magic3D,A wooden house,4,3.333333333,0,3.666666667,2.666666667,2,4,4,3,2.666666667,4.666666667,2.666666667
+Magic3D,A wooden violin,4,5,0,4,2.333333333,2,4,3,3,2,3,2.666666667
+Magic3D,A yellow banana with brown spots,4,4,0,4,3,2.333333333,4,3,3.666666667,3,3,3
+Magic3D,A yellow canary with a pointed beak and a copper crest on its head,3.666666667,3.333333333,0,3,3.333333333,3,3,4,4,3,4,2.333333333
+Magic3D,An apple next to a banana,4,0,5,4,2,2,4,3,2.333333333,2.333333333,3,3.333333333
+Magic3D,An earring designed as miniature chandeliers adorned with crystals,3,3,0,3,2,2,4,4.666666667,2,2,4,2
+Magic3D,An octopus playing the piano,4.333333333,0,4.666666667,4.333333333,3,3,4,4.666666667,3,3,5,4
+Magic3D,"An office building with a flat roof, and evenly spaced windows",1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,An olive-shaped metal leaf,4,4,0,4,2.666666667,2,4,4,3,2.666666667,5,3.666666667
+Magic3D,An orange cat with a long tail,3.333333333,3,0,3,3,3,3,4.333333333,3.666666667,3,4.333333333,3
+Magic3D,An orange square chimney,4,4.666666667,0,4,3,3,4,3,3,3,4.666666667,3
+Magic3D,"An oval-shaped hummingbird with thin legs, and a pointed beak",3,2.666666667,0,3,2,1,2,3.666666667,2.333333333,1.666666667,4,1.666666667
+Magic3D,An owl on a boat,3,0,4,3,2.333333333,2,3,4,3,2,3,3.333333333
+Magic3D,An umbrella with a curved handle,3.666666667,2,0,3,2,1.333333333,3,3.666666667,1,1.666666667,4.666666667,2.333333333
+Magic3D,Several quadrangle stars on the surface of a coffee cup,1,1,0,1,1,1,1,1,1,1,1,1
+Meshy,A spiked dragon,5,5,0,5,5,4,5,5,5,5,5,5
+Meshy,A spiky green iguana with a long tail and a row of spines along its back,5,4.333333333,0,4.333333333,4,4,5,4.666666667,5,4,5,3.333333333
+Meshy,A spiky lizard with jagged wings and uneven scales on its body,4,3,0,4,4.333333333,4,5,5,5,4.666666667,5,4
+Meshy,A spoon in a bowl,5,0,5,5,4.666666667,4,5,5,4,4,5,4.333333333
+Meshy,"A spruce tree with sharp, triangular needles and a slightly curved trunk",4.666666667,2,0,3,4,4,5,4.666666667,5,4.333333333,5,4
+Meshy,A square camera,5,5,0,5,5,4,5,5,5,4.333333333,5,4
+Meshy,A square mirror surrounded by blooming flowers,5,5,0,5,5,5,5,5,5,5,5,5
+Meshy,A squirrel eating a donut,5,0,5,5,4.666666667,3,5,5,4.666666667,4,4,4.333333333
+Meshy,A squirrel jumping from a tree with an acorn in its mouth,3,4.666666667,2,3.333333333,5,3.666666667,5,4.666666667,5,4,5,3.666666667
+Meshy,A squirrel wearing a tuxedo and holding a conductor's baton,5,5,5,5,5,4,5,4.333333333,4.666666667,4.333333333,5,5
+Meshy,A starfish inside a seashell,4.333333333,0,4.333333333,4.333333333,4,4,4,4,4,4,3,2.666666667
+Meshy,A steak and potatoes,5,0,0,5,5,4,5,5,5,4.666666667,5,4.666666667
+Meshy,A steaming basket full of dumplings,5,5,0,5,4,4,5,4.333333333,4,4,5,5
+Meshy,A stone arched bridge with a hole on the surface,5,5,0,5,4.666666667,4.666666667,5,5,4.333333333,4.666666667,5,5
+Meshy,A stone castle,5,5,0,5,4.666666667,4,5,4.666666667,4.666666667,5,3.666666667,4
+Meshy,A stool below a table,3,0,2,2.333333333,5,4,5,5,5,4.666666667,5,3.666666667
+Meshy,A stool with legs like an elephant's leg and a seat like a mushroom top,5,4.333333333,0,5,4.666666667,4,5,5,5,4.333333333,4.333333333,4.333333333
+Meshy,"A striped tiger with orange fur, black stripes, and green eyes",5,5,0,5,4,4.333333333,5,5,5,5,5,4.333333333
+Meshy,A sunflower next to a rose,5,0,5,5,5,4,5,5,5,5,5,4.333333333
+Meshy,"A sunflower with a circular head, slender petals and dense foliage",5,4.666666667,0,4.666666667,4.666666667,4.666666667,5,4,4,4.333333333,5,4
+Meshy,A sunflower with a diamond center,5,5,0,5,5,4,4.666666667,4.333333333,5,5,5,5
+Meshy,A sunflower with metallic petals and a brown clock face in the middle,4.666666667,5,0,4.666666667,4.666666667,4.666666667,5,4.333333333,4.666666667,4.666666667,3,4.333333333
+Meshy,A sunflower with yellow petals and a dark brown center,5,5,0,5,5,5,5,5,5,5,5,5
+Meshy,A swan inside a crystal,4.333333333,0,4,4,5,4,5,5,4,4,3,3
+Meshy,A symmetrical bridge,5,5,0,5,4.666666667,4.333333333,5,5,5,4.666666667,5,5
+Meshy,A symmetrical dragonfly with wings made of light-colored glass,5,4.333333333,0,4.333333333,4.666666667,4,5,5,5,4.333333333,5,4
+Meshy,A table with a top like a leaf and legs like branches,5,3,0,4,5,4,5,5,5,5,5,3.333333333
+Meshy,A tall brown-furred giraffe,5,4.666666667,0,4.666666667,4.666666667,4,5,5,4.666666667,4,5,3.333333333
+Meshy,A teddy bear with a red bow,5,5,0,5,5,5,5,5,3,5,5,5
+Meshy,"A television, decorated with gold and inlaid with jewels",5,5,0,5,4.666666667,4.333333333,5,5,4.666666667,4.333333333,5,4.333333333
+Meshy,A tiger dressed as a doctor,5,5,0,5,5,3,5,5,5,4.333333333,4.333333333,4
+Meshy,A tiger driving a car,5,0,5,5,4,4,5,4.666666667,5,4,5,4.5
+Meshy,A tiger outside a house,3,0,2,2.333333333,5,4,5,5,5,4.666666667,5,3.333333333
+Meshy,A tiger warrior next to a stone castle,3,1,2,2.333333333,4.666666667,4.666666667,5,4,4.333333333,4,5,3.5
+Meshy,A tiny shark wearing a racing driver's suit and a helmet on its head,5,5,0,5,5,4.666666667,5,5,4.666666667,4.666666667,5,5
+Meshy,A tortoise with a shell that looks like stained glass,5,4.666666667,0,5,5,5,5,5,4.333333333,5,5,4.666666667
+Meshy,A tower with a pointed top,5,5,0,5,3.666666667,4,5,4.333333333,5,4.666666667,5,4.666666667
+Meshy,A tree with silver bark,4.666666667,5,0,4.666666667,4,3.666666667,4.666666667,4.666666667,5,4,5,4
+Meshy,A truck hauling a box,4,0,3,3,5,4.333333333,5,5,5,5,5,4.666666667
+Meshy,A vintage rocking chair with curved arms and a woven cane seat,5,4,0,4.333333333,5,4,4.333333333,5,5,5,5,4
+Meshy,A watermelon with golden and silver stripes,4.333333333,3,0,3.666666667,5,3,5,5,5,4,3,3
+Meshy,A whale inside a bag,4,0,4,4,4,4,5,4.666666667,4,4.333333333,3,3
+Meshy,A white ceramic vase with floral motifs,5,5,0,5,5,4.333333333,5,5,5,5,5,4.666666667
+Meshy,A white dog with wings,5,5,0,5,4.666666667,4,5,4,4,4.333333333,5,4.333333333
+Meshy,"A white headphones with soft, padded ear cups and a black headband",5,4,0,4.333333333,5,4,5,5,5,5,5,4
+Meshy,A white milk carton with a yellow logo,5,5,0,5,5,4,5,5,5,5,5,5
+Meshy,A white rabbit nibbling on a carrot,5,5,5,5,5,4,4.666666667,5,5,4.333333333,5,4.333333333
+Meshy,A white rabbit with round ears,5,3,0,3.666666667,5,4.333333333,5,5,5,4.333333333,5,4
+Meshy,A white scarf with fringed edges,5,4,0,4,4,4,4,5,4,4,5,3.666666667
+Meshy,A wide hat,5,5,0,5,5,4,5,4,5,4.666666667,5,4
+Meshy,A wide-brimmed straw hat with a black ribbon and a woven texture,5,5,0,5,5,4.333333333,5,5,5,5,5,4.333333333
+Meshy,A willow tree with silvery branches and a slender trunk,5,5,0,5,4.666666667,4,5,5,5,4,5,4.333333333
+Meshy,A wooden apple above a brass plate,5,3.666666667,4,4,5,4.333333333,5,5,5,5,5,4
+Meshy,A wooden chair with a cushioned seat placed next to a round table,3,3,2.333333333,2.333333333,5,5,5,5,5,5,5,4
+Meshy,A wooden desk with square drawers,5,5,0,5,5,5,5,5,5,5,5,5
+Meshy,A wooden dining table with cylindrical legs,5,5,0,5,5,5,5,5,5,5,5,5
+Meshy,A wooden guitar with a curved body and metal strings,5,5,0,4,5,5,5,5,5,5,3,4
+Meshy,A wooden house,5,5,0,5,5,5,4.333333333,5,5,5,5,5
+Meshy,A wooden violin,5,5,0,5,5,4.333333333,5,4.333333333,5,5,5,4.666666667
+Meshy,A yellow banana with brown spots,5,5,0,5,5,4.666666667,5,5,5,5,5,4.666666667
+Meshy,A yellow canary with a pointed beak and a copper crest on its head,4,4,0,4,4,3,5,4,5,4,4.333333333,3.666666667
+Meshy,An apple next to a banana,5,0,5,5,5,4,5,4.666666667,4.666666667,4.333333333,5,4.333333333
+Meshy,An earring designed as miniature chandeliers adorned with crystals,4,5,0,4,5,4.666666667,5,5,5,5,5,4
+Meshy,An octopus playing the piano,4,0,4.666666667,4,4.666666667,4,4.333333333,3,4.333333333,3.333333333,3,3.333333333
+Meshy,"An office building with a flat roof, and evenly spaced windows",5,5,0,5,5,4.666666667,5,5,5,5,5,4.666666667
+Meshy,An olive-shaped metal leaf,5,5,0,5,5,5,5,5,5,5,5,5
+Meshy,An orange cat with a long tail,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Meshy,An orange square chimney,5,5,0,5,5,4.333333333,5,4,5,5,5,5
+Meshy,"An oval-shaped hummingbird with thin legs, and a pointed beak",4.333333333,4,0,4,4,3.333333333,5,5,5,4,4,4
+Meshy,An owl on a boat,4.333333333,0,4.333333333,4.333333333,4.666666667,3,5,4,5,4,3,3
+Meshy,An umbrella with a curved handle,5,5,0,5,4.666666667,4,4.666666667,5,5,4.666666667,5,4.666666667
+Meshy,Several quadrangle stars on the surface of a coffee cup,5,3,0,3.666666667,5,4,5,5,5,4.666666667,5,4.333333333
+One2345++,A spiked dragon,3.666666667,4,0,3.666666667,2.333333333,3,3,3.333333333,3,3,4,3
+One2345++,A spiky green iguana with a long tail and a row of spines along its back,3.666666667,4,0,3.666666667,2.666666667,2.666666667,3,3,3.333333333,3,4,2
+One2345++,A spiky lizard with jagged wings and uneven scales on its body,4,2.666666667,0,3,3,2.666666667,4.666666667,4,4,3,5,3
+One2345++,A spoon in a bowl,3,0,2,2,4,4,4,4,4,4,5,3
+One2345++,"A spruce tree with sharp, triangular needles and a slightly curved trunk",3.333333333,2,0,2.666666667,3,2.333333333,4,3,3.333333333,3,4,2
+One2345++,A square camera,5,5,0,5,4,4,5,4.666666667,4,4,5,4
+One2345++,A square mirror surrounded by blooming flowers,4.333333333,5,0,4.333333333,3.333333333,3.666666667,4,4,3,4,4.333333333,4
+One2345++,A squirrel eating a donut,5,0,3,4,4,3.333333333,5,4,4,4,4.666666667,4
+One2345++,A squirrel jumping from a tree with an acorn in its mouth,2.666666667,1,2.666666667,2,2.333333333,3,3.333333333,3.666666667,2.666666667,3,4,2.333333333
+One2345++,A squirrel wearing a tuxedo and holding a conductor's baton,4,4,4,4,3,3.333333333,4,4,3,3.333333333,4,3.333333333
+One2345++,A starfish inside a seashell,4.666666667,0,5,4.666666667,3,4,4.333333333,4,3.333333333,4,5,4
+One2345++,A steak and potatoes,4.333333333,0,0,4.333333333,4,4,4.666666667,4.333333333,4,4,5,3.666666667
+One2345++,A steaming basket full of dumplings,5,4.333333333,0,4.333333333,4,3.666666667,5,4,4,4,5,4
+One2345++,A stone arched bridge with a hole on the surface,3,4,0,3.666666667,2.333333333,3,4.333333333,4,4,3.333333333,4,3
+One2345++,A stone castle,5,4.333333333,0,4.333333333,3,3,4.333333333,4,3,3.333333333,5,3.333333333
+One2345++,A stool below a table,3,0,2,2,4,4,5,4,4,4,4.333333333,3
+One2345++,A stool with legs like an elephant's leg and a seat like a mushroom top,4.333333333,3,0,3.666666667,4,4,5,5,5,4.333333333,4,4
+One2345++,"A striped tiger with orange fur, black stripes, and green eyes",4,4.333333333,0,4,3,3,2.333333333,3.666666667,3.666666667,2.666666667,4.333333333,2.666666667
+One2345++,A sunflower next to a rose,2.666666667,0,2,2,3,3,3,3,3,3,3.333333333,2.666666667
+One2345++,"A sunflower with a circular head, slender petals and dense foliage",4,3,0,3.333333333,3,3,3,3.333333333,3,3,4,2.333333333
+One2345++,A sunflower with a diamond center,4.666666667,4.666666667,0,4.666666667,3.666666667,3,4,4,3,3.333333333,5,4
+One2345++,A sunflower with metallic petals and a brown clock face in the middle,4.666666667,4,0,4,3.333333333,4,3,4.333333333,4,3.666666667,5,4
+One2345++,A sunflower with yellow petals and a dark brown center,4,4,0,4,3,3,2,4.666666667,3,3,4,2.666666667
+One2345++,A swan inside a crystal,3,0,3,3,2.666666667,2.666666667,4,4.333333333,3.333333333,3,2.333333333,2
+One2345++,A symmetrical bridge,4,5,0,4,4,4,4.333333333,4,4,4,5,4
+One2345++,A symmetrical dragonfly with wings made of light-colored glass,5,5,0,5,4,4,4,4,4,4,5,4
+One2345++,A table with a top like a leaf and legs like branches,4,1.333333333,0,2,3,3,3,3.333333333,3.666666667,3,4,2
+One2345++,A tall brown-furred giraffe,4,4,0,4,3,3,3.666666667,4,3.333333333,3,4.333333333,2.666666667
+One2345++,A teddy bear with a red bow,4.666666667,5,0,4.666666667,4,4,4.666666667,5,4,4,5,4
+One2345++,"A television, decorated with gold and inlaid with jewels",4,3,0,3,4,4,4.333333333,4,4,4,5,3.666666667
+One2345++,A tiger dressed as a doctor,5,5,0,5,3,3,4,4,3,4,5,3.333333333
+One2345++,A tiger driving a car,4,0,4,4,3.333333333,4,3.666666667,3,3.666666667,3.333333333,4,3.333333333
+One2345++,A tiger outside a house,4,0,4,4,3,3,3.333333333,4,3.333333333,3,5,3
+One2345++,A tiger warrior next to a stone castle,4,0,5,4.333333333,3.333333333,3,3.666666667,4,3.333333333,3.666666667,4.333333333,3
+One2345++,A tiny shark wearing a racing driver's suit and a helmet on its head,5,5,0,5,4,4,4,4,4,4,5,4.5
+One2345++,A tortoise with a shell that looks like stained glass,4.666666667,4.333333333,0,4.333333333,4,4,4.333333333,5,3.666666667,4,5,3.666666667
+One2345++,A tower with a pointed top,3.333333333,5,0,4,3.666666667,3.666666667,4.666666667,4,4,3.666666667,5,4.333333333
+One2345++,A tree with silver bark,4,4,0,4,2.333333333,3,4,3.333333333,2.666666667,3,4.333333333,3
+One2345++,A truck hauling a box,4,0,3,3.333333333,4,4,4,4,4,4,4.666666667,3
+One2345++,A vintage rocking chair with curved arms and a woven cane seat,4,3.333333333,0,4,3.333333333,4,3,3,3,3.666666667,5,3.666666667
+One2345++,A watermelon with golden and silver stripes,4.333333333,3.666666667,0,3.666666667,3.666666667,3.666666667,4,5,4,4,3,2
+One2345++,A whale inside a bag,3,0,3,3,3,3,3,4,3.666666667,3.333333333,3,3
+One2345++,A white ceramic vase with floral motifs,5,4,0,4,4,4,5,4.333333333,5,4,5,4
+One2345++,A white dog with wings,3.666666667,4,0,4,2.666666667,2,3,4,3,3,4,3
+One2345++,"A white headphones with soft, padded ear cups and a black headband",4,4,0,4,3.666666667,3,3.333333333,4,3.666666667,3,4,3
+One2345++,A white milk carton with a yellow logo,5,5,0,5,3.333333333,4,4.333333333,4,4,4,5,4.666666667
+One2345++,A white rabbit nibbling on a carrot,4.666666667,4.666666667,4.666666667,4.666666667,4,4,4.666666667,4,4,4,5,4
+One2345++,A white rabbit with round ears,4,2.333333333,0,3,4,3,3.333333333,5,4,4,5,3
+One2345++,A white scarf with fringed edges,5,5,0,5,3.666666667,4,4,4,4,3.666666667,5,4
+One2345++,A wide hat,5,5,0,5,4,4.333333333,5,4,5,4.666666667,5,4.333333333
+One2345++,A wide-brimmed straw hat with a black ribbon and a woven texture,4,4.666666667,0,4,4,4,5,3.666666667,4,4,4.333333333,3.333333333
+One2345++,A willow tree with silvery branches and a slender trunk,3,3.333333333,0,3,2,2,2.333333333,3.333333333,3,2.333333333,4.5,3
+One2345++,A wooden apple above a brass plate,4.666666667,4,4,4,5,5,5,5,5,5,5,4.666666667
+One2345++,A wooden chair with a cushioned seat placed next to a round table,3,3.333333333,2,2.333333333,4,4,5,4,4,4,5,3.333333333
+One2345++,A wooden desk with square drawers,5,4,0,4,4,4,5,4.333333333,4.666666667,4,4.333333333,4
+One2345++,A wooden dining table with cylindrical legs,4.333333333,3,0,4,4,4,4,4,4.333333333,4,4,3.666666667
+One2345++,A wooden guitar with a curved body and metal strings,4,3,0,3.666666667,3,3,4,4,4,3.333333333,4.666666667,3
+One2345++,A wooden house,4.666666667,5,0,4.666666667,3.333333333,3.333333333,4.333333333,4,4,4,5,4
+One2345++,A wooden violin,4,4,0,4,4,3.666666667,5,4,4,4,5,4
+One2345++,A yellow banana with brown spots,5,5,0,5,4,4.666666667,5,5,5,4.666666667,5,4.666666667
+One2345++,A yellow canary with a pointed beak and a copper crest on its head,4,3.666666667,0,4,4,4,4.333333333,4,4,4,5,3
+One2345++,An apple next to a banana,5,0,5,5,4,4,4.333333333,4,4,4,5,4.333333333
+One2345++,An earring designed as miniature chandeliers adorned with crystals,3.333333333,3,0,3,2.666666667,3,3.333333333,2.333333333,3.333333333,3,5,3.333333333
+One2345++,An octopus playing the piano,4,0,4,4,3.666666667,3.666666667,3.666666667,3.666666667,4,3.666666667,4,3
+One2345++,"An office building with a flat roof, and evenly spaced windows",4.333333333,4.333333333,0,4.333333333,3,3.333333333,4.333333333,3.666666667,4.333333333,3.333333333,4,4
+One2345++,An olive-shaped metal leaf,4,4,0,4,4,4,4,4,4,4,4.333333333,3.666666667
+One2345++,An orange cat with a long tail,3,4.333333333,0,3.666666667,3,3,3.333333333,3.666666667,3.666666667,3.333333333,4.666666667,3
+One2345++,An orange square chimney,5,5,0,5,4,4.666666667,5,4,4,4,5,4
+One2345++,"An oval-shaped hummingbird with thin legs, and a pointed beak",3.333333333,2.666666667,0,2.666666667,2.333333333,2.333333333,2,4,3.666666667,3,3.666666667,2.666666667
+One2345++,An owl on a boat,4,0,4,4,4,3,4,4,4,3.666666667,3.333333333,3.333333333
+One2345++,An umbrella with a curved handle,4.666666667,5,0,4.666666667,4,4,3,4,5,4,4,3.333333333
+One2345++,Several quadrangle stars on the surface of a coffee cup,3,3,0,3,3,3,3,3,3,3,4,2.666666667
+Rodin,A spiked dragon,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A spiky green iguana with a long tail and a row of spines along its back,5,5,0,5,5,5,4.666666667,4.333333333,5,4.666666667,5,4.666666667
+Rodin,A spiky lizard with jagged wings and uneven scales on its body,5,2,0,3,4.666666667,5,5,5,5,5,5,3.333333333
+Rodin,A spoon in a bowl,5,0,5,5,5,4.333333333,5,5,5,4.666666667,5,4.666666667
+Rodin,"A spruce tree with sharp, triangular needles and a slightly curved trunk",4.333333333,4,0,4,4,4,4,4.666666667,4,4,5,3.666666667
+Rodin,A square camera,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A square mirror surrounded by blooming flowers,5,5,0,5,5,5,4.666666667,5,4.666666667,5,5,5
+Rodin,A squirrel eating a donut,5,0,5,5,5,5,5,5,5,5,5,5
+Rodin,A squirrel jumping from a tree with an acorn in its mouth,4,2.666666667,3,3,5,4.666666667,5,5,4.666666667,5,5,4.333333333
+Rodin,A squirrel wearing a tuxedo and holding a conductor's baton,5,5,5,5,5,5,5,5,5,5,5,5
+Rodin,A starfish inside a seashell,5,0,5,5,5,5,5,5,5,5,4.666666667,4
+Rodin,A steak and potatoes,5,0,0,5,5,5,5,5,5,5,5,5
+Rodin,A steaming basket full of dumplings,5,4.333333333,0,4.333333333,5,5,5,5,4.333333333,5,5,4.333333333
+Rodin,A stone arched bridge with a hole on the surface,5,4.333333333,0,4.333333333,5,5,5,5,4.666666667,5,5,4.666666667
+Rodin,A stone castle,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Rodin,A stool below a table,3,0,2.333333333,2,5,5,5,5,5,5,5,3.666666667
+Rodin,A stool with legs like an elephant's leg and a seat like a mushroom top,5,3,0,4,5,5,5,5,5,5,5,4
+Rodin,"A striped tiger with orange fur, black stripes, and green eyes",5,4.666666667,0,5,4.666666667,4,5,5,5,4.666666667,5,4.333333333
+Rodin,A sunflower next to a rose,5,0,5,5,5,5,4,5,4.666666667,4,3.666666667,3.666666667
+Rodin,"A sunflower with a circular head, slender petals and dense foliage",5,4,0,4.333333333,5,5,5,5,4.666666667,5,5,5
+Rodin,A sunflower with a diamond center,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A sunflower with metallic petals and a brown clock face in the middle,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A sunflower with yellow petals and a dark brown center,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A swan inside a crystal,3,0,2,2,3,2,5,5,4,3,4.666666667,3.333333333
+Rodin,A symmetrical bridge,5,5,0,5,5,4.333333333,5,5,5,5,5,5
+Rodin,A symmetrical dragonfly with wings made of light-colored glass,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A table with a top like a leaf and legs like branches,5,5,0,5,5,5,5,5,5,5,5,4.666666667
+Rodin,A tall brown-furred giraffe,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A teddy bear with a red bow,5,5,0,5,5,4.333333333,5,5,5,5,5,5
+Rodin,"A television, decorated with gold and inlaid with jewels",5,3,0,3.333333333,5,5,5,5,5,5,5,4.666666667
+Rodin,A tiger dressed as a doctor,5,5,0,5,5,4.333333333,5,5,4,5,5,5
+Rodin,A tiger driving a car,5,0,5,5,5,5,5,4.333333333,5,4.666666667,5,4.5
+Rodin,A tiger outside a house,3,0,2.333333333,2.333333333,5,5,5,4.333333333,5,5,5,3.333333333
+Rodin,A tiger warrior next to a stone castle,3,1,2.333333333,2.333333333,5,5,5,5,4.333333333,5,5,4.333333333
+Rodin,A tiny shark wearing a racing driver's suit and a helmet on its head,5,5,0,5,5,5,5,5,5,5,4,4
+Rodin,A tortoise with a shell that looks like stained glass,5,3.333333333,0,4,5,5,5,5,5,5,5,4.666666667
+Rodin,A tower with a pointed top,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A tree with silver bark,4,4.333333333,0,4,2.666666667,3,3.333333333,3.333333333,3,3,3.666666667,3
+Rodin,A truck hauling a box,5,0,3.333333333,4,5,5,5,5,5,5,5,4
+Rodin,A vintage rocking chair with curved arms and a woven cane seat,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A watermelon with golden and silver stripes,4.333333333,3,0,3.333333333,4,4,5,5,4.666666667,4.333333333,5,3
+Rodin,A whale inside a bag,5,0,4,4,5,4.333333333,4,4.333333333,4.666666667,4,5,4
+Rodin,A white ceramic vase with floral motifs,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Rodin,A white dog with wings,5,5,0,5,5,4.333333333,5,5,4.666666667,4.666666667,5,5
+Rodin,"A white headphones with soft, padded ear cups and a black headband",5,5,0,5,5,5,5,5,5,5,5,4.666666667
+Rodin,A white milk carton with a yellow logo,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Rodin,A white rabbit nibbling on a carrot,5,5,5,5,5,5,5,5,5,5,5,5
+Rodin,A white rabbit with round ears,5,3,0,4,5,5,5,5,5,5,5,4
+Rodin,A white scarf with fringed edges,5,4.666666667,0,4.666666667,5,4.666666667,5,4.333333333,4.666666667,5,4.666666667,4
+Rodin,A wide hat,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A wide-brimmed straw hat with a black ribbon and a woven texture,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A willow tree with silvery branches and a slender trunk,3.666666667,3,0,3,4,4,4,4,4,4,5,3
+Rodin,A wooden apple above a brass plate,5,5,5,5,5,5,5,5,5,5,5,4.666666667
+Rodin,A wooden chair with a cushioned seat placed next to a round table,4,4.666666667,3,4,5,4.333333333,3.666666667,5,5,4.333333333,5,4
+Rodin,A wooden desk with square drawers,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A wooden dining table with cylindrical legs,5,3,0,4,5,5,5,5,5,5,5,4
+Rodin,A wooden guitar with a curved body and metal strings,5,5,0,4,5,5,5,3.333333333,5,5,5,4.333333333
+Rodin,A wooden house,5,5,0,5,5,4,5,5,5,5,5,5
+Rodin,A wooden violin,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A yellow banana with brown spots,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A yellow canary with a pointed beak and a copper crest on its head,5,4,0,4.333333333,5,5,5,5,5,5,5,4
+Rodin,An apple next to a banana,5,0,4,4,5,5,4.666666667,5,4.333333333,4.666666667,5,4.333333333
+Rodin,An earring designed as miniature chandeliers adorned with crystals,4,5,0,4,4.666666667,4.666666667,5,5,5,5,5,4.666666667
+Rodin,An octopus playing the piano,5,0,4.666666667,4.666666667,5,4.333333333,4.333333333,4.666666667,4.666666667,4,5,4.333333333
+Rodin,"An office building with a flat roof, and evenly spaced windows",4.333333333,4,0,4,4.666666667,4,5,5,5,5,5,4.333333333
+Rodin,An olive-shaped metal leaf,5,5,0,5,5,5,4.666666667,5,5,5,5,4
+Rodin,An orange cat with a long tail,5,5,0,5,5,5,5,5,4.666666667,5,5,5
+Rodin,An orange square chimney,5,5,0,5,5,4.333333333,5,5,5,5,5,5
+Rodin,"An oval-shaped hummingbird with thin legs, and a pointed beak",4.666666667,4,0,4,4.666666667,4,5,5,5,5,5,4.333333333
+Rodin,An owl on a boat,5,0,5,5,5,5,5,5,5,5,5,5
+Rodin,An umbrella with a curved handle,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,Several quadrangle stars on the surface of a coffee cup,5,3,0,3.666666667,5,5,5,5,4.666666667,4.666666667,5,4
+Tripo,A spiked dragon,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A spiky green iguana with a long tail and a row of spines along its back,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A spiky lizard with jagged wings and uneven scales on its body,5,4,0,4,5,5,5,5,5,5,5,4.666666667
+Tripo,A spoon in a bowl,5,0,5,5,5,5,5,5,5,5,5,5
+Tripo,"A spruce tree with sharp, triangular needles and a slightly curved trunk",5,3,0,3.333333333,4,4.666666667,5,5,5,5,5,3
+Tripo,A square camera,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A square mirror surrounded by blooming flowers,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A squirrel eating a donut,5,0,5,5,5,5,5,5,5,5,5,5
+Tripo,A squirrel jumping from a tree with an acorn in its mouth,3,5,4,4,5,5,5,5,5,5,5,4.333333333
+Tripo,A squirrel wearing a tuxedo and holding a conductor's baton,5,5,5,5,5,5,5,5,5,5,5,5
+Tripo,A starfish inside a seashell,5,0,5,5,5,4.666666667,5,5,5,5,5,5
+Tripo,A steak and potatoes,5,0,0,5,5,5,5,5,5,5,5,5
+Tripo,A steaming basket full of dumplings,5,5,0,5,5,5,5,5,5,5,5,4.666666667
+Tripo,A stone arched bridge with a hole on the surface,5,5,0,5,5,4,5,5,5,4.666666667,4.666666667,4
+Tripo,A stone castle,5,5,0,5,5,4.666666667,5,4.333333333,5,5,5,4.666666667
+Tripo,A stool below a table,3,0,2.333333333,2,5,5,5,5,5,5,5,3.666666667
+Tripo,A stool with legs like an elephant's leg and a seat like a mushroom top,4.333333333,3.333333333,0,4,4.333333333,4,5,5,5,4,4,3.666666667
+Tripo,"A striped tiger with orange fur, black stripes, and green eyes",5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A sunflower next to a rose,5,0,5,5,5,5,5,5,5,5,5,5
+Tripo,"A sunflower with a circular head, slender petals and dense foliage",5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A sunflower with a diamond center,4.666666667,5,0,5,5,5,5,5,5,5,5,4.666666667
+Tripo,A sunflower with metallic petals and a brown clock face in the middle,5,5,0,5,5,4.666666667,5,5,5,5,5,4.666666667
+Tripo,A sunflower with yellow petals and a dark brown center,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A swan inside a crystal,3,0,2,2,4.666666667,4.333333333,5,4.666666667,4,4,5,4
+Tripo,A symmetrical bridge,5,5,0,5,4,4,4.333333333,5,5,4.333333333,5,4.333333333
+Tripo,A symmetrical dragonfly with wings made of light-colored glass,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A table with a top like a leaf and legs like branches,5,3,0,4,5,5,5,5,5,5,5,4
+Tripo,A tall brown-furred giraffe,5,5,0,5,4.666666667,5,5,5,5,5,5,5
+Tripo,A teddy bear with a red bow,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,"A television, decorated with gold and inlaid with jewels",5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A tiger dressed as a doctor,5,5,0,5,5,4,5,5,5,5,5,5
+Tripo,A tiger driving a car,5,0,5,5,5,4.666666667,5,5,5,5,5,4.666666667
+Tripo,A tiger outside a house,3,0,2.333333333,2.333333333,5,4.333333333,5,5,5,5,5,4
+Tripo,A tiger warrior next to a stone castle,5,5,5,5,5,4.666666667,5,5,5,5,5,5
+Tripo,A tiny shark wearing a racing driver's suit and a helmet on its head,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A tortoise with a shell that looks like stained glass,5,4.666666667,0,4.666666667,5,5,5,5,5,5,5,5
+Tripo,A tower with a pointed top,5,5,0,5,4.666666667,4,5,4,4.333333333,4,5,4.666666667
+Tripo,A tree with silver bark,5,5,0,5,4,4,5,4,4,4,5,4
+Tripo,A truck hauling a box,5,0,4,4,5,5,5,5,5,5,5,4.333333333
+Tripo,A vintage rocking chair with curved arms and a woven cane seat,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A watermelon with golden and silver stripes,5,3,0,4,4.666666667,5,5,5,5,5,5,4
+Tripo,A whale inside a bag,5,0,3.666666667,4,5,4.666666667,5,5,4.666666667,4.666666667,4.333333333,4.333333333
+Tripo,A white ceramic vase with floral motifs,5,5,0,5,4.666666667,4,5,5,5,4.333333333,5,5
+Tripo,A white dog with wings,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,"A white headphones with soft, padded ear cups and a black headband",5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A white milk carton with a yellow logo,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A white rabbit nibbling on a carrot,5,5,5,5,5,5,5,5,5,5,5,5
+Tripo,A white rabbit with round ears,5,3,0,4,5,5,5,5,5,5,5,4
+Tripo,A white scarf with fringed edges,4.666666667,3.333333333,0,4,5,4,5,5,5,4.666666667,5,4
+Tripo,A wide hat,5,5,0,5,5,4.666666667,5,4.666666667,5,5,5,4.666666667
+Tripo,A wide-brimmed straw hat with a black ribbon and a woven texture,5,5,0,5,5,5,5,5,4,5,5,5
+Tripo,A willow tree with silvery branches and a slender trunk,5,4.333333333,0,4.333333333,4.666666667,5,4.333333333,4.666666667,5,4.333333333,5,4.666666667
+Tripo,A wooden apple above a brass plate,5,3,5,4,5,5,5,5,5,5,5,4
+Tripo,A wooden chair with a cushioned seat placed next to a round table,5,5,5,5,5,5,5,5,5,5,5,5
+Tripo,A wooden desk with square drawers,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A wooden dining table with cylindrical legs,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Tripo,A wooden guitar with a curved body and metal strings,5,4.666666667,0,4.666666667,5,4.666666667,4,5,4.666666667,4.333333333,5,3.666666667
+Tripo,A wooden house,5,5,0,5,4.666666667,4,5,5,5,4,5,4.666666667
+Tripo,A wooden violin,5,5,0,5,4.666666667,4.666666667,4.666666667,4.666666667,5,4.666666667,3,4
+Tripo,A yellow banana with brown spots,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A yellow canary with a pointed beak and a copper crest on its head,1.666666667,3,0,3,5,5,5,5,5,5,5,4
+Tripo,An apple next to a banana,5,0,5,5,5,5,5,5,5,5,5,5
+Tripo,An earring designed as miniature chandeliers adorned with crystals,4,5,0,4,4.666666667,4,5,5,5,5,5,4.666666667
+Tripo,An octopus playing the piano,5,0,5,5,5,5,5,4.666666667,5,5,5,5
+Tripo,"An office building with a flat roof, and evenly spaced windows",5,5,0,5,4.666666667,4.333333333,5,5,5,5,5,5
+Tripo,An olive-shaped metal leaf,5,3,0,4,5,5,5,5,5,5,5,4
+Tripo,An orange cat with a long tail,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,An orange square chimney,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,"An oval-shaped hummingbird with thin legs, and a pointed beak",5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,An owl on a boat,5,0,5,5,5,5,5,5,5,5,5,5
+Tripo,An umbrella with a curved handle,5,5,0,5,5,4,5,5,5,5,5,5
+Tripo,Several quadrangle stars on the surface of a coffee cup,5,3,0,4,5,4,5,5,5,5,5,4.666666667

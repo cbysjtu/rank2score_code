@@ -1,0 +1,721 @@
+model,prompt,Object Alignment,Attribute Alignment,Interaction Alignment,Overall Alignment,Texture Clarity,Texture Aesthetics,Geometry Loss,Geometry Redundancy,Geometry Roughness,Overall Visual,3D Authentic,Overall Quality
+3DTopia,A asymmetrical flower,3,3.666666667,0,3,3,3,3.666666667,4,4,3,4.333333333,3.333333333
+3DTopia,A baby dragon leaning against a wolf knight,1.333333333,0,1,1.333333333,2.333333333,2,2.333333333,4,2.666666667,2,4,2
+3DTopia,A badge shaped like a shield,4,5,0,4,3,3.333333333,4.333333333,4,4,3.666666667,5,4
+3DTopia,A bag with a body shaped like a giant seashell,2,4,0,3,3,3,3,4,3,3,4.666666667,3
+3DTopia,A bat with fan-shaped ears and black wings with pink polka dots,1,1,0,1,1,1,1,1,1,1,2,1.666666667
+3DTopia,A beagle in a detective's outfit,2,1,0,1.333333333,1,1,1,1,1,1,3,1.666666667
+3DTopia,A bear reading the newspaper,1,0,1,1,1,1,1,1,1,1,1,1
+3DTopia,A bee above a flower made of red silk,3,3.333333333,2.333333333,2.333333333,3,2.333333333,3,3.666666667,3,2.333333333,2,1.666666667
+3DTopia,A bicycle crafted from bones of mythical creatures,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,A bird on a branch,1,0,1,1,1,1,1,1,1,1,2.333333333,2
+3DTopia,A bird pecking at a shiny necklace on a table,1,1,1,1,1,1,1,1,1,1,4,2
+3DTopia,A bird with a pointed beak,4,4,0,4,3,3,3,5,4,3,4.666666667,3
+3DTopia,A bird with rainbow feathers,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,A black bicycle with a curved handlebar,1,1,0,1,1,1,1,1,1,1,3.666666667,3.666666667
+3DTopia,A black camera,1.666666667,3.666666667,0,1.666666667,3,2.333333333,3,3.666666667,4,2,4,2
+3DTopia,A black cat,1.333333333,1.333333333,0,1.333333333,1,1,1,1,1,1,4,2
+3DTopia,A black cat knocking over a glass with its paw extended,1,1,1,1,1,1,1,1,1,1,1,1
+3DTopia,A black cat sitting on a soft cushion,2,2,1,2,2.666666667,2,3,3,3.333333333,1.666666667,2,1.666666667
+3DTopia,A black leather jacket with silver zippers,2.666666667,3.333333333,0,3,3,3,2.666666667,4,4,2.666666667,4.333333333,3
+3DTopia,A black motorcycle with rearview mirror,1,1.333333333,0,1,1,1,1,1,1,1,1,1
+3DTopia,A black panther with slender claws and yellow eyes,1.333333333,2,0,2,1,1,1,1,1,1,4,2
+3DTopia,A black tall hat with a yellow ribbon,2,3,0,2.666666667,3,2.666666667,2,3,4,2,1,1
+3DTopia,A blue backpack with a red printed pattern and transparent pockets on the side,3.333333333,4,0,4,3,2.333333333,2,4,3,2.666666667,5,2.666666667
+3DTopia,A blue butterfly on a pink flower,2.333333333,3,2,2.333333333,2.333333333,2.333333333,2,3,3,2,2,2
+3DTopia,A blue denim jacket draped over a chair,4,4,4,4,3,2,3.666666667,4,3.333333333,3,3.333333333,2.666666667
+3DTopia,A blue ottoman with a padded top,3.666666667,2,0,3,3,3.666666667,3,5,3.666666667,3,5,2.666666667
+3DTopia,A blue parrot perching on a tree branch,1,1,1,1,2,1,2.333333333,2.333333333,3,1.333333333,2,2
+3DTopia,A blue parrot with white feathers and a yellow beak,2.333333333,2,0,2,2,1.333333333,2.333333333,4,3.333333333,2,2,2
+3DTopia,A blue scarf,3,4,0,3,3,3,3,4,4,3,4,3
+3DTopia,A bonsai with metal leaves,3,2,0,2,3,2.333333333,2,4,4,2.333333333,4,2
+3DTopia,A bright yellow rubber duck floats in a sudsy bathtub,1,1,1,1,1,1,1,1,1,1,1,1
+3DTopia,A bright yellow school bus with black tires and a stop sign,1.333333333,2.666666667,0,2,1,1,1,1,1,1,4,2
+3DTopia,A bronze statue,4,4,0,4,3,2.333333333,3.666666667,3,4,3,5,3
+3DTopia,A brown bear playing with a ball of yarn,2,3.666666667,2,2,1,1,1,1,1,1,2,1.666666667
+3DTopia,"A brown bear with black eyes and thick, shaggy fur",1,1,0,1,2.333333333,2,3,4.333333333,3.333333333,2,4,2
+3DTopia,A brown dog,2,4,0,2.333333333,2.666666667,2.666666667,2,4,4,2,3.666666667,2
+3DTopia,A brown fox wearing a hat,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,A brown horse standing near a cow,2,4,2,2,3,3,3.666666667,3,3,3,3,2
+3DTopia,A brown sweater with a snowflake pattern,4,3.333333333,0,3.666666667,3.333333333,2.333333333,2.333333333,3,3,3,4,3
+3DTopia,"A bulky elephant with a cylindrical trunk and thick, pillar-like legs",2,3,0,2,3,2,2,3,3.666666667,2,2.666666667,2
+3DTopia,A bush with green leaves covered with golden gemstones,2.666666667,3,0,3,3,2,3,3,3,2,4,2
+3DTopia,A butterfly landing on a wide-brimmed hat placed on a chair,1,1,1,1,1,1,1,1,1,1,1,1
+3DTopia,A butterfly on a flower,3,0,2,2.333333333,3,3,2.333333333,3,3.333333333,2.666666667,2,1.333333333
+3DTopia,A butterfly with blue and white pattern inside an iron oven,1,1,1,1,2,2,3.333333333,3.333333333,3,2,3,1.666666667
+3DTopia,A butterfly with vibrant wings resting on a blooming sunflower,2.333333333,2,1.666666667,2,2.333333333,2,2.333333333,2.333333333,3,1.666666667,2,2
+3DTopia,A butterfly with wings made of stained glass,4,4.333333333,0,4,3.333333333,4,3.666666667,4.666666667,4,4,4,3.666666667
+3DTopia,A cactus with a spiral pattern on its surface and covered with glittering golden spines,2,2,0,2.333333333,3,3,2.666666667,4,4,2.333333333,4,2
+3DTopia,A cactus with arms of different lengths shaped like a candelabra,2,2.666666667,0,2,3,2.666666667,3,4,4,2,3.333333333,2
+3DTopia,A cactus with red flowers,1.333333333,3,0,2,3,2.333333333,2,3.333333333,4,2,2,2
+3DTopia,A cake on a ceramic plate,3.666666667,3,4,3.333333333,3,2.666666667,3,4,3,2.666666667,4,3.5
+3DTopia,A car parked next to a red bicycle,1,0,1,1,1,1,1,1,1,1,1,1
+3DTopia,A car shaped like sushi,1.333333333,2,0,2,1,1,1,1,1,1,2,2
+3DTopia,A car with square wheels,1,2.666666667,0,2,3,3,2.333333333,4,4,2.333333333,4,1.666666667
+3DTopia,A castle with a rainbow-colored exterior and hieroglyphs written all over it,2,2,0,2,3,3,3,4,4,2.666666667,4,2
+3DTopia,"A cat, one eye missing",2,1,0,1.333333333,1,1,1,1,1,1,1.333333333,1.333333333
+3DTopia,A cat below a chair,2.333333333,0,1.333333333,2,1,1,1,1,1,1,3,2
+3DTopia,A cat curling up on a bicycle with tail batting at the seat,1,0,1,1,2,2,2.666666667,4,3,1.333333333,1,1
+3DTopia,A cat pawing at a toy,2,0,1,1.333333333,2.333333333,2.333333333,3.666666667,4,3,2.333333333,3,1.333333333
+3DTopia,A cat with two different colored eyes,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,A cat with wings,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,A cat wizard wearing a magic hat,1,1,0,1,2,1.666666667,2.333333333,3.333333333,3,1.666666667,2,1.666666667
+3DTopia,A chair with a seat shaped like a giant leaf,4.666666667,3.333333333,0,4,3,2.666666667,4.333333333,4,4,3,5,3
+3DTopia,A chair with legs made of vines and a gradient seat that changes from purple to red,4,2,0,2.666666667,3,3,2.333333333,4,3.333333333,3,4.666666667,2.333333333
+3DTopia,A cherry blossom tree with pink petals and gray branches,4,3,0,3.333333333,3,3,2,4,4,2,4.333333333,2
+3DTopia,A chimpanzee carrying a backpack,2,0,1.333333333,1.333333333,1,1,1,1,1,1,2,1.333333333
+3DTopia,A church with a tall steeple located near a modern house with large windows,3,3,2,2.666666667,3,3,4,4,3.666666667,3,4,3
+3DTopia,A circular white clock,4,4,0,4,3,3,4,4,3.666666667,3,4.666666667,3.333333333
+3DTopia,"A clay vase with a round base, and a floral pattern",4,3,0,3.666666667,3,3,2.333333333,4,3.333333333,3,4,3
+3DTopia,A collection of fresh vegetables arranged in a wicker basket,2.666666667,3,2,2,2.666666667,2,2.666666667,3,3,2,3,2
+3DTopia,A colored mushroom growing on a log,2,2.333333333,3,2,2,1.666666667,3,3,3,1.666666667,2,2
+3DTopia,A colorful dragonfly on a desk with wings opening,1,1,1,1,1,1,1,1,1,1,1.333333333,1
+3DTopia,"A colorful fruit salad with sliced strawberries, and blueberries",1.333333333,3.333333333,0,2,4,2.333333333,3.666666667,4,3,2.333333333,1.333333333,2
+Consistent3D,A asymmetrical flower,2,3.666666667,0,3,3,2,3,3,2.666666667,2,3,2
+Consistent3D,A baby dragon leaning against a wolf knight,2.666666667,0,2,2,2.333333333,2,4,3,2.333333333,2.333333333,2,2.333333333
+Consistent3D,A badge shaped like a shield,2.666666667,2.333333333,0,2.333333333,2,1.666666667,3,4,3,2,2,2
+Consistent3D,A bag with a body shaped like a giant seashell,2,3,0,2.333333333,2.333333333,2,3,4,2.666666667,2.333333333,3.333333333,2
+Consistent3D,A bat with fan-shaped ears and black wings with pink polka dots,2.666666667,2,0,2,3,2.333333333,4,3.666666667,3.333333333,3,2.333333333,2.333333333
+Consistent3D,A beagle in a detective's outfit,3,1,0,1.666666667,2.666666667,2,2,4,3,2,4,2
+Consistent3D,A bear reading the newspaper,3.333333333,0,3.333333333,3.333333333,2,2,3,2,2.333333333,1.666666667,2,2
+Consistent3D,A bee above a flower made of red silk,2.666666667,1,3.333333333,2.333333333,2,2,3.333333333,3,2,2,2,1.666666667
+Consistent3D,A bicycle crafted from bones of mythical creatures,2.666666667,2.333333333,0,2.333333333,2,1.666666667,2.666666667,3,1.333333333,1.666666667,3,2
+Consistent3D,A bird on a branch,3.666666667,0,4,3.666666667,2,1.666666667,3.666666667,4.333333333,2,1.666666667,4,2.333333333
+Consistent3D,A bird pecking at a shiny necklace on a table,1.333333333,1,1.333333333,1.333333333,1.666666667,1,3,2,2,1.333333333,3,1.333333333
+Consistent3D,A bird with a pointed beak,4,5,0,4,2,2,4,4.333333333,2,2,5,3
+Consistent3D,A bird with rainbow feathers,2,1.666666667,0,2,2,1,2.333333333,4,3,2,1,1
+Consistent3D,A black bicycle with a curved handlebar,1.333333333,2,0,1.333333333,2,2,1,1,2,1,1,1
+Consistent3D,A black camera,2.666666667,4,0,3,2,1.333333333,4,3,3,2,3,2
+Consistent3D,A black cat,3,3.666666667,0,3,3,2,4,2,2.333333333,2,2.666666667,3
+Consistent3D,A black cat knocking over a glass with its paw extended,2,3,1.333333333,2,2.666666667,1.333333333,3,2.333333333,3,1.666666667,2,2
+Consistent3D,A black cat sitting on a soft cushion,2,1,1,1.666666667,2,1,3,4,3,2,4,2
+Consistent3D,A black leather jacket with silver zippers,3.333333333,2,0,2.333333333,2.333333333,2,4,3,3,2,2.666666667,2
+Consistent3D,A black motorcycle with rearview mirror,1,1.666666667,0,1,1,1,1,1,1,1,1,1
+Consistent3D,A black panther with slender claws and yellow eyes,2,2.333333333,0,2,2,1,2,2.333333333,3.666666667,1,2,1
+Consistent3D,A black tall hat with a yellow ribbon,4,3.333333333,0,3.666666667,2.666666667,2,3.333333333,4,3,2,3,2.333333333
+Consistent3D,A blue backpack with a red printed pattern and transparent pockets on the side,3.666666667,3,0,3,2,2,3.333333333,3,2,2,2.666666667,1.666666667
+Consistent3D,A blue butterfly on a pink flower,1,1,1,1,2,1.666666667,4,2.333333333,2,1.666666667,2,2
+Consistent3D,A blue denim jacket draped over a chair,2,2.333333333,1.333333333,2.333333333,2,1.333333333,4,2,2.333333333,1.666666667,2,1.666666667
+Consistent3D,A blue ottoman with a padded top,4,4,0,4,3,2,4,4.666666667,3,2.666666667,5,3
+Consistent3D,A blue parrot perching on a tree branch,4,4,4,4,2,2,4,4,2.333333333,2,4.333333333,3
+Consistent3D,A blue parrot with white feathers and a yellow beak,3,3.666666667,0,3,2.333333333,1.666666667,4,4,3,2,4,2.333333333
+Consistent3D,A blue scarf,4,2,0,2.666666667,2,2,4,3.333333333,3,2,4,1
+Consistent3D,A bonsai with metal leaves,3.333333333,2,0,3,2,2,2,4,3,2,4,2.333333333
+Consistent3D,A bright yellow rubber duck floats in a sudsy bathtub,2.333333333,3,2,2,2,2,3.333333333,3,2.666666667,2,3,2
+Consistent3D,A bright yellow school bus with black tires and a stop sign,4,3,0,3.333333333,2.333333333,2,3,3.333333333,3,2,3,2.333333333
+Consistent3D,A bronze statue,3,2,0,2,1.333333333,1,2.666666667,4,1.666666667,2,5,3
+Consistent3D,A brown bear playing with a ball of yarn,4,4,3,3.333333333,3,2,3,3,3,2.333333333,3,3
+Consistent3D,"A brown bear with black eyes and thick, shaggy fur",2.666666667,2,0,2,2,2,2,2,2,1.333333333,2,1.333333333
+Consistent3D,A brown dog,2.666666667,3,0,3,3,2,2.666666667,3,2,2,4,2
+Consistent3D,A brown fox wearing a hat,4,3,0,3,3,3,3.333333333,3,2.666666667,2.333333333,4,2.666666667
+Consistent3D,A brown horse standing near a cow,2,3.666666667,1.666666667,2,2,2,2.666666667,4,3,2,2.333333333,1.666666667
+Consistent3D,A brown sweater with a snowflake pattern,3,4,0,3,2.666666667,2,2.666666667,3,2,2,2,2
+Consistent3D,"A bulky elephant with a cylindrical trunk and thick, pillar-like legs",3.333333333,3,0,3,2,1.666666667,4,2,3,2,2,2
+Consistent3D,A bush with green leaves covered with golden gemstones,2,4,0,2.666666667,3,2,3,4,2,2,3,3
+Consistent3D,A butterfly landing on a wide-brimmed hat placed on a chair,2,3.333333333,1.333333333,1.666666667,2.666666667,2,3.333333333,4,3,2.333333333,3.333333333,1.666666667
+Consistent3D,A butterfly on a flower,3.333333333,0,4,3.333333333,2,1.333333333,3,3.333333333,2,2,2.666666667,2.333333333
+Consistent3D,A butterfly with blue and white pattern inside an iron oven,2,2,2,2,2.666666667,2.333333333,3,3,3,2,3,2
+Consistent3D,A butterfly with vibrant wings resting on a blooming sunflower,2.666666667,2.333333333,3,3,2,1.666666667,3,2,3,1.666666667,2,2
+Consistent3D,A butterfly with wings made of stained glass,3,2.333333333,0,2.333333333,2.333333333,2,3,3,3,2,3,2
+Consistent3D,A cactus with a spiral pattern on its surface and covered with glittering golden spines,1.666666667,1.666666667,0,1.666666667,1,1,1,1,1,1,1,1
+Consistent3D,A cactus with arms of different lengths shaped like a candelabra,3.666666667,4,0,4,3,2.666666667,3.666666667,4,2,3,4,3
+Consistent3D,A cactus with red flowers,1.333333333,1,0,1,2,1.666666667,3,3.666666667,2.666666667,2,1,1
+Consistent3D,A cake on a ceramic plate,3,3,4,3,2,2,3,4,3,2,4,3
+Consistent3D,A car parked next to a red bicycle,2,0,1.333333333,1.333333333,2,2,4,3.666666667,3,2,3,2
+Consistent3D,A car shaped like sushi,2.333333333,2.666666667,0,2.666666667,2,2,3,4,2.333333333,2.333333333,4,2
+Consistent3D,A car with square wheels,3.333333333,2,0,3,2,2,4,4,3,2.333333333,4,3
+Consistent3D,A castle with a rainbow-colored exterior and hieroglyphs written all over it,2.333333333,1,0,1.666666667,2,1,2,1,2,1,3.333333333,1.666666667
+Consistent3D,"A cat, one eye missing",3,1,0,1.333333333,2,1,2.333333333,2,2,1.333333333,4,2
+Consistent3D,A cat below a chair,2,0,1,1.666666667,2,2,3,3,3,2,2,2
+Consistent3D,A cat curling up on a bicycle with tail batting at the seat,2.666666667,0,3,2.666666667,2,2,2.333333333,3.666666667,2.333333333,2,3,2.333333333
+Consistent3D,A cat pawing at a toy,2,0,2,2,2,2,3,2,2.666666667,2,2,2
+Consistent3D,A cat with two different colored eyes,3,4,0,3,2,1.666666667,2,3,2,2,2,2
+Consistent3D,A cat with wings,3.666666667,1,0,2.666666667,2,2,3,4,2.666666667,2,2.666666667,2
+Consistent3D,A cat wizard wearing a magic hat,2,2.333333333,0,2,2,1,3,3,2.333333333,1.333333333,2,1.666666667
+Consistent3D,A chair with a seat shaped like a giant leaf,3.333333333,2,0,3,3,2,3.666666667,3.666666667,2,2,4,2
+Consistent3D,A chair with legs made of vines and a gradient seat that changes from purple to red,2.333333333,2,0,2,2,1,3,2.666666667,1,1,4,2
+Consistent3D,A cherry blossom tree with pink petals and gray branches,2.666666667,2.666666667,0,2.666666667,2,2,2,3.333333333,2,2,4,2.333333333
+Consistent3D,A chimpanzee carrying a backpack,4,0,4,4,2,2,3.666666667,3.666666667,2,2,4,2.333333333
+Consistent3D,A church with a tall steeple located near a modern house with large windows,2,3,1,2,2,1.333333333,2.666666667,3.333333333,3,1.666666667,3,2
+Consistent3D,A circular white clock,1,1,0,1,1,1,1,1,1,1,1,1
+Consistent3D,"A clay vase with a round base, and a floral pattern",3,3.333333333,0,3,2,2,4,4,3,2,4,2.333333333
+Consistent3D,A collection of fresh vegetables arranged in a wicker basket,3,2.333333333,4,2.333333333,2,1,3.333333333,2.333333333,3,1.333333333,4,3.333333333
+Consistent3D,A colored mushroom growing on a log,2,2.666666667,1.666666667,2,2,1.666666667,3.666666667,2,2.333333333,1.666666667,1,1
+Consistent3D,A colorful dragonfly on a desk with wings opening,2.666666667,3.666666667,1,2,1.333333333,1,3,2,1.333333333,1.333333333,3,1.666666667
+Consistent3D,"A colorful fruit salad with sliced strawberries, and blueberries",2,4,0,2.333333333,3,1.666666667,2,3,3,2,2.666666667,2.333333333
+DreamFusion,A asymmetrical flower,2,3.666666667,0,2,3,2,3,3,4,2,1,1
+DreamFusion,A baby dragon leaning against a wolf knight,1,0,1,1,1,1,1,1,1,1,1,1
+DreamFusion,A badge shaped like a shield,2,3,0,2,2.666666667,1,4,2.333333333,3,1,1,1
+DreamFusion,A bag with a body shaped like a giant seashell,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A bat with fan-shaped ears and black wings with pink polka dots,3.666666667,2,0,2.333333333,3,2,4,3,3.333333333,3,4,2.5
+DreamFusion,A beagle in a detective's outfit,4,1.333333333,0,3,3,2.666666667,2.333333333,4,3,2.333333333,4,2
+DreamFusion,A bear reading the newspaper,3,0,3.333333333,3.333333333,2.333333333,2.666666667,4,3,3,2.333333333,3,3
+DreamFusion,A bee above a flower made of red silk,2.333333333,3,2,2,3,2,3.666666667,3.333333333,3.666666667,2,3.333333333,2
+DreamFusion,A bicycle crafted from bones of mythical creatures,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A bird on a branch,2,0,1,1.666666667,2,2,2.666666667,4,2.666666667,1.666666667,1,1
+DreamFusion,A bird pecking at a shiny necklace on a table,1,1,1,1,1,1,1,1,1,1,1,1
+DreamFusion,A bird with a pointed beak,3.666666667,4,0,4,2.666666667,2.333333333,3,4,3,2,4,2.666666667
+DreamFusion,A bird with rainbow feathers,2,3,0,2,1,1,1,1,1,1,3.666666667,2
+DreamFusion,A black bicycle with a curved handlebar,3,3,0,3,2.666666667,2.333333333,2,4,3,2,4,2
+DreamFusion,A black camera,5,5,0,5,1,1,1,1,1,1,1,1
+DreamFusion,A black cat,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A black cat knocking over a glass with its paw extended,2,3.666666667,2,2.666666667,2.333333333,2,3,4,3.333333333,2,3,1.666666667
+DreamFusion,A black cat sitting on a soft cushion,1,1,1,1,1,1,1,1,1,1,1,1
+DreamFusion,A black leather jacket with silver zippers,2,2,0,2,1,1,1,1,1,1,1,1
+DreamFusion,A black motorcycle with rearview mirror,1,1,0,1,2.666666667,2.666666667,1.333333333,4,4,2,1,1
+DreamFusion,A black panther with slender claws and yellow eyes,3,2.333333333,0,2.5,3,2,2,3.666666667,3,2.333333333,4,1.333333333
+DreamFusion,A black tall hat with a yellow ribbon,4.666666667,4,0,4.333333333,3,3,4,4,3,3.333333333,5,3
+DreamFusion,A blue backpack with a red printed pattern and transparent pockets on the side,4,3.333333333,0,3.666666667,3,1.666666667,4,4,3,2.333333333,3,2.666666667
+DreamFusion,A blue butterfly on a pink flower,4,4,4,4,3,3,4,4,3,3,4.333333333,3.333333333
+DreamFusion,A blue denim jacket draped over a chair,1.333333333,1.333333333,1,1.333333333,1,1,1,1,1,1,1,1
+DreamFusion,A blue ottoman with a padded top,5,4.333333333,0,4.666666667,3,3,4,5,3.333333333,3,5,4
+DreamFusion,A blue parrot perching on a tree branch,4,4,4,4,2.666666667,2.333333333,3,4,3,2,4,3
+DreamFusion,A blue parrot with white feathers and a yellow beak,3,3,0,3,3,2,2.666666667,3.666666667,3,2.666666667,4,2
+DreamFusion,A blue scarf,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A bonsai with metal leaves,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A bright yellow rubber duck floats in a sudsy bathtub,3,3,2,2,3.666666667,3,5,5,3.666666667,3.333333333,4.333333333,3
+DreamFusion,A bright yellow school bus with black tires and a stop sign,3,3,0,2.333333333,2.333333333,2,3,4,3,2,3.666666667,2.333333333
+DreamFusion,A bronze statue,4,3.666666667,0,3.666666667,2.333333333,2,2.333333333,4.333333333,3.666666667,2,4,1.666666667
+DreamFusion,A brown bear playing with a ball of yarn,3,4,3,3.333333333,3,2,3.333333333,4.333333333,3.333333333,3,4,2.666666667
+DreamFusion,"A brown bear with black eyes and thick, shaggy fur",1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A brown dog,2,3,0,2,2,2,3,3.666666667,3,2,4,2
+DreamFusion,A brown fox wearing a hat,3,4,0,3.333333333,2.666666667,2.333333333,3,4,3,2.666666667,3,2.666666667
+DreamFusion,A brown horse standing near a cow,2,3.333333333,1,2,2,1.333333333,3,4,4,1.666666667,3.333333333,2
+DreamFusion,A brown sweater with a snowflake pattern,1.333333333,1,0,1,2,1.333333333,2.333333333,3,2.666666667,1.333333333,4,2
+DreamFusion,"A bulky elephant with a cylindrical trunk and thick, pillar-like legs",4,4,0,4,2,2,4,3.333333333,4,2.666666667,4,2
+DreamFusion,A bush with green leaves covered with golden gemstones,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A butterfly landing on a wide-brimmed hat placed on a chair,4,4.666666667,4,4,3,3,3,4,2.666666667,3,4,3
+DreamFusion,A butterfly on a flower,4,0,5,4,2,2,3,3.333333333,3,2.333333333,5,2.5
+DreamFusion,A butterfly with blue and white pattern inside an iron oven,1,1,1,1,1,1,1,1,1,1,1,1
+DreamFusion,A butterfly with vibrant wings resting on a blooming sunflower,1.666666667,1.666666667,1.333333333,1.666666667,3,2,3.666666667,3,4,2,1,1
+DreamFusion,A butterfly with wings made of stained glass,1.333333333,1.333333333,0,1.333333333,3,2,2.666666667,3,4,2.333333333,4,1.666666667
+DreamFusion,A cactus with a spiral pattern on its surface and covered with glittering golden spines,4,3,0,3,2.666666667,2,3,4,2.666666667,2.666666667,5,2.666666667
+DreamFusion,A cactus with arms of different lengths shaped like a candelabra,4,1.333333333,0,2,3,2.333333333,3,5,3,3,4,2
+DreamFusion,A cactus with red flowers,3,2.666666667,0,2.666666667,2.666666667,2,3,4,3,2,4.666666667,2.666666667
+DreamFusion,A cake on a ceramic plate,4,2,4,3,3,2.333333333,4.333333333,4.333333333,3.333333333,2.666666667,3.666666667,3
+DreamFusion,A car parked next to a red bicycle,2,0,2,2,2,2,3,4,3.666666667,2,3.666666667,2
+DreamFusion,A car shaped like sushi,3.333333333,2.333333333,0,2.333333333,2.666666667,2,3.333333333,3.666666667,3.333333333,2.666666667,3.666666667,2.666666667
+DreamFusion,A car with square wheels,3.333333333,2,0,2.333333333,2,2,3,4,4,2.666666667,4.666666667,2
+DreamFusion,A castle with a rainbow-colored exterior and hieroglyphs written all over it,1,2.333333333,0,2,3,2,3.333333333,3.333333333,3.333333333,2,1,1
+DreamFusion,"A cat, one eye missing",1,1,0,1,2.333333333,1.333333333,2,3,3,2,2,1
+DreamFusion,A cat below a chair,1.333333333,0,1,1,2,2,2,3.333333333,3,1.666666667,2,1
+DreamFusion,A cat curling up on a bicycle with tail batting at the seat,2,0,2,2,2.333333333,2.333333333,3.333333333,3,3.333333333,2.333333333,3.333333333,2
+DreamFusion,A cat pawing at a toy,1.666666667,0,1,1,2,2,3,4,3.666666667,2,3,1.666666667
+DreamFusion,A cat with two different colored eyes,2,1.333333333,0,1.333333333,1.333333333,1,1,1.333333333,1,1,1,1
+DreamFusion,A cat with wings,1.333333333,1.333333333,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A cat wizard wearing a magic hat,3,4,0,3.333333333,2.333333333,2,3,3.666666667,3,2,2.666666667,2.333333333
+DreamFusion,A chair with a seat shaped like a giant leaf,2,4,0,3,3,2.666666667,2,4,4,2,4,1.666666667
+DreamFusion,A chair with legs made of vines and a gradient seat that changes from purple to red,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A cherry blossom tree with pink petals and gray branches,1.333333333,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A chimpanzee carrying a backpack,3.666666667,0,4,3.666666667,3,2.666666667,4,4,3.333333333,3,4,3.333333333
+DreamFusion,A church with a tall steeple located near a modern house with large windows,2.666666667,2,1.666666667,1.666666667,2,2,3,3.666666667,3.333333333,2.666666667,3,2
+DreamFusion,A circular white clock,1,1.333333333,0,1,1,1,1,1,1,1,1,1
+DreamFusion,"A clay vase with a round base, and a floral pattern",4,3.333333333,0,3.333333333,2.666666667,2,4,4,2.333333333,2,4.666666667,3
+DreamFusion,A collection of fresh vegetables arranged in a wicker basket,1,1,1,1,2,1,2.333333333,2.666666667,3,1.333333333,1,1
+DreamFusion,A colored mushroom growing on a log,3,3,2,3,3.666666667,3,4.666666667,5,4,3.333333333,5,3
+DreamFusion,A colorful dragonfly on a desk with wings opening,1,1,1,1,1,1,1,1,1,1,1,1
+DreamFusion,"A colorful fruit salad with sliced strawberries, and blueberries",2,2,0,2,2,1.333333333,4,2,2.666666667,2,2.666666667,2
+Hunyuan,A asymmetrical flower,5,3,0,4,5,4,5,4,5,4.333333333,5,4
+Hunyuan,A baby dragon leaning against a wolf knight,5,0,5,5,3.666666667,3.666666667,3.666666667,3.666666667,3.666666667,3.666666667,5,4.666666667
+Hunyuan,A badge shaped like a shield,5,5,0,5,5,5,5,5,5,5,5,5
+Hunyuan,A bag with a body shaped like a giant seashell,5,4,0,4,4,4,5,5,5,4,5,5
+Hunyuan,A bat with fan-shaped ears and black wings with pink polka dots,5,3.666666667,0,4,5,5,5,4,5,4.333333333,3.666666667,4
+Hunyuan,A beagle in a detective's outfit,5,5,0,5,5,4.333333333,5,5,5,5,5,5
+Hunyuan,A bear reading the newspaper,5,0,5,5,5,5,5,5,5,5,5,5
+Hunyuan,A bee above a flower made of red silk,5,5,5,5,5,5,5,5,4.666666667,5,5,5
+Hunyuan,A bicycle crafted from bones of mythical creatures,4.666666667,5,0,5,5,4.666666667,5,5,5,5,5,4.666666667
+Hunyuan,A bird on a branch,5,0,5,5,5,5,5,5,5,5,5,4.666666667
+Hunyuan,A bird pecking at a shiny necklace on a table,3.333333333,2,1.333333333,2.333333333,5,4,5,5,5,5,5,3
+Hunyuan,A bird with a pointed beak,5,5,0,5,4.666666667,4.333333333,5,5,4.666666667,4,5,5
+Hunyuan,A bird with rainbow feathers,5,5,0,5,5,5,5,5,5,5,5,5
+Hunyuan,A black bicycle with a curved handlebar,5,5,0,5,5,4.666666667,4,5,5,5,5,4.666666667
+Hunyuan,A black camera,5,5,0,5,5,4.666666667,5,5,5,5,5,4.666666667
+Hunyuan,A black cat,5,5,0,5,5,5,5,4,5,4.333333333,4,4
+Hunyuan,A black cat knocking over a glass with its paw extended,5,5,4,4,5,4.333333333,5,5,5,4.666666667,5,4.333333333
+Hunyuan,A black cat sitting on a soft cushion,5,5,5,5,5,4,5,5,4,4.333333333,5,5
+Hunyuan,A black leather jacket with silver zippers,5,5,0,5,5,5,5,4.666666667,5,5,5,5
+Hunyuan,A black motorcycle with rearview mirror,4,5,0,4,5,4.666666667,5,5,5,5,5,4.333333333
+Hunyuan,A black panther with slender claws and yellow eyes,4.666666667,4,0,4,4.666666667,4,4,5,4.333333333,4,4.333333333,3.666666667
+Hunyuan,A black tall hat with a yellow ribbon,4,5,0,4.333333333,4,3.333333333,2.666666667,4.666666667,5,4,4,3.666666667
+Hunyuan,A blue backpack with a red printed pattern and transparent pockets on the side,5,3.666666667,0,4,5,4.333333333,3.333333333,3.666666667,4.666666667,4,5,4
+Hunyuan,A blue butterfly on a pink flower,5,5,5,5,5,5,5,5,5,5,5,5
+Hunyuan,A blue denim jacket draped over a chair,5,5,5,5,5,4.666666667,5,4.666666667,5,4.666666667,5,4
+Hunyuan,A blue ottoman with a padded top,5,5,0,5,5,5,5,5,5,5,5,5
+Hunyuan,A blue parrot perching on a tree branch,5,5,5,5,5,4,5,4,5,4.333333333,5,4.333333333
+Hunyuan,A blue parrot with white feathers and a yellow beak,5,4.333333333,0,4.666666667,5,4.333333333,5,5,4.333333333,4.333333333,5,5
+Hunyuan,A blue scarf,4,4.333333333,0,4,5,5,5,5,5,5,4.666666667,4
+Hunyuan,A bonsai with metal leaves,4.333333333,2.333333333,0,3,4,4,5,5,4.666666667,4.333333333,4,3
+Hunyuan,A bright yellow rubber duck floats in a sudsy bathtub,5,4,5,4,4.666666667,4,5,5,4.666666667,4.333333333,5,5
+Hunyuan,A bright yellow school bus with black tires and a stop sign,5,4,0,4,4,4,5,5,5,4.666666667,5,4.333333333
+Hunyuan,A bronze statue,5,5,0,5,5,4,5,5,5,4.666666667,5,5
+Hunyuan,A brown bear playing with a ball of yarn,5,5,5,5,5,5,5,5,5,5,5,5
+Hunyuan,"A brown bear with black eyes and thick, shaggy fur",5,5,0,5,5,4,4,5,5,4.333333333,5,3.666666667
+Hunyuan,A brown dog,5,5,0,5,5,4.333333333,5,5,5,5,5,5
+Hunyuan,A brown fox wearing a hat,5,5,0,5,5,5,5,5,5,5,5,5
+Hunyuan,A brown horse standing near a cow,3,5,2.333333333,3,5,4,5,5,4.333333333,4.333333333,5,4
+Hunyuan,A brown sweater with a snowflake pattern,5,5,0,5,5,4,5,4.666666667,5,5,5,5
+Hunyuan,"A bulky elephant with a cylindrical trunk and thick, pillar-like legs",5,4.666666667,0,5,5,4,4.666666667,5,5,4.666666667,5,5
+Hunyuan,A bush with green leaves covered with golden gemstones,4.666666667,3,0,3.666666667,4,4,4.666666667,4,5,4.666666667,5,4
+Hunyuan,A butterfly landing on a wide-brimmed hat placed on a chair,5,5,3,3.333333333,5,5,5,4.666666667,5,5,5,4
+Hunyuan,A butterfly on a flower,5,0,5,5,5,4.666666667,5,5,5,5,5,4.666666667
+Hunyuan,A butterfly with blue and white pattern inside an iron oven,5,5,4.333333333,4.333333333,5,5,5,5,5,5,5,4.666666667
+Hunyuan,A butterfly with vibrant wings resting on a blooming sunflower,5,5,5,5,5,4.666666667,5,5,5,5,5,5
+Hunyuan,A butterfly with wings made of stained glass,4.333333333,5,0,4.333333333,5,5,5,5,5,5,5,4.666666667
+Hunyuan,A cactus with a spiral pattern on its surface and covered with glittering golden spines,4.333333333,3,0,3.333333333,4,3.333333333,4,4,3,3.333333333,4.333333333,3.666666667
+Hunyuan,A cactus with arms of different lengths shaped like a candelabra,5,5,0,5,5,4.666666667,5,4,4.333333333,4.666666667,5,4.666666667
+Hunyuan,A cactus with red flowers,5,5,0,5,5,4.333333333,5,5,5,5,5,5
+Hunyuan,A cake on a ceramic plate,5,5,5,5,5,4.666666667,5,5,5,5,5,5
+Hunyuan,A car parked next to a red bicycle,4,0,3.333333333,4,5,5,4,5,5,4,4.333333333,4
+Hunyuan,A car shaped like sushi,5,2.666666667,0,3.333333333,4.666666667,4,5,5,5,4.333333333,5,3.666666667
+Hunyuan,A car with square wheels,5,1.333333333,0,2.666666667,5,5,5,5,5,5,5,4
+Hunyuan,A castle with a rainbow-colored exterior and hieroglyphs written all over it,5,3,0,4,5,4,5,5,5,5,5,4
+Hunyuan,"A cat, one eye missing",5,2,0,3,5,4.666666667,5,4,5,4,3.666666667,3
+Hunyuan,A cat below a chair,5,0,3,3.333333333,4.666666667,4,4.333333333,4,3.333333333,4,4,4
+Hunyuan,A cat curling up on a bicycle with tail batting at the seat,5,0,4.666666667,4.666666667,5,4,4.666666667,5,5,4.666666667,5,4.666666667
+Hunyuan,A cat pawing at a toy,5,0,5,5,5,5,5,5,5,5,5,4.666666667
+Hunyuan,A cat with two different colored eyes,5,2,0,3,5,4,3,5,4.333333333,3.666666667,5,3.333333333
+Hunyuan,A cat with wings,5,5,0,5,5,4.333333333,4.666666667,5,5,5,5,5
+Hunyuan,A cat wizard wearing a magic hat,5,5,0,5,5,5,5,5,5,5,5,5
+Hunyuan,A chair with a seat shaped like a giant leaf,5,5,0,5,5,5,5,5,4.666666667,5,5,5
+Hunyuan,A chair with legs made of vines and a gradient seat that changes from purple to red,5,2.666666667,0,3,5,4,5,5,4.333333333,5,5,4
+Hunyuan,A cherry blossom tree with pink petals and gray branches,5,5,0,5,4.666666667,4.666666667,4.666666667,4.333333333,3.666666667,4.666666667,5,5
+Hunyuan,A chimpanzee carrying a backpack,5,0,5,5,5,5,5,5,5,5,5,5
+Hunyuan,A church with a tall steeple located near a modern house with large windows,3,3,2,2.666666667,4.666666667,4,5,4.333333333,5,4,4.333333333,4
+Hunyuan,A circular white clock,5,5,0,5,5,5,5,5,5,5,5,5
+Hunyuan,"A clay vase with a round base, and a floral pattern",5,5,0,5,5,5,5,4,5,5,5,5
+Hunyuan,A collection of fresh vegetables arranged in a wicker basket,5,5,5,5,5,4,5,4.666666667,4.666666667,4.666666667,5,5
+Hunyuan,A colored mushroom growing on a log,5,5,5,5,5,4.333333333,5,5,4.666666667,5,5,5
+Hunyuan,A colorful dragonfly on a desk with wings opening,4.666666667,5,4,4,5,5,5,5,5,5,5,4
+Hunyuan,"A colorful fruit salad with sliced strawberries, and blueberries",3,3.666666667,0,3,4,3.333333333,5,3.666666667,5,3.333333333,4.333333333,3
+LGM,A asymmetrical flower,2,3.666666667,0,2,3,3,2.333333333,3.666666667,3,2,4,2
+LGM,A baby dragon leaning against a wolf knight,2.666666667,0,2,2,3,2.333333333,3,3,3,2.333333333,3,2
+LGM,A badge shaped like a shield,4.666666667,5,0,4.666666667,4,3.333333333,4.666666667,4,4,4,5,3.666666667
+LGM,A bag with a body shaped like a giant seashell,4,2,0,3,3.666666667,3.333333333,4.666666667,4,3.666666667,3.666666667,4.666666667,3
+LGM,A bat with fan-shaped ears and black wings with pink polka dots,2.666666667,2,0,2,3,3,3,3.666666667,3,2.666666667,3.333333333,1.666666667
+LGM,A beagle in a detective's outfit,4,2.666666667,0,3,3,3,4,3,3,3,4.666666667,2.666666667
+LGM,A bear reading the newspaper,2.333333333,0,2,2,2,2,1.666666667,3,3,1.666666667,2,2
+LGM,A bee above a flower made of red silk,2,2,1,2,1,1,1,1,1,1,2.333333333,1.333333333
+LGM,A bicycle crafted from bones of mythical creatures,1.333333333,1.666666667,0,1.333333333,2,2.333333333,2,3,3,2,3.666666667,2
+LGM,A bird on a branch,2,0,1,1.333333333,1.333333333,1.333333333,3,2,2.333333333,1.333333333,3,2
+LGM,A bird pecking at a shiny necklace on a table,1,1,1,1,1,1,1,1,1,1,1,1
+LGM,A bird with a pointed beak,4,4,0,4,3,3,3,4,3,3,4.333333333,3.333333333
+LGM,A bird with rainbow feathers,1.333333333,3.333333333,0,2,2.666666667,3,2.333333333,3,3,2,1,1
+LGM,A black bicycle with a curved handlebar,4,4,0,4,3,2.666666667,2.333333333,2,3,2.333333333,2,3
+LGM,A black camera,4,4,0,4,3,3,3,3,3,2.666666667,5,3
+LGM,A black cat,2,4,0,3,3,2,3,3.333333333,3,2,4,1.666666667
+LGM,A black cat knocking over a glass with its paw extended,1.666666667,2,1,1.333333333,2,2,2.666666667,3,3,2,3,2
+LGM,A black cat sitting on a soft cushion,4,4,4,4,3,3,3,3.333333333,3,3,3.666666667,3
+LGM,A black leather jacket with silver zippers,3,2.333333333,0,2.333333333,2.333333333,2.666666667,2.333333333,2.333333333,3,2,2,2
+LGM,A black motorcycle with rearview mirror,3.666666667,3.333333333,0,3,2,2,2.333333333,2,3.333333333,2,3.333333333,2
+LGM,A black panther with slender claws and yellow eyes,2,2.333333333,0,2,2.333333333,2,1,2,2.666666667,1.666666667,2,2
+LGM,A black tall hat with a yellow ribbon,2,4,0,3,3.666666667,3,3,3.666666667,3,3,4.333333333,3
+LGM,A blue backpack with a red printed pattern and transparent pockets on the side,4,2,0,2.333333333,3,3,2,3.333333333,3.333333333,3,4,3
+LGM,A blue butterfly on a pink flower,3,3.333333333,3,3.333333333,3,3,3,3,3,3,2.666666667,2.666666667
+LGM,A blue denim jacket draped over a chair,2,4,2,2.333333333,3,3,3,3,3,3,2,1.666666667
+LGM,A blue ottoman with a padded top,4.333333333,4,0,4,3.666666667,4,3.333333333,4,3,3.333333333,5,3.333333333
+LGM,A blue parrot perching on a tree branch,1,1,1,1,1,1,1,1,1,1,1,1
+LGM,A blue parrot with white feathers and a yellow beak,4,4,0,4,3,3,3.333333333,3,3,3,4,2.666666667
+LGM,A blue scarf,3,4,0,3.666666667,3,3,3.333333333,3,3,3,4,2.666666667
+LGM,A bonsai with metal leaves,4,3,0,3.333333333,2.333333333,2,2,3,3,2,4,2.333333333
+LGM,A bright yellow rubber duck floats in a sudsy bathtub,2.333333333,2.333333333,2,2,3,3,3,2,3,2,3,2
+LGM,A bright yellow school bus with black tires and a stop sign,4,3.333333333,0,3.333333333,3,3,2.666666667,2,3.666666667,2,2.333333333,2
+LGM,A bronze statue,4,4,0,4,3,3,3,4,3,3,4.333333333,3
+LGM,A brown bear playing with a ball of yarn,4.666666667,5,5,4.666666667,4,4,4,4,3.333333333,4,4,4
+LGM,"A brown bear with black eyes and thick, shaggy fur",2.666666667,3.666666667,0,2.666666667,3,3,2,3,3,2,4,2
+LGM,A brown dog,4,5,0,4.333333333,3.333333333,2.666666667,4,4,3,3,4,3
+LGM,A brown fox wearing a hat,4,4,0,4,3,3,4,3,3,3,3,2.333333333
+LGM,A brown horse standing near a cow,2.333333333,4,2.333333333,2.333333333,3,2.333333333,2.333333333,2,3,2,2,2
+LGM,A brown sweater with a snowflake pattern,5,4,0,4,3,4,3,4,3,4,5,3
+LGM,"A bulky elephant with a cylindrical trunk and thick, pillar-like legs",4,4.666666667,0,4,3,3.666666667,3.333333333,3.333333333,3,3,4,3
+LGM,A bush with green leaves covered with golden gemstones,3,3,0,3,3.666666667,3.333333333,4,3.666666667,3,3,5,3
+LGM,A butterfly landing on a wide-brimmed hat placed on a chair,2,1.666666667,1.666666667,2,2,2,2,3,2.666666667,1.666666667,2,1.666666667
+LGM,A butterfly on a flower,3,0,2,2,3,3,4,3,3,3.333333333,4,2.333333333
+LGM,A butterfly with blue and white pattern inside an iron oven,1.666666667,1.666666667,1,1.666666667,2,2,2,1.666666667,2,1.333333333,1.333333333,1.333333333
+LGM,A butterfly with vibrant wings resting on a blooming sunflower,3,2,2,2.333333333,3,3,3,3,3,3,4,1.666666667
+LGM,A butterfly with wings made of stained glass,4.333333333,4,0,4,4,4,5,4,4,4,5,4
+LGM,A cactus with a spiral pattern on its surface and covered with glittering golden spines,2.333333333,2,0,2,3,3,4,3,3,3,4,2
+LGM,A cactus with arms of different lengths shaped like a candelabra,4.333333333,4,0,4,2.666666667,3,2.333333333,2,4,3,4,2
+LGM,A cactus with red flowers,3,5,0,4,3,3,3,4,3,3,4,2.666666667
+LGM,A cake on a ceramic plate,2,1.333333333,2.333333333,2,2,2,3,3,3,2,3.333333333,2
+LGM,A car parked next to a red bicycle,2.333333333,0,2,2,3,3,2.666666667,1.666666667,2.666666667,2,2,2
+LGM,A car shaped like sushi,2.666666667,3,0,3,2,1.666666667,2,2,3,1.333333333,3,2
+LGM,A car with square wheels,1,1,0,1,3,4,5,4.666666667,3,3,4.666666667,2
+LGM,A castle with a rainbow-colored exterior and hieroglyphs written all over it,1,2,0,1,2,2,1,2,2.333333333,1.333333333,1,1
+LGM,"A cat, one eye missing",1.666666667,1,0,1,2.666666667,2.333333333,1,3.333333333,3,1,3,1
+LGM,A cat below a chair,1,0,1,1,1,1,1,1,1,1,1,1
+LGM,A cat curling up on a bicycle with tail batting at the seat,2,0,1,2,2,2,1.333333333,2,2.333333333,1.333333333,1,1
+LGM,A cat pawing at a toy,2,0,1.333333333,2,2.333333333,2.333333333,3,2.666666667,2.333333333,1.666666667,2,2.333333333
+LGM,A cat with two different colored eyes,2,1.666666667,0,1.666666667,3,3,1,2.666666667,3,2,2.333333333,2
+LGM,A cat with wings,2.333333333,4,0,3,2.333333333,2,3,3,3,2.333333333,3,2
+LGM,A cat wizard wearing a magic hat,4,4.333333333,0,4,3,3,4,3.666666667,3,3.333333333,4,3
+LGM,A chair with a seat shaped like a giant leaf,2,2.333333333,0,2,3,3,1.666666667,2.666666667,3,2,4,2
+LGM,A chair with legs made of vines and a gradient seat that changes from purple to red,2.666666667,2.666666667,0,2.666666667,3,2,2,2.333333333,3,2,3.333333333,2
+LGM,A cherry blossom tree with pink petals and gray branches,1,1,0,1,1,1,1,1,1,1,1,1
+LGM,A chimpanzee carrying a backpack,3,0,3,3.333333333,2.333333333,2,2.666666667,2.666666667,2.333333333,2,2,2
+LGM,A church with a tall steeple located near a modern house with large windows,1.333333333,1.333333333,1.333333333,1.333333333,2,2,1.666666667,3.333333333,3,1.666666667,3.5,2
+LGM,A circular white clock,4.666666667,5,0,4.666666667,3,3.666666667,4.666666667,4,3.666666667,3.666666667,5,4
+LGM,"A clay vase with a round base, and a floral pattern",4.666666667,4,0,4,4,4,5,4,3.666666667,4,5,4
+LGM,A collection of fresh vegetables arranged in a wicker basket,3,3,4.333333333,3,3,2.666666667,2,3.666666667,3,2,4,3
+LGM,A colored mushroom growing on a log,1.666666667,1.666666667,1.666666667,1.666666667,2.333333333,2.333333333,2.666666667,2.666666667,3,2,1,1
+LGM,A colorful dragonfly on a desk with wings opening,2,3,2,2,3,3,2.333333333,2,3,2,3,2
+LGM,"A colorful fruit salad with sliced strawberries, and blueberries",2.333333333,4,0,2.333333333,2,2,2,4,3,2,3,2.666666667
+Magic3D,A asymmetrical flower,4,2,0,3,4,2,3.666666667,4,3,2.333333333,4.333333333,3
+Magic3D,A baby dragon leaning against a wolf knight,3,0,3,3,2,2,3.333333333,4,3,2.333333333,4,2.333333333
+Magic3D,A badge shaped like a shield,2,3.666666667,0,2.666666667,2,1,4,2.333333333,4,1.666666667,2,2
+Magic3D,A bag with a body shaped like a giant seashell,2,4,0,2.666666667,3.666666667,2,4.333333333,4,3,3,4,2.333333333
+Magic3D,A bat with fan-shaped ears and black wings with pink polka dots,2.333333333,2,0,2,2.333333333,2,3.333333333,2,2,1.666666667,2.333333333,2
+Magic3D,A beagle in a detective's outfit,4,1.666666667,0,2.333333333,2.666666667,2,4,4.333333333,3,2.666666667,4.666666667,2.666666667
+Magic3D,A bear reading the newspaper,4,0,4.666666667,4,2.333333333,1.666666667,4,3.666666667,3,2.666666667,4,3
+Magic3D,A bee above a flower made of red silk,1.666666667,1,1.666666667,1.666666667,1,1,3.333333333,3.333333333,2,1.333333333,1,1
+Magic3D,A bicycle crafted from bones of mythical creatures,1.333333333,1,0,1,1,1,1,1,1,1,2.666666667,1.666666667
+Magic3D,A bird on a branch,2,0,1,1.333333333,2,2,2.333333333,4,4,1.666666667,1,1
+Magic3D,A bird pecking at a shiny necklace on a table,1.666666667,2,1,1.666666667,2,1.666666667,4,4,2,1.666666667,4,2
+Magic3D,A bird with a pointed beak,1.333333333,1,0,1,1,1,1,1,1,1,1,1.333333333
+Magic3D,A bird with rainbow feathers,4.333333333,5,0,4.333333333,3,3,4,4,4,3.333333333,5,3
+Magic3D,A black bicycle with a curved handlebar,1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A black camera,4,4,0,4.333333333,2.666666667,2,4,3.666666667,3.333333333,2.333333333,3,3
+Magic3D,A black cat,3,4,0,3,3,2.666666667,2.333333333,3,4,2,3.666666667,2
+Magic3D,A black cat knocking over a glass with its paw extended,2.666666667,3.666666667,2.666666667,2,3,2,4,3.666666667,3,2,3,2.5
+Magic3D,A black cat sitting on a soft cushion,2.333333333,3,2,2,2.666666667,2.333333333,4,4.666666667,3,2.666666667,4,2
+Magic3D,A black leather jacket with silver zippers,4,3,0,3,3,3,3.333333333,3.666666667,3.333333333,3,4,2.666666667
+Magic3D,A black motorcycle with rearview mirror,3,3,0,3,2.333333333,2,2,3,3.333333333,2,4,2
+Magic3D,A black panther with slender claws and yellow eyes,1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A black tall hat with a yellow ribbon,4,4,0,4,2.666666667,2,4,3,3.666666667,2.666666667,4,2
+Magic3D,A blue backpack with a red printed pattern and transparent pockets on the side,4,3,0,3,3,3,3.666666667,3,3,3,3,2.666666667
+Magic3D,A blue butterfly on a pink flower,3.333333333,4,4,3.666666667,2,2,4,3,2,2,3,2.333333333
+Magic3D,A blue denim jacket draped over a chair,2,3.333333333,2,2.333333333,2,2,4,2.333333333,4,2.333333333,3,2
+Magic3D,A blue ottoman with a padded top,2.666666667,3.666666667,0,3,3,2.666666667,2.666666667,4,3,3,3.666666667,2.333333333
+Magic3D,A blue parrot perching on a tree branch,3.666666667,3,4,3.666666667,3,3,4,4,3,3,3,3
+Magic3D,A blue parrot with white feathers and a yellow beak,3,3,0,3,3,2,3,4,3,2.333333333,3,2.333333333
+Magic3D,A blue scarf,4,4,0,4,3,2.333333333,4,4,3.666666667,3,5,3
+Magic3D,A bonsai with metal leaves,3.666666667,2.333333333,0,3,2,2,4,4,2,2,4,2
+Magic3D,A bright yellow rubber duck floats in a sudsy bathtub,3,3,2,2.333333333,3,2.666666667,4,4,3.666666667,3,2,2
+Magic3D,A bright yellow school bus with black tires and a stop sign,4,3,0,3.333333333,3.333333333,2,3.333333333,4,3,2.666666667,3,2
+Magic3D,A bronze statue,4,3,0,3,2.666666667,2,3.333333333,4,3,2.666666667,5,3
+Magic3D,A brown bear playing with a ball of yarn,2.333333333,4,2,2,2.333333333,2,4,3,3.333333333,2,4,3
+Magic3D,"A brown bear with black eyes and thick, shaggy fur",3.333333333,3,0,3,2,1.666666667,2.333333333,2,4,1.333333333,2,1.666666667
+Magic3D,A brown dog,4.333333333,4.333333333,0,4.333333333,3,3,3.666666667,4,3,3,5,3
+Magic3D,A brown fox wearing a hat,4,4.333333333,0,4,3,2.666666667,4,4,3,3,3,3
+Magic3D,A brown horse standing near a cow,2,3.333333333,2,2,3,2,3,4,3.666666667,2.333333333,4,2.333333333
+Magic3D,A brown sweater with a snowflake pattern,1.666666667,1.333333333,0,1,1,1,1,1,1,1,4,2
+Magic3D,"A bulky elephant with a cylindrical trunk and thick, pillar-like legs",2.666666667,3,0,3,2.666666667,1.333333333,3.666666667,2,3.666666667,2,2,2
+Magic3D,A bush with green leaves covered with golden gemstones,1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A butterfly landing on a wide-brimmed hat placed on a chair,3.666666667,4.666666667,3.333333333,3.666666667,3,3,5,3.666666667,3,3.333333333,4,3
+Magic3D,A butterfly on a flower,3,0,3,3,2.666666667,2,4,3,2.333333333,2,2.666666667,2.333333333
+Magic3D,A butterfly with blue and white pattern inside an iron oven,3,2,2,2,2,2,3,2.666666667,3.333333333,1.666666667,2,1
+Magic3D,A butterfly with vibrant wings resting on a blooming sunflower,2,1,2,1.333333333,1,1,1,1,1,1,2,1.666666667
+Magic3D,A butterfly with wings made of stained glass,2.333333333,2,0,2,2,1.333333333,3,4,2,2,2,2
+Magic3D,A cactus with a spiral pattern on its surface and covered with glittering golden spines,4,3,0,3,2.666666667,2,3,4,3,2.666666667,4.666666667,2.666666667
+Magic3D,A cactus with arms of different lengths shaped like a candelabra,4,4,0,4,3,3,3,4.333333333,3,3,4.666666667,3
+Magic3D,A cactus with red flowers,1.666666667,4,0,2,3,2,4,3,3,2,2.333333333,2
+Magic3D,A cake on a ceramic plate,4,2.666666667,4.666666667,4,3.333333333,2.666666667,4,5,3.333333333,3,5,4
+Magic3D,A car parked next to a red bicycle,3,0,2,3,2,2,3.333333333,4,4,3,4.666666667,2.666666667
+Magic3D,A car shaped like sushi,4,4.666666667,0,4,3,2,3.666666667,4.666666667,3,2.666666667,5,3.666666667
+Magic3D,A car with square wheels,5,3,0,4,3,2,3,4.666666667,3,2.666666667,5,3
+Magic3D,A castle with a rainbow-colored exterior and hieroglyphs written all over it,2,2,0,2,2.666666667,2,3,4,3,2,4,2
+Magic3D,"A cat, one eye missing",2.666666667,1,0,2,3,2.333333333,2.333333333,3.333333333,4,2,2.333333333,2
+Magic3D,A cat below a chair,2,0,2,2,2,1.666666667,3,4,4,2,3,2
+Magic3D,A cat curling up on a bicycle with tail batting at the seat,2.333333333,0,2.666666667,2.666666667,1,1,2,3.333333333,1.666666667,1.333333333,2,2
+Magic3D,A cat pawing at a toy,2,0,1.333333333,1.333333333,2,2,4,3.333333333,3,2,2,2
+Magic3D,A cat with two different colored eyes,3,1.333333333,0,2,2.666666667,2,2.333333333,2.666666667,4,2,2,2
+Magic3D,A cat with wings,3.333333333,4,0,4,2.666666667,2,4,4,3.666666667,3,4,2.666666667
+Magic3D,A cat wizard wearing a magic hat,3,4,0,3,3,2,3,4,3,2,3,3.333333333
+Magic3D,A chair with a seat shaped like a giant leaf,4,2.333333333,0,3.333333333,3,3,3,5,3,3,4,2.333333333
+Magic3D,A chair with legs made of vines and a gradient seat that changes from purple to red,1,2,0,1.666666667,2,1,1.333333333,4,3.666666667,1.666666667,3.666666667,2
+Magic3D,A cherry blossom tree with pink petals and gray branches,2.333333333,2,0,2,2.666666667,1.666666667,2.333333333,3,2,1.666666667,4,2
+Magic3D,A chimpanzee carrying a backpack,4,0,4,4,3,2,4,3.666666667,3,2.666666667,3,3.333333333
+Magic3D,A church with a tall steeple located near a modern house with large windows,2,3,2,2,3,3,2,2,3,1.666666667,2,2
+Magic3D,A circular white clock,1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,"A clay vase with a round base, and a floral pattern",4.333333333,4.666666667,0,4.333333333,3,2.333333333,5,3,3.666666667,3,5,3.333333333
+Magic3D,A collection of fresh vegetables arranged in a wicker basket,4,3,4,3.333333333,2,2,4,4,3.333333333,2,4,3
+Magic3D,A colored mushroom growing on a log,2,2.333333333,2,2,3,2.333333333,3.666666667,4,4,3,4,2
+Magic3D,A colorful dragonfly on a desk with wings opening,3,4.666666667,2,3,2,1,5,4.666666667,2,2,3,2.666666667
+Magic3D,"A colorful fruit salad with sliced strawberries, and blueberries",3,4,0,3,2.666666667,2,3.333333333,3,2.333333333,2,2.333333333,2
+Meshy,A asymmetrical flower,5,5,0,5,5,4,5,5,5,4.666666667,5,5
+Meshy,A baby dragon leaning against a wolf knight,3,0,3,3,5,4,5,5,4.666666667,5,4,3
+Meshy,A badge shaped like a shield,5,5,0,5,5,5,5,5,5,5,5,5
+Meshy,A bag with a body shaped like a giant seashell,5,5,0,5,4.666666667,4,5,5,5,5,5,5
+Meshy,A bat with fan-shaped ears and black wings with pink polka dots,5,3.333333333,0,4,5,4,5,5,5,4.666666667,5,4
+Meshy,A beagle in a detective's outfit,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Meshy,A bear reading the newspaper,5,0,5,5,4.333333333,4,5,4.333333333,5,4,5,4.333333333
+Meshy,A bee above a flower made of red silk,5,5,5,5,4,3.333333333,4,4,4,4,5,4
+Meshy,A bicycle crafted from bones of mythical creatures,5,5,0,5,4.666666667,4,4,5,5,4,5,4
+Meshy,A bird on a branch,5,0,5,5,5,4.333333333,5,4,4.666666667,4.666666667,5,4.333333333
+Meshy,A bird pecking at a shiny necklace on a table,3.666666667,4.333333333,3.666666667,4,4,4,5,5,5,4,5,3.666666667
+Meshy,A bird with a pointed beak,4.666666667,5,0,4.666666667,4,3,4,4,4,3,3,3.666666667
+Meshy,A bird with rainbow feathers,5,5,0,5,5,4,5,5,4.666666667,4,5,3.333333333
+Meshy,A black bicycle with a curved handlebar,5,5,0,5,5,4.666666667,4,4.666666667,5,4.666666667,5,5
+Meshy,A black camera,5,4.666666667,0,4.666666667,4.333333333,5,5,5,5,5,4.666666667,4.333333333
+Meshy,A black cat,5,5,0,5,5,5,5,5,5,5,5,5
+Meshy,A black cat knocking over a glass with its paw extended,4,2.333333333,3,3,3,3,3.333333333,4,3,3,4,3
+Meshy,A black cat sitting on a soft cushion,5,5,5,5,4.666666667,4,5,5,5,4.666666667,5,4.333333333
+Meshy,A black leather jacket with silver zippers,5,5,0,5,5,4,5,4.333333333,5,5,5,5
+Meshy,A black motorcycle with rearview mirror,5,5,0,5,5,4.666666667,4.666666667,4.666666667,5,4.666666667,5,4.333333333
+Meshy,A black panther with slender claws and yellow eyes,5,5,0,5,5,5,5,5,5,5,5,4.666666667
+Meshy,A black tall hat with a yellow ribbon,4.333333333,5,0,4.333333333,5,5,4,5,5,4.333333333,5,4
+Meshy,A blue backpack with a red printed pattern and transparent pockets on the side,5,4,0,4,5,4.666666667,5,5,5,5,5,4
+Meshy,A blue butterfly on a pink flower,4,4,4,4,4.666666667,3,4,4.666666667,5,4,4,3.333333333
+Meshy,A blue denim jacket draped over a chair,3,5,2.333333333,3,5,5,5,4.666666667,4.666666667,5,4,3.666666667
+Meshy,A blue ottoman with a padded top,5,5,0,5,5,5,5,5,5,5,5,5
+Meshy,A blue parrot perching on a tree branch,5,5,5,5,5,4,5,5,4.666666667,4.333333333,5,4.666666667
+Meshy,A blue parrot with white feathers and a yellow beak,5,5,0,5,4,3.333333333,5,4,4,4,5,4
+Meshy,A blue scarf,5,5,0,5,5,4,5,5,4.666666667,5,5,4.333333333
+Meshy,A bonsai with metal leaves,5,4,0,4,4.666666667,4,5,4.333333333,4.666666667,4.666666667,5,4
+Meshy,A bright yellow rubber duck floats in a sudsy bathtub,3,3,2,2,5,4,5,5,5,4,5,4
+Meshy,A bright yellow school bus with black tires and a stop sign,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Meshy,A bronze statue,5,5,0,5,5,5,5,5,5,5,5,5
+Meshy,A brown bear playing with a ball of yarn,5,5,5,5,5,4.666666667,5,5,5,5,5,4.666666667
+Meshy,"A brown bear with black eyes and thick, shaggy fur",5,5,0,5,5,4.333333333,5,5,5,5,5,4.666666667
+Meshy,A brown dog,5,5,0,5,4.333333333,4,5,5,5,4.333333333,5,4.333333333
+Meshy,A brown fox wearing a hat,5,5,0,5,5,5,5,5,5,5,5,4.666666667
+Meshy,A brown horse standing near a cow,4.666666667,5,4.666666667,4.666666667,5,4,5,5,5,4.666666667,5,4.333333333
+Meshy,A brown sweater with a snowflake pattern,5,5,0,5,5,4.666666667,5,4,5,5,5,5
+Meshy,"A bulky elephant with a cylindrical trunk and thick, pillar-like legs",5,5,0,5,5,4.333333333,5,5,4.333333333,5,5,5
+Meshy,A bush with green leaves covered with golden gemstones,4,4,0,4,3.333333333,3,3.333333333,3.333333333,4.333333333,3.333333333,4,3.333333333
+Meshy,A butterfly landing on a wide-brimmed hat placed on a chair,3.666666667,4.666666667,3,3.333333333,5,4,5,4,4,4.333333333,4.333333333,3.333333333
+Meshy,A butterfly on a flower,3,0,2,2,4.666666667,4,5,5,4.666666667,4.333333333,5,3.333333333
+Meshy,A butterfly with blue and white pattern inside an iron oven,3,3,2.333333333,3,4.333333333,4.333333333,5,5,5,4.666666667,5,3.666666667
+Meshy,A butterfly with vibrant wings resting on a blooming sunflower,5,5,5,5,4.666666667,4,5,5,5,4,5,5
+Meshy,A butterfly with wings made of stained glass,5,5,0,5,5,5,5,5,5,5,5,4.666666667
+Meshy,A cactus with a spiral pattern on its surface and covered with glittering golden spines,4.666666667,3.333333333,0,4,4,4,4,4,4.666666667,4,5,4.333333333
+Meshy,A cactus with arms of different lengths shaped like a candelabra,5,5,0,5,4,4,5,5,5,4.333333333,5,4
+Meshy,A cactus with red flowers,5,5,0,5,4,4,5,4.666666667,5,4,5,5
+Meshy,A cake on a ceramic plate,5,5,5,5,5,4,5,5,4.666666667,5,5,4.333333333
+Meshy,A car parked next to a red bicycle,5,0,5,5,4,4,4,4,4.333333333,4,5,4
+Meshy,A car shaped like sushi,5,5,0,5,5,5,5,5,5,5,5,5
+Meshy,A car with square wheels,5,3,0,4,4.333333333,4,3.666666667,4.666666667,5,4,5,4
+Meshy,A castle with a rainbow-colored exterior and hieroglyphs written all over it,4.666666667,4.333333333,0,4,3.333333333,4,4,4,4,4,5,4
+Meshy,"A cat, one eye missing",5,3,0,4,4.666666667,4,4.333333333,4.666666667,5,4,5,4
+Meshy,A cat below a chair,4,0,4.666666667,4,4.666666667,3.666666667,4.666666667,5,5,4,4,4
+Meshy,A cat curling up on a bicycle with tail batting at the seat,5,0,4,4,5,4,5,4,5,4,5,4.333333333
+Meshy,A cat pawing at a toy,3.666666667,0,4,4,4,3.333333333,3,3,3.333333333,3,4,3
+Meshy,A cat with two different colored eyes,5,1.333333333,0,3,4,3.666666667,4.333333333,3.666666667,4.666666667,4,4.666666667,4
+Meshy,A cat with wings,5,5,0,5,4.666666667,4,5,5,5,5,5,4.666666667
+Meshy,A cat wizard wearing a magic hat,5,5,0,5,4.666666667,4,5,5,4.666666667,4,5,4.666666667
+Meshy,A chair with a seat shaped like a giant leaf,5,5,0,5,5,4.333333333,5,5,5,5,5,5
+Meshy,A chair with legs made of vines and a gradient seat that changes from purple to red,5,3,0,3.333333333,5,4.666666667,5,4.666666667,5,5,4.333333333,2.666666667
+Meshy,A cherry blossom tree with pink petals and gray branches,5,4.666666667,0,4.666666667,3.333333333,3.333333333,4,4,4.333333333,4,5,3.666666667
+Meshy,A chimpanzee carrying a backpack,5,0,5,5,4.666666667,4.333333333,5,5,5,4.666666667,5,5
+Meshy,A church with a tall steeple located near a modern house with large windows,5,5,5,5,5,4.666666667,5,4,4.666666667,4.333333333,5,4
+Meshy,A circular white clock,4.666666667,4.666666667,0,4.333333333,4,4.666666667,5,4,4,4.333333333,3,3.666666667
+Meshy,"A clay vase with a round base, and a floral pattern",5,5,0,5,4.666666667,5,5,5,5,5,5,5
+Meshy,A collection of fresh vegetables arranged in a wicker basket,4.666666667,4,4.666666667,4,5,4,5,4.666666667,4.666666667,4.666666667,5,5
+Meshy,A colored mushroom growing on a log,5,5,5,5,5,5,5,5,5,5,5,5
+Meshy,A colorful dragonfly on a desk with wings opening,3,5,2.333333333,3,5,4,5,5,5,4,5,4
+Meshy,"A colorful fruit salad with sliced strawberries, and blueberries",5,4.666666667,0,4.666666667,4,3.333333333,5,5,5,4,5,3.666666667
+One2345++,A asymmetrical flower,4,4.666666667,0,4,3,4,3,4,4,4,4.333333333,3.333333333
+One2345++,A baby dragon leaning against a wolf knight,3,0,2,2,4,4,4.333333333,4,4,4,5,3.333333333
+One2345++,A badge shaped like a shield,5,5,0,5,3.333333333,4,5,4,4.333333333,4,5,4.333333333
+One2345++,A bag with a body shaped like a giant seashell,1,2.666666667,0,2,4,4,5,4,3.666666667,4,4,2
+One2345++,A bat with fan-shaped ears and black wings with pink polka dots,3.333333333,2.333333333,0,2.333333333,4,4,3.666666667,4,4,4,4.333333333,3
+One2345++,A beagle in a detective's outfit,4,3,0,3.333333333,3.666666667,4,4,3.666666667,3.666666667,4,4.666666667,3.666666667
+One2345++,A bear reading the newspaper,5,0,4.666666667,5,3.333333333,3,4,4,3.333333333,3.333333333,5,4
+One2345++,A bee above a flower made of red silk,3,4,2,2.666666667,4,4,4,4,3.666666667,4,4,3
+One2345++,A bicycle crafted from bones of mythical creatures,4,3,0,3,3,3.333333333,2,3.666666667,2.666666667,2.666666667,4,3
+One2345++,A bird on a branch,3,0,2,2,3,3,4,4,4,3.666666667,4,3
+One2345++,A bird pecking at a shiny necklace on a table,3.666666667,2,3.666666667,3,3,3,4,4,3.666666667,3.333333333,4,3.333333333
+One2345++,A bird with a pointed beak,4,5,0,4,3,3,4,4,3.333333333,3.333333333,5,2.666666667
+One2345++,A bird with rainbow feathers,3.666666667,4,0,4,3,3,3,3.666666667,4,3,4,3
+One2345++,A black bicycle with a curved handlebar,5,4,0,4.333333333,3,3,3,4,3,3.333333333,5,3.666666667
+One2345++,A black camera,4,4.333333333,0,4,3.666666667,3,4,4,4,3,3.666666667,3
+One2345++,A black cat,4,4.666666667,0,4,4,3,3,4,3,3,4,3
+One2345++,A black cat knocking over a glass with its paw extended,3,3,2,2,2.666666667,2,3,3,3,2,3.5,2
+One2345++,A black cat sitting on a soft cushion,4.333333333,5,4.333333333,4.333333333,3,2.333333333,3.333333333,4,4,3,4.333333333,3
+One2345++,A black leather jacket with silver zippers,4.333333333,3,0,4,4,4,5,4,4,4,5,3.666666667
+One2345++,A black motorcycle with rearview mirror,4,3,0,3.333333333,3,3,4,3,3,3,4.333333333,3
+One2345++,A black panther with slender claws and yellow eyes,3,4,0,3,3,3,3,3.666666667,4,3,5,3.666666667
+One2345++,A black tall hat with a yellow ribbon,5,5,0,5,4.666666667,5,5,4.666666667,5,5,5,4
+One2345++,A blue backpack with a red printed pattern and transparent pockets on the side,4,3.333333333,0,4,3,3,3,3,3.666666667,3,4,3
+One2345++,A blue butterfly on a pink flower,4,4,3,3.666666667,3.333333333,3.333333333,4,3.333333333,3,3.666666667,5,4
+One2345++,A blue denim jacket draped over a chair,4,4,4,4,3.333333333,3.333333333,4.333333333,4,3.666666667,4,4,2.666666667
+One2345++,A blue ottoman with a padded top,5,5,0,5,4.666666667,4,5,5,5,4.666666667,5,4.666666667
+One2345++,A blue parrot perching on a tree branch,4,4,4,4,4,3.333333333,4,4,3.666666667,3.666666667,5,4
+One2345++,A blue parrot with white feathers and a yellow beak,5,5,0,5,4,4,4.666666667,4,3.666666667,4,5,4
+One2345++,A blue scarf,3.333333333,4,0,3.333333333,3.333333333,4,4,4,4,4,4.666666667,4
+One2345++,A bonsai with metal leaves,4.333333333,3,0,3.666666667,3,3,4,3.666666667,3.333333333,3.333333333,5,2.666666667
+One2345++,A bright yellow rubber duck floats in a sudsy bathtub,4,3,4,3,3,3,3,3,3,3,4,3.666666667
+One2345++,A bright yellow school bus with black tires and a stop sign,4.333333333,3.666666667,0,3.666666667,2.333333333,2.333333333,3.666666667,3.666666667,3,3,4,3
+One2345++,A bronze statue,4.666666667,4,0,4,3,3.333333333,3.666666667,4,3,3.333333333,4.333333333,3
+One2345++,A brown bear playing with a ball of yarn,4,5,4.666666667,4,3.666666667,3,4,3.666666667,4,3.666666667,5,3.666666667
+One2345++,"A brown bear with black eyes and thick, shaggy fur",5,3.666666667,0,4,4,3.333333333,4,4,3,3.666666667,5,3
+One2345++,A brown dog,5,5,0,5,4,4,4.333333333,4,4.666666667,4,5,4
+One2345++,A brown fox wearing a hat,4,4.666666667,0,4,4,4,3.666666667,4,3.333333333,4,4.333333333,3.333333333
+One2345++,A brown horse standing near a cow,3,4,2,3,3.333333333,4,4,4,3.666666667,4,4.666666667,2.333333333
+One2345++,A brown sweater with a snowflake pattern,5,4.333333333,0,4.666666667,3.333333333,3,4.333333333,4.666666667,4.333333333,4,5,4
+One2345++,"A bulky elephant with a cylindrical trunk and thick, pillar-like legs",4.666666667,4,0,4,3,3.333333333,3.333333333,3.666666667,4,3.333333333,4,3
+One2345++,A bush with green leaves covered with golden gemstones,2,1,0,1,2.666666667,2,3.333333333,3,3,2,4,2
+One2345++,A butterfly landing on a wide-brimmed hat placed on a chair,2,4.333333333,1.333333333,2,4,4,4,4,4,4,4.666666667,2
+One2345++,A butterfly on a flower,4,0,4,4,3,3.666666667,3.333333333,3,3.333333333,3.333333333,4,3
+One2345++,A butterfly with blue and white pattern inside an iron oven,2.333333333,2,2,2,2.666666667,2.333333333,3,4,3,2.333333333,4.5,2
+One2345++,A butterfly with vibrant wings resting on a blooming sunflower,4,4,4.333333333,4,3,3,3.333333333,3.333333333,3,3.333333333,4,3.666666667
+One2345++,A butterfly with wings made of stained glass,5,5,0,5,4,4,3,4,4,4,5,4
+One2345++,A cactus with a spiral pattern on its surface and covered with glittering golden spines,1,1,0,1,1,1,1,1,1,1,1,1
+One2345++,A cactus with arms of different lengths shaped like a candelabra,4,4,0,4,3,3.333333333,3,4,4,3,4.333333333,2.333333333
+One2345++,A cactus with red flowers,4,4.666666667,0,4,3,3,3,2,3,3,4.666666667,3
+One2345++,A cake on a ceramic plate,4.333333333,4.666666667,4.666666667,4.333333333,4,4,5,4,4.333333333,4,5,4
+One2345++,A car parked next to a red bicycle,4,0,4,4,3,3,3.666666667,3,3,3,4,3
+One2345++,A car shaped like sushi,3.333333333,4,0,3.666666667,3,3.333333333,3.666666667,4,4,3.666666667,4,3
+One2345++,A car with square wheels,4,4,0,4,3.666666667,4,4.333333333,4,3.666666667,4,4.666666667,3.333333333
+One2345++,A castle with a rainbow-colored exterior and hieroglyphs written all over it,3.333333333,4,0,3.333333333,3,3,3.333333333,3.666666667,4,3,4.333333333,3.333333333
+One2345++,"A cat, one eye missing",4.666666667,2.666666667,0,3,3.666666667,4,2.666666667,4.333333333,3.666666667,3,5,2.333333333
+One2345++,A cat below a chair,2.666666667,0,2,2,2.333333333,2.333333333,4,4,3,3,4,2
+One2345++,A cat curling up on a bicycle with tail batting at the seat,4,0,3,3,3,3.666666667,3,4,3.666666667,3.333333333,4.666666667,3.333333333
+One2345++,A cat pawing at a toy,3,0,2,2,3,3,3.666666667,4,3,3,3.333333333,3
+One2345++,A cat with two different colored eyes,3,1.666666667,0,2.666666667,2.666666667,2,1.666666667,4,4,2,4,2
+One2345++,A cat with wings,4,4,0,4,3,2.333333333,3,3.333333333,3,3,3,3
+One2345++,A cat wizard wearing a magic hat,2.333333333,4.666666667,0,3,3,3,3.333333333,4,3.333333333,3.333333333,4.333333333,3
+One2345++,A chair with a seat shaped like a giant leaf,4,4,0,4,3,3,4,3.333333333,3.666666667,3,4,2.333333333
+One2345++,A chair with legs made of vines and a gradient seat that changes from purple to red,3,3,0,3,2.666666667,2.666666667,2,3,2,2,3.666666667,2
+One2345++,A cherry blossom tree with pink petals and gray branches,1,1,0,1,1,1,1,1,1,1,1,1
+One2345++,A chimpanzee carrying a backpack,3.666666667,0,4,3.666666667,4,4,4,4,3.666666667,4,4,3.333333333
+One2345++,A church with a tall steeple located near a modern house with large windows,4,4.333333333,4,4,4,4.666666667,5,4.333333333,4,4,5,4
+One2345++,A circular white clock,5,5,0,5,3.666666667,4,5,4,4,4,5,4.333333333
+One2345++,"A clay vase with a round base, and a floral pattern",5,4,0,4,4,4,4.333333333,4.666666667,4,4,5,4.333333333
+One2345++,A collection of fresh vegetables arranged in a wicker basket,4,4,4,4,3,3.666666667,4.666666667,3,3,3.333333333,3.333333333,3
+One2345++,A colored mushroom growing on a log,4,4,4,4,4,4,4,4,4,4,5,3.333333333
+One2345++,A colorful dragonfly on a desk with wings opening,3,4,3.666666667,4,3,3.666666667,4,4,3.666666667,3.666666667,4,3.333333333
+One2345++,"A colorful fruit salad with sliced strawberries, and blueberries",4,4,0,4,2.333333333,3,4,3.666666667,3.666666667,3.333333333,5,3.333333333
+Rodin,A asymmetrical flower,5,4,0,4,5,4.333333333,5,5,5,5,5,4
+Rodin,A baby dragon leaning against a wolf knight,3,0,3,3,5,4,4.666666667,4,4,4,5,3.666666667
+Rodin,A badge shaped like a shield,3.666666667,4,0,3.666666667,4.333333333,5,2.666666667,4.666666667,4.666666667,4,5,3.666666667
+Rodin,A bag with a body shaped like a giant seashell,5,5,0,5,5,5,5,5,5,5,5,4.666666667
+Rodin,A bat with fan-shaped ears and black wings with pink polka dots,5,3,0,3,5,5,5,5,5,5,5,4
+Rodin,A beagle in a detective's outfit,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A bear reading the newspaper,5,0,5,5,5,5,5,5,4.666666667,5,5,5
+Rodin,A bee above a flower made of red silk,5,5,5,5,5,5,5,5,4.666666667,5,5,4.333333333
+Rodin,A bicycle crafted from bones of mythical creatures,5,2,0,3,5,4.666666667,3.666666667,5,5,4.666666667,5,4
+Rodin,A bird on a branch,3,0,2,2,5,5,5,4,5,4.333333333,5,4
+Rodin,A bird pecking at a shiny necklace on a table,4.666666667,4,4,4,5,4,4.333333333,5,4.666666667,4.333333333,5,4
+Rodin,A bird with a pointed beak,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A bird with rainbow feathers,5,5,0,5,4.333333333,4.333333333,5,5,4.666666667,4.333333333,5,5
+Rodin,A black bicycle with a curved handlebar,5,5,0,5,4.666666667,4.333333333,4,4.666666667,5,4.333333333,4.666666667,3.666666667
+Rodin,A black camera,5,5,0,5,5,4.333333333,5,5,5,5,5,5
+Rodin,A black cat,5,5,0,5,5,4,5,5,4.333333333,4.666666667,5,4.666666667
+Rodin,A black cat knocking over a glass with its paw extended,4,3,3,3,4.666666667,4.333333333,3.666666667,4,4.666666667,4,4.666666667,4
+Rodin,A black cat sitting on a soft cushion,5,5,5,5,5,5,5,4,4.666666667,4,5,4.666666667
+Rodin,A black leather jacket with silver zippers,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A black motorcycle with rearview mirror,5,5,0,5,5,5,4,5,5,5,5,4
+Rodin,A black panther with slender claws and yellow eyes,5,5,0,5,4.666666667,4.666666667,5,5,5,5,5,5
+Rodin,A black tall hat with a yellow ribbon,5,5,0,5,5,4.333333333,5,5,5,5,5,5
+Rodin,A blue backpack with a red printed pattern and transparent pockets on the side,5,4,0,4,5,5,5,5,5,5,5,4.666666667
+Rodin,A blue butterfly on a pink flower,4,5,5,4,5,4.666666667,4.333333333,5,5,4.666666667,5,4.333333333
+Rodin,A blue denim jacket draped over a chair,5,4.333333333,5,4.333333333,5,5,5,5,5,5,5,4.666666667
+Rodin,A blue ottoman with a padded top,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A blue parrot perching on a tree branch,3,5,2.666666667,3,5,5,5,5,5,5,5,4
+Rodin,A blue parrot with white feathers and a yellow beak,5,3.666666667,0,4,5,5,5,5,5,5,5,4
+Rodin,A blue scarf,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A bonsai with metal leaves,4.666666667,3,0,4,4.333333333,4,3.333333333,4,4,4,5,3
+Rodin,A bright yellow rubber duck floats in a sudsy bathtub,5,3.666666667,5,4,5,4,5,5,4.666666667,3.333333333,5,4.333333333
+Rodin,A bright yellow school bus with black tires and a stop sign,5,4.333333333,0,4.333333333,4.666666667,4.333333333,4,5,5,4.333333333,5,4
+Rodin,A bronze statue,5,5,0,5,4.333333333,5,5,4.666666667,5,5,5,4.666666667
+Rodin,A brown bear playing with a ball of yarn,5,5,5,5,5,5,5,4,4,4.333333333,5,4.333333333
+Rodin,"A brown bear with black eyes and thick, shaggy fur",5,5,0,5,5,5,5,5,4.333333333,5,5,5
+Rodin,A brown dog,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A brown fox wearing a hat,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A brown horse standing near a cow,3,5,2,3,5,5,5,5,5,5,5,4
+Rodin,A brown sweater with a snowflake pattern,5,5,0,5,5,4,5,4.666666667,5,4.666666667,5,4
+Rodin,"A bulky elephant with a cylindrical trunk and thick, pillar-like legs",5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A bush with green leaves covered with golden gemstones,3,4.666666667,0,3.666666667,5,4,5,5,4.666666667,4,4,4
+Rodin,A butterfly landing on a wide-brimmed hat placed on a chair,5,5,5,5,5,5,5,5,5,5,5,4.666666667
+Rodin,A butterfly on a flower,3,0,2,2,5,4.666666667,4,5,5,4.333333333,5,3.666666667
+Rodin,A butterfly with blue and white pattern inside an iron oven,4.333333333,3,5,3.333333333,5,4,3.666666667,5,4,4.333333333,4.666666667,3.5
+Rodin,A butterfly with vibrant wings resting on a blooming sunflower,3,3,2,2.666666667,4,4,5,5,4.666666667,4,5,3
+Rodin,A butterfly with wings made of stained glass,5,4,0,4.333333333,5,5,5,5,5,5,5,5
+Rodin,A cactus with a spiral pattern on its surface and covered with glittering golden spines,5,2.333333333,0,3.333333333,4.333333333,4,5,5,4,4,5,3.666666667
+Rodin,A cactus with arms of different lengths shaped like a candelabra,5,5,0,5,4.333333333,4.666666667,5,5,5,5,5,5
+Rodin,A cactus with red flowers,5,5,0,5,5,5,5,4.666666667,5,4.666666667,5,5
+Rodin,A cake on a ceramic plate,5,5,5,5,5,5,5,5,5,5,5,5
+Rodin,A car parked next to a red bicycle,3,0,2,2.666666667,5,4,5,4.666666667,4.333333333,4.333333333,5,4
+Rodin,A car shaped like sushi,5,2.333333333,0,3,5,4,4.666666667,5,4.666666667,4.666666667,4,3
+Rodin,A car with square wheels,5,3,0,4,5,5,5,5,5,5,5,4.333333333
+Rodin,A castle with a rainbow-colored exterior and hieroglyphs written all over it,5,3,0,4,5,5,4.333333333,5,5,5,5,4
+Rodin,"A cat, one eye missing",5,3,0,4,5,5,3,5,4,3.333333333,5,3.333333333
+Rodin,A cat below a chair,5,0,3,4,5,5,5,5,5,5,5,4
+Rodin,A cat curling up on a bicycle with tail batting at the seat,5,0,4.666666667,4.666666667,5,4,4,5,4.666666667,4,5,4.5
+Rodin,A cat pawing at a toy,3,0,2,2,5,5,5,5,4.666666667,5,5,3.333333333
+Rodin,A cat with two different colored eyes,5,3,0,4,5,5,5,5,5,5,5,4
+Rodin,A cat with wings,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A cat wizard wearing a magic hat,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A chair with a seat shaped like a giant leaf,5,5,0,5,5,4.333333333,5,5,5,5,5,5
+Rodin,A chair with legs made of vines and a gradient seat that changes from purple to red,4.333333333,2,0,2.333333333,4,4,3,4.666666667,5,4,5,3.333333333
+Rodin,A cherry blossom tree with pink petals and gray branches,4.333333333,5,0,4.333333333,4.666666667,4.666666667,3.666666667,5,5,4,4.333333333,4
+Rodin,A chimpanzee carrying a backpack,5,0,5,5,5,4.333333333,5,5,4.666666667,5,5,5
+Rodin,A church with a tall steeple located near a modern house with large windows,5,5,5,5,5,4.333333333,5,5,5,4.666666667,5,4.333333333
+Rodin,A circular white clock,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,"A clay vase with a round base, and a floral pattern",5,5,0,5,5,4.333333333,5,4.666666667,5,5,5,4
+Rodin,A collection of fresh vegetables arranged in a wicker basket,5,5,5,5,5,5,5,4,4,4.666666667,5,4.666666667
+Rodin,A colored mushroom growing on a log,5,4.333333333,5,4.333333333,5,5,5,5,5,5,5,5
+Rodin,A colorful dragonfly on a desk with wings opening,3,3,2,2.333333333,5,5,5,5,5,5,5,3.333333333
+Rodin,"A colorful fruit salad with sliced strawberries, and blueberries",5,5,0,5,4.333333333,3.333333333,5,4,4,4,5,4
+Tripo,A asymmetrical flower,5,3,0,4,5,5,4,5,5,5,5,4
+Tripo,A baby dragon leaning against a wolf knight,5,5,5,5,5,5,5,5,5,5,5,5
+Tripo,A badge shaped like a shield,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A bag with a body shaped like a giant seashell,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A bat with fan-shaped ears and black wings with pink polka dots,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A beagle in a detective's outfit,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A bear reading the newspaper,5,0,5,5,5,5,5,5,5,5,5,5
+Tripo,A bee above a flower made of red silk,5,5,5,5,5,5,4.666666667,5,4.333333333,4.666666667,5,5
+Tripo,A bicycle crafted from bones of mythical creatures,5,4,0,4.333333333,4,4,5,5,5,5,5,4.333333333
+Tripo,A bird on a branch,3,0,1,2.666666667,5,5,5,5,5,5,5,4
+Tripo,A bird pecking at a shiny necklace on a table,4,4.666666667,4,4,5,5,5,5,5,5,5,4
+Tripo,A bird with a pointed beak,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A bird with rainbow feathers,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A black bicycle with a curved handlebar,5,3.333333333,0,4,5,4.666666667,4,5,5,4.666666667,5,4.333333333
+Tripo,A black camera,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A black cat,5,5,0,5,5,4.666666667,4.666666667,5,5,5,5,5
+Tripo,A black cat knocking over a glass with its paw extended,5,5,5,5,5,5,5,5,5,5,5,4.666666667
+Tripo,A black cat sitting on a soft cushion,3,3,2,2,5,5,5,5,5,5,5,4
+Tripo,A black leather jacket with silver zippers,5,5,0,5,4.666666667,4.666666667,5,5,5,5,5,5
+Tripo,A black motorcycle with rearview mirror,5,5,0,5,4.333333333,4.333333333,5,5,5,5,5,5
+Tripo,A black panther with slender claws and yellow eyes,5,5,0,5,5,5,5,5,5,5,5,4.666666667
+Tripo,A black tall hat with a yellow ribbon,5,5,0,5,4.666666667,4,5,4,5,4.666666667,5,4.333333333
+Tripo,A blue backpack with a red printed pattern and transparent pockets on the side,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A blue butterfly on a pink flower,4.666666667,5,4.666666667,4.666666667,5,5,4,5,5,4,5,4
+Tripo,A blue denim jacket draped over a chair,5,5,5,5,5,5,4,5,4.666666667,4.333333333,5,4.666666667
+Tripo,A blue ottoman with a padded top,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A blue parrot perching on a tree branch,4.333333333,5,4.666666667,4.666666667,5,5,5,4.333333333,5,5,5,4.666666667
+Tripo,A blue parrot with white feathers and a yellow beak,5,4,0,4,4.666666667,5,5,5,5,5,5,5
+Tripo,A blue scarf,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A bonsai with metal leaves,5,2.666666667,0,3.333333333,5,4,5,5,5,4.666666667,5,3.666666667
+Tripo,A bright yellow rubber duck floats in a sudsy bathtub,5,5,5,5,5,5,5,5,5,5,5,4.666666667
+Tripo,A bright yellow school bus with black tires and a stop sign,5,4,0,4.333333333,5,4.666666667,5,5,5,5,5,4.333333333
+Tripo,A bronze statue,5,4,0,4,4,4,5,5,5,5,5,4.666666667
+Tripo,A brown bear playing with a ball of yarn,5,5,5,5,5,5,5,5,5,5,5,5
+Tripo,"A brown bear with black eyes and thick, shaggy fur",5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A brown dog,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A brown fox wearing a hat,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A brown horse standing near a cow,5,5,5,5,5,5,5,5,5,5,5,4.666666667
+Tripo,A brown sweater with a snowflake pattern,5,3,0,4,5,4.333333333,4,4,4.333333333,4.666666667,4.333333333,4
+Tripo,"A bulky elephant with a cylindrical trunk and thick, pillar-like legs",5,5,0,5,5,5,5,4,5,5,5,4.333333333
+Tripo,A bush with green leaves covered with golden gemstones,3,4,0,3,4,3.333333333,4,4,4,4,4,3
+Tripo,A butterfly landing on a wide-brimmed hat placed on a chair,5,5,5,5,5,4.333333333,5,5,5,4.666666667,5,4.333333333
+Tripo,A butterfly on a flower,5,0,5,5,5,5,4.333333333,5,4.666666667,5,4.5,4.666666667
+Tripo,A butterfly with blue and white pattern inside an iron oven,3,3,2,2.333333333,5,5,5,5,5,5,5,4
+Tripo,A butterfly with vibrant wings resting on a blooming sunflower,5,5,5,5,5,5,5,5,5,5,5,5
+Tripo,A butterfly with wings made of stained glass,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A cactus with a spiral pattern on its surface and covered with glittering golden spines,4.333333333,2.333333333,0,3,5,4.666666667,5,5,5,5,4.333333333,2.666666667
+Tripo,A cactus with arms of different lengths shaped like a candelabra,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A cactus with red flowers,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A cake on a ceramic plate,3,1,2,2,4,4,5,5,5,4.333333333,5,4
+Tripo,A car parked next to a red bicycle,5,0,5,5,5,4,5,5,5,4,5,4.666666667
+Tripo,A car shaped like sushi,5,2,0,3,5,5,5,5,5,5,4.666666667,4
+Tripo,A car with square wheels,5,3,0,4,5,5,5,5,5,5,5,4
+Tripo,A castle with a rainbow-colored exterior and hieroglyphs written all over it,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,"A cat, one eye missing",5,5,0,5,4,4.333333333,5,5,4.333333333,5,5,5
+Tripo,A cat below a chair,5,0,3.333333333,4,5,5,5,5,5,5,5,4
+Tripo,A cat curling up on a bicycle with tail batting at the seat,5,0,5,5,5,5,4.666666667,5,5,5,5,5
+Tripo,A cat pawing at a toy,5,0,5,5,5,5,4.666666667,5,5,5,5,5
+Tripo,A cat with two different colored eyes,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A cat with wings,5,5,0,5,5,4.666666667,5,4.333333333,5,5,5,5
+Tripo,A cat wizard wearing a magic hat,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A chair with a seat shaped like a giant leaf,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A chair with legs made of vines and a gradient seat that changes from purple to red,5,4.666666667,0,4.666666667,5,5,5,5,5,5,5,4
+Tripo,A cherry blossom tree with pink petals and gray branches,5,5,0,5,4,4,4.333333333,4,5,4,5,5
+Tripo,A chimpanzee carrying a backpack,5,0,5,5,5,4.666666667,5,5,5,5,5,5
+Tripo,A church with a tall steeple located near a modern house with large windows,5,5,5,5,5,5,5,5,5,5,5,5
+Tripo,A circular white clock,5,5,0,5,5,4.666666667,5,5,5,5,5,4.666666667
+Tripo,"A clay vase with a round base, and a floral pattern",5,5,0,5,5,4.666666667,5,4.666666667,4.333333333,5,5,5
+Tripo,A collection of fresh vegetables arranged in a wicker basket,5,5,5,5,5,5,5,4.666666667,5,5,5,5
+Tripo,A colored mushroom growing on a log,5,5,5,5,5,5,5,5,5,5,5,5
+Tripo,A colorful dragonfly on a desk with wings opening,3,5,2,3,5,5,5,5,5,5,5,3.666666667
+Tripo,"A colorful fruit salad with sliced strawberries, and blueberries",3,4,0,3.666666667,5,5,5,5,5,5,4,3.666666667

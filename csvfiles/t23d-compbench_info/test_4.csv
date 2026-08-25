@@ -1,0 +1,721 @@
+model,prompt,Object Alignment,Attribute Alignment,Interaction Alignment,Overall Alignment,Texture Clarity,Texture Aesthetics,Geometry Loss,Geometry Redundancy,Geometry Roughness,Overall Visual,3D Authentic,Overall Quality
+3DTopia,A phoenix with a long beak and wings shaped like a flame fan,1.333333333,1,0,1,2.666666667,2,2.666666667,3,4,2,1,1
+3DTopia,A phoenix with golden feathers,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,A piano with keys that sparkle like crushed diamonds,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,A pig playing a drum set,1,0,1,1,1,1,1,1,1,1,1,1
+3DTopia,A pigeon reading a book,1,0,1,1,1,1,1,1,1,1,3,2
+3DTopia,A pile of burning firewood in a refrigerator with the door open,2,2.666666667,1,2,3,3,2,4,3.666666667,2.666666667,3,2
+3DTopia,"A pine tree with a tall, conical form",4,2,0,3,3,3,3,3,4,3,4,3
+3DTopia,A pink boat,3.333333333,4,0,3.666666667,2,2,3,3,3,2,4,2.666666667
+3DTopia,A pink cherry blossom with a slender branch,3,4,0,3,2.666666667,3,2,3,3.333333333,2,2,2
+3DTopia,A pink desk lamp shaped like a trumpet flower,3,3,0,3,2.666666667,2.666666667,4,4.333333333,4,3,4,3
+3DTopia,A pink pig with a curly tail,2,3,0,2,3,2.333333333,2.666666667,3.666666667,3.333333333,2.333333333,3,2
+3DTopia,A pink rose with a ruby in the center,2.333333333,2.666666667,0,2,2,2,2.666666667,2.333333333,2.666666667,1.666666667,2.333333333,1.333333333
+3DTopia,A pink shark,2.666666667,4,0,3,3,2,3,3.333333333,3.333333333,2,3,2.333333333
+3DTopia,A pink smartwatch with a square face and a silicone band,1,2,0,1,1,1,1,1,1,1,3.333333333,2
+3DTopia,A pink vase filled with white lilies,2,3.333333333,0,2.333333333,2.666666667,2.333333333,2.333333333,4,3,2.333333333,3,2.333333333
+3DTopia,A pirate digging for treasure with a rusty shovel,1,1,1,1,2,2,2,3.333333333,3.333333333,2,3,2
+3DTopia,A pizza placed beside a fresh salad,2.333333333,1.333333333,1.666666667,1.666666667,3,3,3,4,3,3,2.666666667,2
+3DTopia,A plant with rainbow leaves in a clay pot,2.333333333,1.333333333,1.666666667,1.666666667,2.333333333,2.333333333,2.333333333,4,3,2.333333333,3,2
+3DTopia,A pot shaped like a lotus leaf with a golden pattern on the surface,2,2,0,2,3,2.333333333,3,3.666666667,3,2,1,1
+3DTopia,A pottery bowl with hand-painted flowers,2,2,0,2,3,3,2.666666667,2.666666667,3,2.666666667,5,3
+3DTopia,A purple shirt with a square collar and buttoned front,4.333333333,4.333333333,0,4.333333333,3.666666667,2.333333333,2,2.333333333,3,3,3,2.333333333
+3DTopia,A pyramidal bottle with glowing liquid,2,2.333333333,0,2,2,2,2,3.333333333,3,2,3,2
+3DTopia,A rabbit chewing a shoe,1,0,1,1,1,1,1,1,1,1,2.666666667,2
+3DTopia,A rabbit kissing a fox,2,0,1.333333333,2,3,2,3,3.666666667,3,2,4,2
+3DTopia,A rabbit pirate casting a spell with a magic wand,1.666666667,0,1.333333333,1.666666667,2,2,3.666666667,3,3,2,2,2
+3DTopia,A rabbit wearing a dress,1.666666667,3.666666667,0,2.333333333,3,2,2.333333333,4,3.333333333,2,3,2.333333333
+3DTopia,A raccoon detective on a rainbow bridge,1,1,1,1,1,1,1,1,1,1,1,1
+3DTopia,A raccoon holding a goblet that shimmers with a rainbow of colors,3,4,2,2,2,2,3,3.666666667,3,2,2,2
+3DTopia,A raccoon nibbling on a fallen walnut with paws holding the nut,1,0,1,1,1,1,1,1,1,1,1,1
+3DTopia,A raccoon under a cable car with tail curling around the handle,1,0,1,1,1,1,1,1,1,1,1,1
+3DTopia,A raccoon wearing a helmet piloting an airplane,1,1,1,1,1,1,1,1,1,1,1.666666667,1
+3DTopia,A raccoon wearing a white chef's hat and red apron with floral patterns,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,A rainbow-colored rabbit with protruding front teeth,1,1,0,1,1,1,1,1,1,1,4,2
+3DTopia,A rectangular belt with a flat buckle and evenly spaced holes,1.333333333,3.333333333,0,2,1,1,1,1,1,1,1,1
+3DTopia,A rectangular car,1,2,0,1,1,1,1,1,1,1,1,1
+3DTopia,A rectangular wooden bookshelf,5,5,0,5,4,4,4,5,4.333333333,4,5,3.666666667
+3DTopia,A rectangular wrench with red patterns and hieroglyphic engravings,2.333333333,2.666666667,0,2.666666667,3,3,3.333333333,4.333333333,4,3,4,2.333333333
+3DTopia,A red armchair with padded armrests,4.666666667,4.333333333,0,4.333333333,3.333333333,2,4,3.333333333,3,3,4.666666667,3
+3DTopia,A red coffee mug on a table,2,4,2,2,3.666666667,3,3,3.666666667,3,3,4,2
+3DTopia,A red drum with a wooden and cylindrical body,2.333333333,3.666666667,0,3,3.666666667,3,4,5,4.333333333,3,4,3
+3DTopia,A red house shaped like an apple,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,A red tiger with a wicker tail,2.666666667,4,0,3,3,3,4,4,3.333333333,3,4,3
+3DTopia,A robot dog below a glowing spaceship,2,3,2,2,3,3,2.333333333,4,3,2.333333333,4,2
+3DTopia,A rocking chair made of amber with cloud-like foam cushions,3,3.666666667,0,3.333333333,3,4,4,4,3.666666667,3.666666667,4.333333333,3.333333333
+3DTopia,A rose with petals of frosted crystal and a stem wrapped in green vines,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,"A round, red apple with a brown stem and green leaves",2.333333333,2,0,2,3,2,2,4,4,2,4,2
+3DTopia,"A round chair with a cushioned seat, and carved spirals on the body",4.666666667,3,0,3.333333333,3,3,3.333333333,4,3.333333333,3,4.666666667,3
+3DTopia,A round green plate like a water lily,3,3,0,3,3,2,3.666666667,4,3,2.333333333,5,3
+3DTopia,A round pizza,1.333333333,3.333333333,0,2,2.666666667,1,3,4,4,2,1,1
+3DTopia,A round sunflower,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,A round teapot of rainbow colors,2,4,0,3,1,1,1,1,1,1,4,3
+3DTopia,A ruler and a pencil,3,0,0,3,3,3.333333333,4.666666667,4,4,3.333333333,4,3.333333333
+3DTopia,A shark with a crown is holding a trident,1,1,1,1,3,2,3,3.333333333,3,2,1,1
+3DTopia,A sheep wearing a dress made of glowing leaves,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,A sheep wearing a hoodie decorated with colorful flowers and green leaves,2,3.666666667,0,2.333333333,3,2.666666667,3,3.666666667,4.333333333,2.666666667,2.666666667,2.333333333
+3DTopia,A shoe next to a sock,1,0,1,1,1,1,1,1,1,1,1,1
+3DTopia,A shoe with a body shaped like a fish,1.333333333,2,0,1.333333333,3,2.333333333,3,4.333333333,3.666666667,2.666666667,4,2.333333333
+3DTopia,A short and dense fern with leaves shaped like feathers,1.666666667,2,0,2,3,2,2,3.666666667,4,2,3,2
+3DTopia,A short brush with gold bristles,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,"A short mushroom with a thick, rounded cap and a narrow stem",3.333333333,4,0,4,3,2.666666667,3,4.333333333,3.333333333,3,5,3.333333333
+3DTopia,A silver circular ring with a gem,3.333333333,3.666666667,0,3.333333333,3,3,4,4,3,3,4,3
+3DTopia,"A silver scissors with rubber handles, and a screw joint",1,2.333333333,0,1.333333333,4,3,5,5,5,3.333333333,4,2
+3DTopia,A skeleton knight sitting on a throne whose armrests are adorned with intricate carvings,3,2.333333333,2.333333333,2.333333333,3,2.666666667,2.666666667,3.333333333,3,2,3,2.666666667
+3DTopia,A skirt made of scales with a hem shaped like a mermaid's tail,2.333333333,3,0,2.666666667,3,3,3,4,3,3,3.666666667,3
+3DTopia,A slender palm tree with fan-shaped leaves and curved branches,3.333333333,3,0,3,3,2.333333333,2.666666667,3,4,3,3.333333333,2
+3DTopia,"A small, oval-shaped fish with a flat body and triangular fins",4,4,0,4,3,3,3.333333333,4,4,3,5,3.333333333
+3DTopia,A small wooden ship inside a porcelain cup,2,1,1,1,2,2,3,3.666666667,3.333333333,2,3.666666667,2
+3DTopia,A snail with a shell made of smooth jade,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,A snake shaped like a long tube,2.333333333,3.666666667,0,3,3,3,3,4,4.666666667,2.333333333,4,2.333333333
+3DTopia,A snake with legs,2,1.333333333,0,1.333333333,3,3,2,4,4,2,3.666666667,2
+3DTopia,A sneaker with blue stripes on the surface,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,A sparrow building a nest on the house with branches and leaves,2,3,1,2,2.666666667,2.333333333,2.333333333,2.666666667,3,2,2,2
+Consistent3D,A phoenix with a long beak and wings shaped like a flame fan,2.333333333,2,0,2,2.333333333,2,4,3,2,2,2,2
+Consistent3D,A phoenix with golden feathers,2,3.333333333,0,2,2.333333333,1.666666667,3,4,2.333333333,2,3,2
+Consistent3D,A piano with keys that sparkle like crushed diamonds,2.666666667,1,0,2,2,1.666666667,2,4,3,2,3.666666667,2
+Consistent3D,A pig playing a drum set,4,0,2,3,2,1.666666667,3,2,2.666666667,1.666666667,2,2
+Consistent3D,A pigeon reading a book,3.666666667,0,3.666666667,3.666666667,2,2,3,4,3,2,3,3
+Consistent3D,A pile of burning firewood in a refrigerator with the door open,2.666666667,3,2,2,2.333333333,2,3.333333333,3,3,2,2.666666667,2
+Consistent3D,"A pine tree with a tall, conical form",4,4,0,4,3,3.333333333,3.333333333,4,3,3,5,3
+Consistent3D,A pink boat,1,1.333333333,0,1,1.333333333,1,2.666666667,1,2,1,1,1
+Consistent3D,A pink cherry blossom with a slender branch,3,2.666666667,0,2.666666667,2,1.333333333,2,2.333333333,2,1.333333333,3,1.666666667
+Consistent3D,A pink desk lamp shaped like a trumpet flower,3.666666667,4,0,4,2,2,4,2.333333333,2,2.333333333,3,2.333333333
+Consistent3D,A pink pig with a curly tail,3,4,0,3,2,1.333333333,2.666666667,2.333333333,2.666666667,2,1.333333333,2
+Consistent3D,A pink rose with a ruby in the center,4,2.666666667,0,3,2,2.666666667,3,4,2.666666667,2,3,3
+Consistent3D,A pink shark,3,2,0,2.333333333,2,1,3,3.333333333,2,1,2,2
+Consistent3D,A pink smartwatch with a square face and a silicone band,1,1,0,1,1,1,1,1,1,1,1,1
+Consistent3D,A pink vase filled with white lilies,4,4,0,4,3,3,3.333333333,4,3,3,4,3.666666667
+Consistent3D,A pirate digging for treasure with a rusty shovel,4,3,3,3,2,2,4,3.666666667,3,2,3,3
+Consistent3D,A pizza placed beside a fresh salad,1.333333333,1,1.333333333,1.333333333,2,2,4,3.666666667,3,2,3,2
+Consistent3D,A plant with rainbow leaves in a clay pot,4,3,4,3.333333333,2.666666667,2,4,2.666666667,3,2.333333333,4,3
+Consistent3D,A pot shaped like a lotus leaf with a golden pattern on the surface,4,3.666666667,0,4,2.333333333,2.333333333,3,3.666666667,3,2.333333333,4,3.666666667
+Consistent3D,A pottery bowl with hand-painted flowers,2.333333333,2.333333333,0,2.333333333,2,1.333333333,1.666666667,2.333333333,2,2,3,1.333333333
+Consistent3D,A purple shirt with a square collar and buttoned front,2,1,0,1.333333333,1,1,1,1,1,1,1.666666667,1.333333333
+Consistent3D,A pyramidal bottle with glowing liquid,2.333333333,4,0,3.333333333,3,2,4,2,2,2,3,3
+Consistent3D,A rabbit chewing a shoe,5,0,5,5,2,2,2.333333333,4,2.333333333,2,3,3
+Consistent3D,A rabbit kissing a fox,3,0,2.666666667,2.666666667,2.666666667,2,3,2,2.666666667,2,2.666666667,3
+Consistent3D,A rabbit pirate casting a spell with a magic wand,3.333333333,0,4,3.333333333,3,3,3.666666667,3,2,3,3,3
+Consistent3D,A rabbit wearing a dress,4,3,0,3.666666667,3,2.333333333,3,4,2.333333333,2,4,2.333333333
+Consistent3D,A raccoon detective on a rainbow bridge,3,3,3,3,2,1,2.333333333,1.666666667,2,1,2,2
+Consistent3D,A raccoon holding a goblet that shimmers with a rainbow of colors,2.333333333,2,1.333333333,2,2.333333333,2,4,4,2,2,4,2
+Consistent3D,A raccoon nibbling on a fallen walnut with paws holding the nut,2.333333333,0,3.333333333,2.666666667,2,1,3,2,2.333333333,1,2,2
+Consistent3D,A raccoon under a cable car with tail curling around the handle,1.666666667,0,1,1,3,2,2.666666667,2,3,2,2,2
+Consistent3D,A raccoon wearing a helmet piloting an airplane,1.666666667,1,1,1.333333333,2,1.333333333,2,3,2.333333333,1.666666667,2,2
+Consistent3D,A raccoon wearing a white chef's hat and red apron with floral patterns,2,3,0,2,3,3,3.333333333,3,3,3,2,2
+Consistent3D,A rainbow-colored rabbit with protruding front teeth,3,3,0,3,2,1,3,3,2,1.333333333,2,2
+Consistent3D,A rectangular belt with a flat buckle and evenly spaced holes,4,4,0,4,2,1.666666667,4,3.333333333,3.666666667,2,3,2
+Consistent3D,A rectangular car,4,4,0,4,2,2,4.333333333,4,4,2.666666667,4.333333333,3.666666667
+Consistent3D,A rectangular wooden bookshelf,2.333333333,3,0,2.333333333,2,2,4,3.666666667,3,2.666666667,2,2
+Consistent3D,A rectangular wrench with red patterns and hieroglyphic engravings,2,3,0,2,3,3,4,5,3,3,4,3
+Consistent3D,A red armchair with padded armrests,1.333333333,2,0,1,1,1,3,2,2,1.333333333,1,1
+Consistent3D,A red coffee mug on a table,2.666666667,4,2,3,2.666666667,2.666666667,4,3,3,3,3,2.333333333
+Consistent3D,A red drum with a wooden and cylindrical body,4,3.333333333,0,3,2.333333333,2,4,4,3,2.333333333,4,2.666666667
+Consistent3D,A red house shaped like an apple,1,1,0,1,1,1,1,1,1,1,1,1
+Consistent3D,A red tiger with a wicker tail,4,3,0,3.333333333,2.666666667,2,3,4,3,2,4,3
+Consistent3D,A robot dog below a glowing spaceship,1.666666667,1,1,1,1,1,1,1,1,1,4,2
+Consistent3D,A rocking chair made of amber with cloud-like foam cushions,3.333333333,1.666666667,0,2,2,1.666666667,3,3,1.333333333,2,4,2
+Consistent3D,A rose with petals of frosted crystal and a stem wrapped in green vines,2,1.333333333,0,1.333333333,2,2,2.666666667,3.666666667,2,2,4,2
+Consistent3D,"A round, red apple with a brown stem and green leaves",3.666666667,3,0,3.333333333,2,2,3.333333333,3.333333333,3,2,3.666666667,2
+Consistent3D,"A round chair with a cushioned seat, and carved spirals on the body",3,2,0,2.333333333,2.666666667,2,2,4,3,2,4,2.333333333
+Consistent3D,A round green plate like a water lily,1.333333333,3,0,2,2,2,2,3,2,2,4,2
+Consistent3D,A round pizza,2,4,0,2,2,1,4,2.666666667,3,1.666666667,1.666666667,1
+Consistent3D,A round sunflower,2,1.333333333,0,2,3,2,3.333333333,4,2,2,3,1.666666667
+Consistent3D,A round teapot of rainbow colors,4,4,0,4,2,2,3,3,2,2.333333333,3,3.666666667
+Consistent3D,A ruler and a pencil,3,0,0,3,2,2,4,4.333333333,3,2,4,2.5
+Consistent3D,A shark with a crown is holding a trident,1,1,1,1,1,1,1,1,1,1,1,1
+Consistent3D,A sheep wearing a dress made of glowing leaves,1.333333333,2,0,2,2.333333333,1.333333333,3,3.333333333,2,1.666666667,2,1
+Consistent3D,A sheep wearing a hoodie decorated with colorful flowers and green leaves,2,1.333333333,0,2,2.666666667,2,3,3.666666667,3,2.333333333,3,2
+Consistent3D,A shoe next to a sock,2.333333333,0,2,2,2,2,4,4,3.333333333,2.333333333,4,2.333333333
+Consistent3D,A shoe with a body shaped like a fish,1,1,0,1,1,1,1,1,1,1,1,1
+Consistent3D,A short and dense fern with leaves shaped like feathers,3.333333333,3.333333333,0,3.333333333,2.333333333,2.333333333,3.666666667,4,3.333333333,3,4,2.666666667
+Consistent3D,A short brush with gold bristles,3,3,0,3,2,2,4,3,3,2,3.666666667,2
+Consistent3D,"A short mushroom with a thick, rounded cap and a narrow stem",3,3.333333333,0,2.666666667,2,2,3,5,3,2,4.666666667,2.666666667
+Consistent3D,A silver circular ring with a gem,1,1,0,1,1,1,1,1,1,1,1,1
+Consistent3D,"A silver scissors with rubber handles, and a screw joint",2,2.666666667,0,2.333333333,3,2,2.666666667,4,3,2,4.333333333,2
+Consistent3D,A skeleton knight sitting on a throne whose armrests are adorned with intricate carvings,3.666666667,2,4,3,2.666666667,2.333333333,4,3,3,2.333333333,2,2.666666667
+Consistent3D,A skirt made of scales with a hem shaped like a mermaid's tail,4,2.333333333,0,3,2.666666667,2,4,3,2.666666667,2.333333333,4,2.666666667
+Consistent3D,A slender palm tree with fan-shaped leaves and curved branches,4,3.333333333,0,3.333333333,3.333333333,3.666666667,3,4.666666667,3,3,3.666666667,2.666666667
+Consistent3D,"A small, oval-shaped fish with a flat body and triangular fins",3,3,0,3,2,1,3,4.666666667,3,1.666666667,4,2
+Consistent3D,A small wooden ship inside a porcelain cup,3,3,3,3,2.333333333,2,3,4,2.333333333,2,2,2
+Consistent3D,A snail with a shell made of smooth jade,2,1.333333333,0,2,2,1.666666667,2,2,2.333333333,2,3,2
+Consistent3D,A snake shaped like a long tube,2.333333333,2,0,2,2,1.666666667,2,3.666666667,2,2,3.333333333,2
+Consistent3D,A snake with legs,4,2,0,2.666666667,1.333333333,1,3.666666667,4,3,1.666666667,4,2
+Consistent3D,A sneaker with blue stripes on the surface,4,4,0,4,2,2,3,3.333333333,3,2,3,2
+Consistent3D,A sparrow building a nest on the house with branches and leaves,2.666666667,4,3,2.666666667,2,1.333333333,3.333333333,2,2,2,2,2
+DreamFusion,A phoenix with a long beak and wings shaped like a flame fan,3,2.333333333,0,2.333333333,3,3,3,4,4,2.333333333,4.666666667,2.333333333
+DreamFusion,A phoenix with golden feathers,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A piano with keys that sparkle like crushed diamonds,3.333333333,1.666666667,0,2.333333333,2,2,2.333333333,3.666666667,3,2,3.666666667,2
+DreamFusion,A pig playing a drum set,4.333333333,0,3,4,2,2,3.666666667,3.333333333,3,3,3,3
+DreamFusion,A pigeon reading a book,3,0,3,3,2.333333333,2,3.666666667,3,3.333333333,2,3,2.666666667
+DreamFusion,A pile of burning firewood in a refrigerator with the door open,1,1,1,1,1,1,1,1,1,1,1,1
+DreamFusion,"A pine tree with a tall, conical form",2,2.333333333,0,2,2.333333333,2,2.333333333,4,3,2,4,2
+DreamFusion,A pink boat,3.333333333,3.666666667,0,3,3.333333333,3,4,2,2,2,2,3
+DreamFusion,A pink cherry blossom with a slender branch,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A pink desk lamp shaped like a trumpet flower,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A pink pig with a curly tail,5,3,0,3,3.666666667,2.666666667,5,5,3,3.333333333,5,3
+DreamFusion,A pink rose with a ruby in the center,2.333333333,2,0,2.333333333,2.333333333,2,4,3,3,2,1,1
+DreamFusion,A pink shark,2.333333333,1,0,2,2,2,2.666666667,3,3.666666667,2,3.666666667,2
+DreamFusion,A pink smartwatch with a square face and a silicone band,1,1.333333333,0,1,2,2,2.333333333,3.333333333,4,1.333333333,1,1
+DreamFusion,A pink vase filled with white lilies,4,3.333333333,0,4,3,2.666666667,4,4,3,3,4,3
+DreamFusion,A pirate digging for treasure with a rusty shovel,1,1,1,1,1,1,1,1,1,1,1,1
+DreamFusion,A pizza placed beside a fresh salad,2,1,2,2,2.333333333,2,4.333333333,5,4,2.333333333,4,2.333333333
+DreamFusion,A plant with rainbow leaves in a clay pot,1.666666667,2,1.333333333,1.333333333,1,1,1,1,1,1,4,2
+DreamFusion,A pot shaped like a lotus leaf with a golden pattern on the surface,2,4,0,3,2,2,4,4,3,1.666666667,3.333333333,2
+DreamFusion,A pottery bowl with hand-painted flowers,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A purple shirt with a square collar and buttoned front,2,2,0,2,3,2,3.333333333,3,3.666666667,2,3,2
+DreamFusion,A pyramidal bottle with glowing liquid,3,4,0,4,3,2,4,3,3.333333333,2,2.666666667,2
+DreamFusion,A rabbit chewing a shoe,4,0,3,3.333333333,2,2,4.333333333,3.666666667,3,2.333333333,4.333333333,3.666666667
+DreamFusion,A rabbit kissing a fox,2,0,4,2.666666667,2,2,3,4,3.333333333,2.666666667,4,2.333333333
+DreamFusion,A rabbit pirate casting a spell with a magic wand,2.666666667,0,2,2,3,3,3,4,3,3,4,2.666666667
+DreamFusion,A rabbit wearing a dress,3.333333333,4,0,4,3,2,3,4,2,2,3,3
+DreamFusion,A raccoon detective on a rainbow bridge,3,4,3,3,3,3,4,3.666666667,3,3,4,2.666666667
+DreamFusion,A raccoon holding a goblet that shimmers with a rainbow of colors,3,4,2,3,3,2,3,3.333333333,3,2,2.666666667,1.666666667
+DreamFusion,A raccoon nibbling on a fallen walnut with paws holding the nut,1.333333333,0,1,1,2,1.333333333,2,2.333333333,3,1.333333333,1.33333333333333,1.66666666666667
+DreamFusion,A raccoon under a cable car with tail curling around the handle,1,0,1,1,1,1,1,1,1,1,1,1
+DreamFusion,A raccoon wearing a helmet piloting an airplane,3,1,2,2,3,2,3,3,2,2,2,2
+DreamFusion,A raccoon wearing a white chef's hat and red apron with floral patterns,2,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A rainbow-colored rabbit with protruding front teeth,4,2.333333333,0,2.333333333,2.333333333,2.333333333,3.333333333,4,3.333333333,3,4,2.333333333
+DreamFusion,A rectangular belt with a flat buckle and evenly spaced holes,1.666666667,2,0,1.666666667,3,1.333333333,3.666666667,4,4,1.666666667,1,1
+DreamFusion,A rectangular car,4.666666667,4.666666667,0,4.666666667,2.666666667,2.333333333,4.666666667,4.666666667,3,2.666666667,4.666666667,2.666666667
+DreamFusion,A rectangular wooden bookshelf,4,4,0,4,3,2,4.666666667,4,4,3,4.666666667,3
+DreamFusion,A rectangular wrench with red patterns and hieroglyphic engravings,3.666666667,1.666666667,0,2,2.333333333,2,4,4,3,2,4,3
+DreamFusion,A red armchair with padded armrests,4.666666667,4,0,4,3,2,4.666666667,4.666666667,3,3,5,3.333333333
+DreamFusion,A red coffee mug on a table,3,5,2,3,3,2.666666667,5,4,3,3,5,2.5
+DreamFusion,A red drum with a wooden and cylindrical body,1,1.333333333,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A red house shaped like an apple,3.333333333,4,0,4,2.666666667,2.666666667,4,4.333333333,4,3,4.666666667,3.333333333
+DreamFusion,A red tiger with a wicker tail,3,3,0,2.333333333,3,2,3.333333333,4,3,2,5,2
+DreamFusion,A robot dog below a glowing spaceship,1,1,1,1,1,1,1,1,1,1,1,1
+DreamFusion,A rocking chair made of amber with cloud-like foam cushions,4,2,0,3,3,2,3.333333333,5,3.666666667,3,3.666666667,2.333333333
+DreamFusion,A rose with petals of frosted crystal and a stem wrapped in green vines,1.666666667,2,0,1.666666667,2,1.666666667,1.666666667,4,3,1.666666667,4,1
+DreamFusion,"A round, red apple with a brown stem and green leaves",4,2,0,2,3,3,3.333333333,5,4,3,4.333333333,2.333333333
+DreamFusion,"A round chair with a cushioned seat, and carved spirals on the body",4.666666667,4,0,4,2.666666667,2,4,4.333333333,3.333333333,3,5,3
+DreamFusion,A round green plate like a water lily,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A round pizza,4.666666667,5,0,4.666666667,2,2,3.333333333,4.333333333,4,2.666666667,4,2.333333333
+DreamFusion,A round sunflower,2,3,0,2.333333333,1,1,1,1,1,1,1,1
+DreamFusion,A round teapot of rainbow colors,4,4,0,4,3,2.333333333,4,4,4,3,3,3.333333333
+DreamFusion,A ruler and a pencil,1.666666667,0,0,1.666666667,2,1,4,4,2,1.666666667,1,1
+DreamFusion,A shark with a crown is holding a trident,2.666666667,3.666666667,1.333333333,3,3,2,3,4,3,3,4,3
+DreamFusion,A sheep wearing a dress made of glowing leaves,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A sheep wearing a hoodie decorated with colorful flowers and green leaves,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A shoe next to a sock,3,0,3,3,2,2,4,4,4,2.666666667,4,4
+DreamFusion,A shoe with a body shaped like a fish,4.333333333,2,0,2.666666667,3,2,5,3.666666667,5,3,4,3.333333333
+DreamFusion,A short and dense fern with leaves shaped like feathers,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A short brush with gold bristles,3,2,0,2,2,2,4,4,3.666666667,2,4,2
+DreamFusion,"A short mushroom with a thick, rounded cap and a narrow stem",4.333333333,3.333333333,0,4,3,2.666666667,5,5,3.333333333,3.333333333,5,3.333333333
+DreamFusion,A silver circular ring with a gem,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,"A silver scissors with rubber handles, and a screw joint",4,2,0,2.333333333,2.333333333,2,4,4,3,3,4.666666667,3
+DreamFusion,A skeleton knight sitting on a throne whose armrests are adorned with intricate carvings,1,1,1,1,1,1,1,1,1,1,1,1
+DreamFusion,A skirt made of scales with a hem shaped like a mermaid's tail,4,2,0,2,3,2.333333333,4,4,4,2.666666667,4,3
+DreamFusion,A slender palm tree with fan-shaped leaves and curved branches,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,"A small, oval-shaped fish with a flat body and triangular fins",3,2.666666667,0,3,2,1.666666667,3,4,4,2,4,2
+DreamFusion,A small wooden ship inside a porcelain cup,3,3,3,3,2,2,4.333333333,4,3,2.333333333,4,2.333333333
+DreamFusion,A snail with a shell made of smooth jade,3.333333333,2,0,2.666666667,2.333333333,2,3.333333333,4,3.333333333,3,3,2
+DreamFusion,A snake shaped like a long tube,3.333333333,4,0,3.666666667,3,3,3,4.666666667,3.666666667,3,4,2
+DreamFusion,A snake with legs,4,1.333333333,0,2.333333333,3,2,4,5,3.666666667,3,4,2.333333333
+DreamFusion,A sneaker with blue stripes on the surface,3.333333333,2,0,3,3,3,5,4,4,3,4.333333333,2.666666667
+DreamFusion,A sparrow building a nest on the house with branches and leaves,1,1,1,1,1,1,1,1,1,1,1,1
+Hunyuan,A phoenix with a long beak and wings shaped like a flame fan,5,5,0,5,4.666666667,4,5,5,4.666666667,4.666666667,5,4.333333333
+Hunyuan,A phoenix with golden feathers,5,5,0,5,3.333333333,4.666666667,5,3,4.333333333,4,5,4
+Hunyuan,A piano with keys that sparkle like crushed diamonds,5,2,0,3.333333333,5,4,5,5,5,5,5,4
+Hunyuan,A pig playing a drum set,5,0,5,5,4.333333333,4,3,4,4.666666667,4,4,3
+Hunyuan,A pigeon reading a book,5,0,5,5,4.666666667,4,5,5,5,4,5,5
+Hunyuan,A pile of burning firewood in a refrigerator with the door open,5,3.666666667,5,4,5,5,5,5,5,5,5,4.333333333
+Hunyuan,"A pine tree with a tall, conical form",4,4,0,4,3,4,4.666666667,4,2.333333333,3,5,3.666666667
+Hunyuan,A pink boat,5,4.666666667,0,5,5,4.666666667,4.666666667,5,5,5,5,4.666666667
+Hunyuan,A pink cherry blossom with a slender branch,3,5,0,3.333333333,4.333333333,4.666666667,5,5,4.666666667,5,5,4
+Hunyuan,A pink desk lamp shaped like a trumpet flower,5,5,0,5,5,4,5,5,5,4.666666667,5,5
+Hunyuan,A pink pig with a curly tail,5,5,0,5,5,4,5,5,5,4.333333333,5,4.666666667
+Hunyuan,A pink rose with a ruby in the center,5,3,0,4,5,4.666666667,5,5,5,5,5,4.666666667
+Hunyuan,A pink shark,4.333333333,5,0,4.333333333,4.666666667,4,5,5,5,4.333333333,5,4
+Hunyuan,A pink smartwatch with a square face and a silicone band,5,5,0,5,5,4,5,5,5,5,5,4.333333333
+Hunyuan,A pink vase filled with white lilies,5,5,0,5,4.333333333,4,5,5,4.333333333,4,5,4.666666667
+Hunyuan,A pirate digging for treasure with a rusty shovel,5,4,5,4.333333333,5,4,5,5,4.333333333,4,5,4.666666667
+Hunyuan,A pizza placed beside a fresh salad,4,3.333333333,4.666666667,4,5,4.666666667,5,5,5,5,5,4.333333333
+Hunyuan,A plant with rainbow leaves in a clay pot,5,5,5,5,5,4.666666667,5,5,5,5,5,5
+Hunyuan,A pot shaped like a lotus leaf with a golden pattern on the surface,5,5,0,5,4,4,5,4.666666667,3.666666667,4,5,4.333333333
+Hunyuan,A pottery bowl with hand-painted flowers,5,5,0,5,5,4,5,5,5,5,5,5
+Hunyuan,A purple shirt with a square collar and buttoned front,5,5,0,5,5,4,5,5,5,5,5,5
+Hunyuan,A pyramidal bottle with glowing liquid,5,5,0,5,5,5,5,5,5,5,5,5
+Hunyuan,A rabbit chewing a shoe,5,0,4.666666667,4.333333333,5,4.333333333,5,5,5,5,5,4.333333333
+Hunyuan,A rabbit kissing a fox,5,0,5,5,5,4,5,5,5,4.333333333,5,4.666666667
+Hunyuan,A rabbit pirate casting a spell with a magic wand,5,0,5,5,5,5,5,5,5,5,5,5
+Hunyuan,A rabbit wearing a dress,5,5,0,5,5,4,5,5,4.666666667,4.666666667,5,5
+Hunyuan,A raccoon detective on a rainbow bridge,3,1,2,2.333333333,5,5,5,5,5,5,5,4
+Hunyuan,A raccoon holding a goblet that shimmers with a rainbow of colors,5,5,5,5,4.666666667,4,4,5,4,4,5,5
+Hunyuan,A raccoon nibbling on a fallen walnut with paws holding the nut,4,0,4,4,5,4.666666667,4.666666667,5,4.666666667,4.666666667,5,4
+Hunyuan,A raccoon under a cable car with tail curling around the handle,4.333333333,0,2,2,4.666666667,4,3.333333333,5,5,4,5,3.333333333
+Hunyuan,A raccoon wearing a helmet piloting an airplane,5,5,5,5,5,5,5,5,5,5,5,4.666666667
+Hunyuan,A raccoon wearing a white chef's hat and red apron with floral patterns,5,5,0,5,5,4,5,5,5,5,5,5
+Hunyuan,A rainbow-colored rabbit with protruding front teeth,5,5,0,5,5,4.333333333,5,5,5,5,5,5
+Hunyuan,A rectangular belt with a flat buckle and evenly spaced holes,5,4,0,4,5,4,5,4.666666667,5,5,5,4
+Hunyuan,A rectangular car,5,3,0,4,5,5,5,5,5,5,5,4.666666667
+Hunyuan,A rectangular wooden bookshelf,5,5,0,5,5,4,5,5,5,5,5,5
+Hunyuan,A rectangular wrench with red patterns and hieroglyphic engravings,4,5,0,4,5,5,5,5,5,5,5,5
+Hunyuan,A red armchair with padded armrests,5,5,0,5,5,4,5,5,5,4.666666667,5,4
+Hunyuan,A red coffee mug on a table,3,4.333333333,2,3,4.666666667,4.333333333,5,5,5,4.666666667,5,3.333333333
+Hunyuan,A red drum with a wooden and cylindrical body,5,5,0,5,5,5,5,5,5,5,5,4.666666667
+Hunyuan,A red house shaped like an apple,2,4.666666667,0,3,5,4,5,4.666666667,5,5,4,4
+Hunyuan,A red tiger with a wicker tail,5,5,0,5,5,4,5,5,4.333333333,4,4.333333333,4
+Hunyuan,A robot dog below a glowing spaceship,3,3,2.333333333,2.333333333,5,4.666666667,4,4,4.666666667,4.333333333,5,4
+Hunyuan,A rocking chair made of amber with cloud-like foam cushions,5,4,0,4,5,4,4.666666667,5,4.666666667,4,5,4
+Hunyuan,A rose with petals of frosted crystal and a stem wrapped in green vines,4.333333333,2,0,3,4.666666667,3.666666667,5,5,5,4.333333333,5,3
+Hunyuan,"A round, red apple with a brown stem and green leaves",5,4.333333333,0,4.333333333,5,4,5,5,5,5,5,4
+Hunyuan,"A round chair with a cushioned seat, and carved spirals on the body",5,4,0,4,5,5,5,5,4,5,5,5
+Hunyuan,A round green plate like a water lily,4.666666667,4.666666667,0,4.666666667,5,4.666666667,4,5,4.666666667,4.666666667,4.666666667,4
+Hunyuan,A round pizza,5,5,0,5,5,4,4.666666667,5,5,4.333333333,5,5
+Hunyuan,A round sunflower,4.666666667,4.666666667,0,4.333333333,5,4,5,4.666666667,4.333333333,5,5,4
+Hunyuan,A round teapot of rainbow colors,5,5,0,5,5,5,5,5,5,5,5,5
+Hunyuan,A ruler and a pencil,3,0,0,3,5,4.333333333,5,5,5,5,5,4
+Hunyuan,A shark with a crown is holding a trident,5,5,5,5,5,4,5,5,4,4.333333333,5,5
+Hunyuan,A sheep wearing a dress made of glowing leaves,5,5,0,5,5,4,4,5,4,4,5,4.666666667
+Hunyuan,A sheep wearing a hoodie decorated with colorful flowers and green leaves,5,5,0,5,5,4.666666667,5,5,5,5,5,4.333333333
+Hunyuan,A shoe next to a sock,5,0,5,5,5,5,5,5,5,5,5,4.666666667
+Hunyuan,A shoe with a body shaped like a fish,4.333333333,2.333333333,0,3,5,5,5,5,5,5,4.666666667,3.666666667
+Hunyuan,A short and dense fern with leaves shaped like feathers,5,4.666666667,0,5,5,4.666666667,4,5,4.666666667,4,5,4.333333333
+Hunyuan,A short brush with gold bristles,5,5,0,5,5,4,4,5,4.666666667,4.333333333,5,4.666666667
+Hunyuan,"A short mushroom with a thick, rounded cap and a narrow stem",5,4,0,4,4.666666667,4,5,5,5,5,5,4.666666667
+Hunyuan,A silver circular ring with a gem,4.666666667,5,0,5,5,4.666666667,4.666666667,5,5,5,5,4.666666667
+Hunyuan,"A silver scissors with rubber handles, and a screw joint",5,4,0,4,5,4,5,5,5,4.666666667,5,4
+Hunyuan,A skeleton knight sitting on a throne whose armrests are adorned with intricate carvings,5,3.666666667,5,4.333333333,5,4,5,5,5,4.666666667,5,4.666666667
+Hunyuan,A skirt made of scales with a hem shaped like a mermaid's tail,5,4,0,4,4.666666667,4,5,4.666666667,4.333333333,4,5,4.333333333
+Hunyuan,A slender palm tree with fan-shaped leaves and curved branches,5,4,0,4,5,4,5,4.666666667,5,5,5,4.333333333
+Hunyuan,"A small, oval-shaped fish with a flat body and triangular fins",5,3.333333333,0,4,5,4,5,5,5,5,5,4
+Hunyuan,A small wooden ship inside a porcelain cup,3.333333333,3.333333333,3,3,5,4,5,5,5,4.333333333,5,4
+Hunyuan,A snail with a shell made of smooth jade,4.666666667,5,0,5,5,4.333333333,5,5,5,4.333333333,5,5
+Hunyuan,A snake shaped like a long tube,5,3.666666667,0,4,4,3.333333333,4,5,4,4,4.666666667,4
+Hunyuan,A snake with legs,5,1.333333333,0,3,4.666666667,3.666666667,3.666666667,4.333333333,5,4,4,3
+Hunyuan,A sneaker with blue stripes on the surface,5,4.666666667,0,4.666666667,5,5,5,5,5,5,5,5
+Hunyuan,A sparrow building a nest on the house with branches and leaves,3.666666667,4.666666667,3,3.666666667,4.333333333,4,5,4.666666667,4,4,5,4.5
+LGM,A phoenix with a long beak and wings shaped like a flame fan,1.333333333,1.333333333,0,1.333333333,1,1,1,1,1,1,3.333333333,2
+LGM,A phoenix with golden feathers,2.333333333,4,0,3,2.333333333,2,2.333333333,3,3,2,4,2
+LGM,A piano with keys that sparkle like crushed diamonds,3,2.333333333,0,2.666666667,3,3,4,3.333333333,3,3.333333333,4,3
+LGM,A pig playing a drum set,4,0,4,4,3,3,3,3,3,3,3.333333333,3
+LGM,A pigeon reading a book,2,0,2,2,3,2.333333333,2,2.666666667,3,2,3.666666667,2
+LGM,A pile of burning firewood in a refrigerator with the door open,1,1,1,1,1,1,1,1,1,1,1,1
+LGM,"A pine tree with a tall, conical form",1.333333333,1.333333333,0,1,1,1,1,1,1,1,1,1
+LGM,A pink boat,2,4,0,2,3,2.333333333,2.333333333,3,3,2,4,2
+LGM,A pink cherry blossom with a slender branch,2,2.333333333,0,2,1,1,1,1,1,1,1,1
+LGM,A pink desk lamp shaped like a trumpet flower,3,3.666666667,0,3,3,3.333333333,3.333333333,3,3,3.333333333,4,2.333333333
+LGM,A pink pig with a curly tail,4.333333333,3,0,3.333333333,3,3,3.333333333,3.333333333,3,3,5,3
+LGM,A pink rose with a ruby in the center,4,3,0,3.333333333,3,3,3.333333333,3,3,3,3.333333333,2.333333333
+LGM,A pink shark,2,4,0,2,3,2.333333333,2,3,3,1.666666667,4,2
+LGM,A pink smartwatch with a square face and a silicone band,2.333333333,3.333333333,0,3,3,3,2,3,3,2,4,2
+LGM,A pink vase filled with white lilies,4,4,0,4,3,3,4,3,3,3,4,3.333333333
+LGM,A pirate digging for treasure with a rusty shovel,2,2,2,2,3,2.666666667,3.333333333,3,3,2,3.666666667,2.666666667
+LGM,A pizza placed beside a fresh salad,2.666666667,1,2,2,3,3,4,2.333333333,3,2,2,1.666666667
+LGM,A plant with rainbow leaves in a clay pot,3.666666667,3.666666667,3.666666667,3.666666667,3,3,4,3,3,3,3,2
+LGM,A pot shaped like a lotus leaf with a golden pattern on the surface,2,2.333333333,0,2,3.333333333,3,3.333333333,4,3,3,4,2.666666667
+LGM,A pottery bowl with hand-painted flowers,2.333333333,4,0,3,3,3,4,3.666666667,3,3,5,3.333333333
+LGM,A purple shirt with a square collar and buttoned front,4.5,4.333333333,0,4.333333333,3,4,4,3.666666667,3,3.333333333,5,4
+LGM,A pyramidal bottle with glowing liquid,4.666666667,4,0,4,3,3.666666667,4.666666667,4,3,3.666666667,5,4
+LGM,A rabbit chewing a shoe,3,0,2.666666667,2.666666667,3,2.333333333,3,3.666666667,3,3,3,2.333333333
+LGM,A rabbit kissing a fox,3,0,3,3,3,2.666666667,3,2.333333333,3,2.333333333,3,2
+LGM,A rabbit pirate casting a spell with a magic wand,1.333333333,0,1,1.333333333,2,2,3,2,2.333333333,1.666666667,3,2
+LGM,A rabbit wearing a dress,4.666666667,5,0,4.666666667,3.333333333,3.666666667,3.666666667,4,3,3.666666667,5,4
+LGM,A raccoon detective on a rainbow bridge,2.666666667,4,2,2,2.333333333,2,2,2.333333333,2.333333333,2,3,2
+LGM,A raccoon holding a goblet that shimmers with a rainbow of colors,1,1,1,1,1,1,1,1,1,1,1,1
+LGM,A raccoon nibbling on a fallen walnut with paws holding the nut,3,0,2,2,2.333333333,2,2,3,3,1.666666667,4,2.333333333
+LGM,A raccoon under a cable car with tail curling around the handle,1,0,1,1,1,1,1,1,1,1,1,1
+LGM,A raccoon wearing a helmet piloting an airplane,1,1.666666667,1,1.333333333,2,1.333333333,1.666666667,3,2.333333333,1.333333333,2,2
+LGM,A raccoon wearing a white chef's hat and red apron with floral patterns,2.333333333,3,0,3,3,3,2,3.333333333,3,2.333333333,4,2
+LGM,A rainbow-colored rabbit with protruding front teeth,4,2,0,2.333333333,3,3.333333333,3,4,3,3,4.333333333,3
+LGM,A rectangular belt with a flat buckle and evenly spaced holes,1,1,0,1,1,1,1,1,1,1,1,1
+LGM,A rectangular car,2,2,0,1.333333333,2.333333333,2,2,4,2.333333333,2,1,1.333333333
+LGM,A rectangular wooden bookshelf,4,4,0,4,3,3,3,3,3,2.666666667,4,2.333333333
+LGM,A rectangular wrench with red patterns and hieroglyphic engravings,2,3.333333333,0,2.666666667,4,3.333333333,4,3.333333333,3,3,4,3
+LGM,A red armchair with padded armrests,3.333333333,3.333333333,0,3,3,3,2.666666667,2.666666667,3,2,3.666666667,2.333333333
+LGM,A red coffee mug on a table,2.666666667,2.333333333,2,2,3,3,2.333333333,3,3,2.333333333,3,2.666666667
+LGM,A red drum with a wooden and cylindrical body,2.333333333,4,0,3,3,3,3,4,3,3,4,2.333333333
+LGM,A red house shaped like an apple,2.333333333,4,0,3,3.666666667,3.666666667,3,4,3,3.333333333,4,3
+LGM,A red tiger with a wicker tail,2.333333333,4,0,3,2,2.333333333,3,2.333333333,3,2,3,2
+LGM,A robot dog below a glowing spaceship,2.333333333,2.333333333,2,2,3,3,3,3,3,3,4,2
+LGM,A rocking chair made of amber with cloud-like foam cushions,1,1,0,1,1,1,1,1,1,1,1,1
+LGM,A rose with petals of frosted crystal and a stem wrapped in green vines,3.333333333,2,0,3,3,3,3,2,3,2.333333333,4,2
+LGM,"A round, red apple with a brown stem and green leaves",3.333333333,3.666666667,0,3.333333333,3.333333333,3.333333333,3,3,3,2.666666667,3,2.333333333
+LGM,"A round chair with a cushioned seat, and carved spirals on the body",3.333333333,3.333333333,0,3.333333333,3,3,2,3.333333333,3,2.666666667,4.333333333,2
+LGM,A round green plate like a water lily,3,3,0,3,3,3,4,4,3.333333333,3.333333333,4,3
+LGM,A round pizza,3.333333333,2.666666667,0,3,3,3,2.333333333,3,3.333333333,2,3,2.333333333
+LGM,A round sunflower,4,4,0,4,3.666666667,3.666666667,4.333333333,4,3.666666667,3.666666667,4,3.666666667
+LGM,A round teapot of rainbow colors,3.666666667,4,0,4,3,3,3,4,3,3,4,3
+LGM,A ruler and a pencil,1,0,0,1,1,1,1,1,1,1,1,1
+LGM,A shark with a crown is holding a trident,2.666666667,1,2,2,3,3,4,3.666666667,3,3,3.333333333,2
+LGM,A sheep wearing a dress made of glowing leaves,1,1.333333333,0,1.333333333,1,1,1,1,1,1,2.666666667,2
+LGM,A sheep wearing a hoodie decorated with colorful flowers and green leaves,3,2.333333333,0,3,3,3,4,3.333333333,3.333333333,3,4,2.666666667
+LGM,A shoe next to a sock,1,0,1,1,1,1,1,1,1,1,1,1
+LGM,A shoe with a body shaped like a fish,2,2,0,2,1,1,1,1,1,1,1,1
+LGM,A short and dense fern with leaves shaped like feathers,4,4,0,4,3,3.333333333,3.333333333,3.666666667,3,3,4,3.666666667
+LGM,A short brush with gold bristles,3,3,0,3,3,3,3,4,3.333333333,3,4,3
+LGM,"A short mushroom with a thick, rounded cap and a narrow stem",4,3,0,3.333333333,3,3,2,3.333333333,3,2,4,2
+LGM,A silver circular ring with a gem,4.333333333,5,0,4.333333333,3,3,4,3,3,3,4.333333333,4
+LGM,"A silver scissors with rubber handles, and a screw joint",2.333333333,2,0,2,3,3,2,3.666666667,3.666666667,2,4,2
+LGM,A skeleton knight sitting on a throne whose armrests are adorned with intricate carvings,2.333333333,1,2,2,2,2,3,2.333333333,3,2,3,2.333333333
+LGM,A skirt made of scales with a hem shaped like a mermaid's tail,3,2,0,2.333333333,3,3,3,3.333333333,3,3,4,3
+LGM,A slender palm tree with fan-shaped leaves and curved branches,3,2,0,3,3,3,3.333333333,3.333333333,3,3,4,2
+LGM,"A small, oval-shaped fish with a flat body and triangular fins",1.333333333,1,0,1,1,1,1,1,1,1,1,1
+LGM,A small wooden ship inside a porcelain cup,3.333333333,3,3,3,3,3,4.333333333,3.666666667,3.333333333,3.666666667,4,3.666666667
+LGM,A snail with a shell made of smooth jade,4.333333333,4,0,4,3.333333333,3.333333333,4.333333333,3,3,3.333333333,4.333333333,4
+LGM,A snake shaped like a long tube,2,2.666666667,0,2.333333333,2,2.666666667,2.333333333,2.666666667,3,2,4,2
+LGM,A snake with legs,2,1,0,1.666666667,2,2,3,2,3,1.333333333,1,1
+LGM,A sneaker with blue stripes on the surface,2,2.666666667,0,2,2.333333333,3,2,3,3,2,3,2
+LGM,A sparrow building a nest on the house with branches and leaves,1,1,1,1,1,1,1,1,1,1,1,1
+Magic3D,A phoenix with a long beak and wings shaped like a flame fan,4,3,0,3.666666667,3,2.666666667,4,4.666666667,2,3,4.666666667,3
+Magic3D,A phoenix with golden feathers,2.666666667,3.333333333,0,3,2,2,2.333333333,3,2.666666667,2,3.666666667,2
+Magic3D,A piano with keys that sparkle like crushed diamonds,4,2.666666667,0,2.666666667,2,2,3,4,3,2,4,2
+Magic3D,A pig playing a drum set,4,0,3,3,3,2,4,3,3.666666667,2,3,3
+Magic3D,A pigeon reading a book,4,0,4.333333333,4,3,2,4,4,3,3,5,3.333333333
+Magic3D,A pile of burning firewood in a refrigerator with the door open,2,2.666666667,1,2,1,1,1,1,1,1,2.333333333,2
+Magic3D,"A pine tree with a tall, conical form",4,4,0,4,3,3,3,4,3.666666667,3,4.333333333,3
+Magic3D,A pink boat,1.666666667,4,0,2.666666667,2.333333333,1.333333333,3.666666667,2,3,2,4,1.666666667
+Magic3D,A pink cherry blossom with a slender branch,2,3,0,2,3,2.666666667,4,3,3,2.666666667,4,2
+Magic3D,A pink desk lamp shaped like a trumpet flower,3,3,0,3,2.666666667,2.333333333,4,4.666666667,2.333333333,2,4,2.666666667
+Magic3D,A pink pig with a curly tail,3,2.333333333,0,3,3,2,3,5,4,3,4.333333333,2
+Magic3D,A pink rose with a ruby in the center,4,4,0,4,3,3,4,4.333333333,3,3,5,3.666666667
+Magic3D,A pink shark,2,1,0,1.333333333,2.666666667,1.666666667,3,4,2.666666667,2,4,1
+Magic3D,A pink smartwatch with a square face and a silicone band,1.333333333,2.333333333,0,1.333333333,2.333333333,2,2,4,4,2,2,1
+Magic3D,A pink vase filled with white lilies,4,4,0,4,3,2.666666667,3,4,3,2.666666667,4,3
+Magic3D,A pirate digging for treasure with a rusty shovel,3.666666667,3,4,3.666666667,2,2,4,2.666666667,2,2,3,2
+Magic3D,A pizza placed beside a fresh salad,1.333333333,1,1,1.333333333,2,1.333333333,4,2.333333333,4,1.666666667,2,1.333333333
+Magic3D,A plant with rainbow leaves in a clay pot,4,4,4,4,3,2,4,4,2.666666667,2.666666667,4.333333333,3
+Magic3D,A pot shaped like a lotus leaf with a golden pattern on the surface,2,2,0,2,2,2,5,4,3,2,4,1.666666667
+Magic3D,A pottery bowl with hand-painted flowers,3.333333333,3.666666667,0,3.333333333,3,3,3,3.666666667,3,3,5,3.333333333
+Magic3D,A purple shirt with a square collar and buttoned front,3,2.333333333,0,2.333333333,3,2,3.666666667,3.333333333,3.333333333,2,4,2.333333333
+Magic3D,A pyramidal bottle with glowing liquid,3,4,0,4,3,3,4,3,3.333333333,3,4,3
+Magic3D,A rabbit chewing a shoe,4,0,4.333333333,4,2.333333333,2,4,3.333333333,3,2.666666667,4,3
+Magic3D,A rabbit kissing a fox,3,0,2.333333333,2.666666667,3,3,3.333333333,4,3.333333333,3,3,2.333333333
+Magic3D,A rabbit pirate casting a spell with a magic wand,3.666666667,0,3.666666667,3.666666667,3,2,4,3.333333333,2.333333333,2.333333333,3,3
+Magic3D,A rabbit wearing a dress,3,4,0,3.333333333,3,2.333333333,3,4,3.666666667,2,3,2
+Magic3D,A raccoon detective on a rainbow bridge,3,3.666666667,2.666666667,3,2,1,2,2,3,1.333333333,3,2
+Magic3D,A raccoon holding a goblet that shimmers with a rainbow of colors,2,2,3,2,2.333333333,2,3,3,3,2,4,2
+Magic3D,A raccoon nibbling on a fallen walnut with paws holding the nut,2,0,2,2.333333333,1.333333333,1,3,2,3,1,2,2
+Magic3D,A raccoon under a cable car with tail curling around the handle,2,0,1,1.333333333,2,1.666666667,3.666666667,2.666666667,3,1.666666667,2,2
+Magic3D,A raccoon wearing a helmet piloting an airplane,4,2.333333333,4.333333333,3.333333333,3,2,4,3,2,2,2.333333333,3.333333333
+Magic3D,A raccoon wearing a white chef's hat and red apron with floral patterns,3,1,0,1.666666667,2.666666667,2,4,3,3,2,2,2
+Magic3D,A rainbow-colored rabbit with protruding front teeth,3,2.333333333,0,3,3,2.666666667,4,3.333333333,3,3,4,2.5
+Magic3D,A rectangular belt with a flat buckle and evenly spaced holes,1,1.333333333,0,1,2,1,2,3.333333333,3,1.333333333,1,1
+Magic3D,A rectangular car,2.333333333,4,0,2.333333333,2.333333333,1,2.666666667,4,2,1.333333333,4.666666667,2
+Magic3D,A rectangular wooden bookshelf,2,2.666666667,0,2,2,2,3,3.666666667,3,2,4,2
+Magic3D,A rectangular wrench with red patterns and hieroglyphic engravings,4,2.333333333,0,3,2,2,5,4.666666667,3.333333333,3,5,3
+Magic3D,A red armchair with padded armrests,4,4,0,3.666666667,3.333333333,2.666666667,3,3.666666667,4,3,4,3.333333333
+Magic3D,A red coffee mug on a table,2.333333333,4,2,2.333333333,3,2,3.333333333,4,3,2.333333333,4,2
+Magic3D,A red drum with a wooden and cylindrical body,1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A red house shaped like an apple,1,1,0,1,5,3,4,5,4.666666667,3,4,2.666666667
+Magic3D,A red tiger with a wicker tail,3.333333333,3,0,3,3,2,4,5,3,3,4,2.333333333
+Magic3D,A robot dog below a glowing spaceship,3,2.333333333,2.666666667,2.333333333,2.333333333,2,4,3,2,2,4,3
+Magic3D,A rocking chair made of amber with cloud-like foam cushions,4,2,0,2.333333333,2,2,3.333333333,4.333333333,3,2.666666667,4.666666667,3
+Magic3D,A rose with petals of frosted crystal and a stem wrapped in green vines,4,3.666666667,0,4,2,1.333333333,4.333333333,4,2,2,4.333333333,2.333333333
+Magic3D,"A round, red apple with a brown stem and green leaves",4,2.333333333,0,2.333333333,3.666666667,3,3,5,4.333333333,3,5,3
+Magic3D,"A round chair with a cushioned seat, and carved spirals on the body",5,3.333333333,0,4,2,1.333333333,4,4,2,2,4,3
+Magic3D,A round green plate like a water lily,1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A round pizza,4,4,0,4,3,2,3.666666667,4,4,2,4,2
+Magic3D,A round sunflower,1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A round teapot of rainbow colors,4.666666667,4.333333333,0,4,3,3,4,4,2.333333333,3,3.666666667,4
+Magic3D,A ruler and a pencil,2,0,0,2,2,1.666666667,4,4,3,2,3,2
+Magic3D,A shark with a crown is holding a trident,2,1,1,1.666666667,2,1.333333333,4,3,1.666666667,2,1,1
+Magic3D,A sheep wearing a dress made of glowing leaves,4,3,0,3.333333333,3,2,4,3,3,2.666666667,3,3.5
+Magic3D,A sheep wearing a hoodie decorated with colorful flowers and green leaves,2.666666667,1.666666667,0,2,2,2.666666667,2,4,3,2,4,2.666666667
+Magic3D,A shoe next to a sock,4,0,4,4,2,2,4,4,3.333333333,2,4.333333333,3.333333333
+Magic3D,A shoe with a body shaped like a fish,4,4,0,4,3,2,4.666666667,4,3.666666667,3,4,3.333333333
+Magic3D,A short and dense fern with leaves shaped like feathers,3,3.333333333,0,3,2.333333333,2,4,3.666666667,2,2.333333333,3,2.333333333
+Magic3D,A short brush with gold bristles,3.333333333,2,0,3,2.666666667,2.333333333,4.333333333,4.333333333,4,2.333333333,4,3
+Magic3D,"A short mushroom with a thick, rounded cap and a narrow stem",4.333333333,3,0,3.333333333,3,3,3.666666667,4,3,3,4.666666667,3
+Magic3D,A silver circular ring with a gem,1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,"A silver scissors with rubber handles, and a screw joint",4,2,0,2.666666667,2.333333333,2,4,3,2.666666667,2,3,2
+Magic3D,A skeleton knight sitting on a throne whose armrests are adorned with intricate carvings,4,1,4,3,2.333333333,2,4,3,3,2,3,3
+Magic3D,A skirt made of scales with a hem shaped like a mermaid's tail,4,1.333333333,0,2,2.666666667,2.666666667,4.333333333,4,3.666666667,2.666666667,3.666666667,2
+Magic3D,A slender palm tree with fan-shaped leaves and curved branches,3.333333333,3,0,3,2,2,5,4.333333333,2.333333333,2.333333333,4,2
+Magic3D,"A small, oval-shaped fish with a flat body and triangular fins",3,2,0,2,2.666666667,1.333333333,3,4,3.666666667,2,3.333333333,2
+Magic3D,A small wooden ship inside a porcelain cup,3.666666667,3,4,3,2.666666667,2.666666667,3.666666667,4,3,3,4,3.333333333
+Magic3D,A snail with a shell made of smooth jade,4,3,0,3,2,1.666666667,4.666666667,5,3,2,4,3
+Magic3D,A snake shaped like a long tube,4,4,0,4,2.666666667,2,4,4.666666667,3.333333333,2.666666667,4,3
+Magic3D,A snake with legs,4,1,0,3,2,1.666666667,4.333333333,5,3,2,4.666666667,2
+Magic3D,A sneaker with blue stripes on the surface,5,5,0,5,3,2.333333333,4.666666667,4.333333333,3.666666667,3,4,3
+Magic3D,A sparrow building a nest on the house with branches and leaves,1,1,1,1,1,1,1,1,1,1,1,1
+Meshy,A phoenix with a long beak and wings shaped like a flame fan,5,5,0,5,4.666666667,3.666666667,5,4.666666667,4.333333333,4.333333333,3,4
+Meshy,A phoenix with golden feathers,5,5,0,5,4,4,5,3.666666667,4.666666667,4,3,3.666666667
+Meshy,A piano with keys that sparkle like crushed diamonds,5,4.333333333,0,4.333333333,4,4,4.666666667,5,5,4,5,4
+Meshy,A pig playing a drum set,5,0,5,5,5,4,5,5,4.333333333,4,5,4
+Meshy,A pigeon reading a book,5,0,5,5,5,4,5,5,5,4,5,4
+Meshy,A pile of burning firewood in a refrigerator with the door open,5,5,5,5,4.333333333,4.333333333,4,4,5,4,3.666666667,4
+Meshy,"A pine tree with a tall, conical form",4.666666667,4.333333333,0,4.333333333,4,4,4.666666667,4.666666667,4.666666667,4,5,4
+Meshy,A pink boat,5,5,0,5,4,3.333333333,5,4.333333333,5,4,5,4
+Meshy,A pink cherry blossom with a slender branch,4,4.666666667,0,4,5,5,5,5,5,5,5,4
+Meshy,A pink desk lamp shaped like a trumpet flower,5,5,0,5,5,4,4.666666667,5,5,4.333333333,5,5
+Meshy,A pink pig with a curly tail,4,4.666666667,0,4,4,3.333333333,4,5,4,4,5,4
+Meshy,A pink rose with a ruby in the center,5,3,0,4,5,5,5,5,5,5,5,4
+Meshy,A pink shark,5,5,0,5,5,4,5,5,5,4.666666667,5,5
+Meshy,A pink smartwatch with a square face and a silicone band,5,5,0,5,5,4.333333333,5,5,5,5,5,4.666666667
+Meshy,A pink vase filled with white lilies,5,5,0,5,5,4,5,4.666666667,5,5,5,4.666666667
+Meshy,A pirate digging for treasure with a rusty shovel,5,5,5,5,5,4.333333333,5,5,4.666666667,4.666666667,5,4.333333333
+Meshy,A pizza placed beside a fresh salad,5,4,5,4.666666667,4,3,5,5,4.333333333,4,4.333333333,4.333333333
+Meshy,A plant with rainbow leaves in a clay pot,5,5,5,5,5,5,5,5,5,5,5,5
+Meshy,A pot shaped like a lotus leaf with a golden pattern on the surface,5,5,0,5,5,4.666666667,5,5,5,4.666666667,5,5
+Meshy,A pottery bowl with hand-painted flowers,5,5,0,5,5,4,5,5,5,5,5,4.666666667
+Meshy,A purple shirt with a square collar and buttoned front,5,5,0,5,5,5,4.666666667,4.666666667,5,4.666666667,5,4.666666667
+Meshy,A pyramidal bottle with glowing liquid,5,5,0,5,5,4.333333333,5,5,5,4.333333333,5,4.333333333
+Meshy,A rabbit chewing a shoe,5,0,5,5,4.666666667,3.333333333,5,4,4,4,4,4
+Meshy,A rabbit kissing a fox,3.666666667,0,3.666666667,3.666666667,4,3.666666667,5,4,4.666666667,4,3.333333333,3.333333333
+Meshy,A rabbit pirate casting a spell with a magic wand,5,0,5,5,5,4,5,4,4.666666667,4,5,5
+Meshy,A rabbit wearing a dress,5,5,0,5,4.666666667,4.333333333,5,5,4.333333333,5,5,4.666666667
+Meshy,A raccoon detective on a rainbow bridge,5,5,5,5,5,4,5,5,5,5,5,5
+Meshy,A raccoon holding a goblet that shimmers with a rainbow of colors,5,5,5,5,4.666666667,4,5,5,5,4,5,4.666666667
+Meshy,A raccoon nibbling on a fallen walnut with paws holding the nut,5,0,5,5,4.666666667,3.333333333,5,5,5,4,5,5
+Meshy,A raccoon under a cable car with tail curling around the handle,3.666666667,0,2.333333333,3,5,5,5,5,5,5,4.333333333,3.666666667
+Meshy,A raccoon wearing a helmet piloting an airplane,5,5,5,5,4.666666667,4,5,5,5,4,5,4.5
+Meshy,A raccoon wearing a white chef's hat and red apron with floral patterns,5,5,0,5,5,5,5,4,5,4.333333333,3.666666667,3.666666667
+Meshy,A rainbow-colored rabbit with protruding front teeth,5,5,0,5,5,3.666666667,5,5,5,4.333333333,5,4.333333333
+Meshy,A rectangular belt with a flat buckle and evenly spaced holes,5,4,0,4,5,4,5,5,5,4.666666667,4.666666667,4
+Meshy,A rectangular car,5,5,0,5,5,4.333333333,5,5,5,5,5,5
+Meshy,A rectangular wooden bookshelf,5,5,0,5,5,4.333333333,5,5,5,5,3.666666667,4
+Meshy,A rectangular wrench with red patterns and hieroglyphic engravings,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Meshy,A red armchair with padded armrests,5,5,0,5,5,5,5,5,5,5,5,5
+Meshy,A red coffee mug on a table,4,4.666666667,4,4,5,4,4,4,5,4,4.666666667,4
+Meshy,A red drum with a wooden and cylindrical body,5,5,0,5,5,4,5,5,5,5,5,5
+Meshy,A red house shaped like an apple,5,5,0,5,5,5,5,5,5,5,5,5
+Meshy,A red tiger with a wicker tail,5,5,0,5,5,4,5,5,5,4.666666667,5,4.666666667
+Meshy,A robot dog below a glowing spaceship,3,3,2.666666667,2.666666667,5,4.333333333,4.666666667,4.666666667,4,4,5,4
+Meshy,A rocking chair made of amber with cloud-like foam cushions,5,5,0,5,5,4,5,5,4,4,5,4
+Meshy,A rose with petals of frosted crystal and a stem wrapped in green vines,4.666666667,3,0,3,4,4,5,4.666666667,5,4,4.666666667,3.333333333
+Meshy,"A round, red apple with a brown stem and green leaves",5,5,0,5,5,4.333333333,5,5,5,4.666666667,4,4
+Meshy,"A round chair with a cushioned seat, and carved spirals on the body",5,4.666666667,0,5,5,5,5,5,5,5,5,5
+Meshy,A round green plate like a water lily,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Meshy,A round pizza,5,5,0,5,5,4,5,5,5,5,5,4.666666667
+Meshy,A round sunflower,5,5,0,5,5,4,5,5,5,4.666666667,5,3.666666667
+Meshy,A round teapot of rainbow colors,5,5,0,5,5,5,5,5,5,5,5,5
+Meshy,A ruler and a pencil,4,0,0,4,4.666666667,4.666666667,4.666666667,4.333333333,5,4.333333333,5,4
+Meshy,A shark with a crown is holding a trident,5,5,5,5,4.666666667,3.666666667,4.666666667,5,4,4,5,4
+Meshy,A sheep wearing a dress made of glowing leaves,5,4,0,4,5,3.666666667,5,5,4.666666667,4,5,4
+Meshy,A sheep wearing a hoodie decorated with colorful flowers and green leaves,5,5,0,5,5,4,5,5,5,5,5,4.666666667
+Meshy,A shoe next to a sock,4,0,2,3,3.666666667,3,4.666666667,5,4,4,5,4
+Meshy,A shoe with a body shaped like a fish,5,4,0,4,4.666666667,4,4.333333333,4.666666667,5,4,3.333333333,4
+Meshy,A short and dense fern with leaves shaped like feathers,4,3,0,3,4,3.666666667,4.666666667,4.666666667,4.666666667,4,4.333333333,3
+Meshy,A short brush with gold bristles,5,5,0,5,5,4,5,5,4.666666667,4.333333333,5,4
+Meshy,"A short mushroom with a thick, rounded cap and a narrow stem",5,5,0,5,4.666666667,4.333333333,5,5,5,5,5,4.666666667
+Meshy,A silver circular ring with a gem,5,5,0,5,4.666666667,4,5,5,5,4,5,4.666666667
+Meshy,"A silver scissors with rubber handles, and a screw joint",4,4.666666667,0,4,4.666666667,4,4,4.666666667,5,4,4.666666667,3.333333333
+Meshy,A skeleton knight sitting on a throne whose armrests are adorned with intricate carvings,5,4.333333333,5,4.333333333,4.666666667,4.666666667,5,5,4.666666667,4.666666667,5,4.666666667
+Meshy,A skirt made of scales with a hem shaped like a mermaid's tail,5,4.666666667,0,4.666666667,4.666666667,4.666666667,4.666666667,4.333333333,4.666666667,4.666666667,5,5
+Meshy,A slender palm tree with fan-shaped leaves and curved branches,5,4.333333333,0,4.666666667,4.666666667,4,5,5,5,4,5,4.666666667
+Meshy,"A small, oval-shaped fish with a flat body and triangular fins",4.666666667,4,0,4,3.666666667,3.666666667,5,4,4,4,5,4
+Meshy,A small wooden ship inside a porcelain cup,5,5,5,5,4.666666667,4,5,4.666666667,4.666666667,4,5,4.666666667
+Meshy,A snail with a shell made of smooth jade,4.666666667,5,0,4.666666667,5,4,5,5,5,5,5,5
+Meshy,A snake shaped like a long tube,5,4,0,4,5,5,4,5,5,4,4.666666667,4
+Meshy,A snake with legs,5,4.666666667,0,4.666666667,3.666666667,3.666666667,4.333333333,3,5,3.666666667,5,3
+Meshy,A sneaker with blue stripes on the surface,5,5,0,5,5,4.333333333,5,5,5,5,5,4
+Meshy,A sparrow building a nest on the house with branches and leaves,3.333333333,3,1.666666667,2.333333333,4,3.333333333,4.666666667,4,4,4,4,3.333333333
+One2345++,A phoenix with a long beak and wings shaped like a flame fan,3.666666667,3,0,3,3,3,2,3,3,2.333333333,4.666666667,4
+One2345++,A phoenix with golden feathers,3,4,0,3,2.333333333,3,3,3,3,3,4,2.666666667
+One2345++,A piano with keys that sparkle like crushed diamonds,4,1.666666667,0,3,3,3,3,3,3,3,4,3
+One2345++,A pig playing a drum set,4,0,4,4,3,3,4,4,3,3.333333333,4.5,3.5
+One2345++,A pigeon reading a book,4,0,4,4,4,4,4.666666667,4,4,4,4.333333333,4
+One2345++,A pile of burning firewood in a refrigerator with the door open,3,4,4,3.333333333,3,3,4.666666667,3.666666667,3.333333333,3.333333333,4,4
+One2345++,"A pine tree with a tall, conical form",4.666666667,5,0,4.666666667,4,4,4,4,4,4,5,4
+One2345++,A pink boat,4.333333333,5,0,4.333333333,3.333333333,4,5,4,4,4,5,3.333333333
+One2345++,A pink cherry blossom with a slender branch,3,4,0,3,3,3,2.333333333,4,3,2.666666667,4,2.333333333
+One2345++,A pink desk lamp shaped like a trumpet flower,4.666666667,4,0,4,4,4,5,4,4,4,5,4
+One2345++,A pink pig with a curly tail,4.333333333,5,0,5,4,4,5,4.333333333,4,4,5,4
+One2345++,A pink rose with a ruby in the center,3.666666667,3,0,3,3,3,4,3.333333333,3,3.666666667,3.666666667,3
+One2345++,A pink shark,5,5,0,5,3.666666667,4,5,4,4.666666667,4,4.333333333,3
+One2345++,A pink smartwatch with a square face and a silicone band,4.333333333,4.666666667,0,4.333333333,4,4,4,4,4,4,4.333333333,3.666666667
+One2345++,A pink vase filled with white lilies,4,4,0,4,4,4,4,4,4,4,4,3.333333333
+One2345++,A pirate digging for treasure with a rusty shovel,2,1,1,2,2.333333333,2.333333333,2.333333333,3.333333333,3,2.333333333,4,2.333333333
+One2345++,A pizza placed beside a fresh salad,2.333333333,1,2,2,3.666666667,3,4,4,3.666666667,3.333333333,3,3
+One2345++,A plant with rainbow leaves in a clay pot,4,4,4,4,3.333333333,4,4,3.666666667,4,4,5,3.333333333
+One2345++,A pot shaped like a lotus leaf with a golden pattern on the surface,3.666666667,3.333333333,0,3,4,4,5,4,4.666666667,4.333333333,5,3.333333333
+One2345++,A pottery bowl with hand-painted flowers,4.666666667,4.666666667,0,4.333333333,3,2.666666667,4.666666667,4.666666667,4,3.333333333,5,3.333333333
+One2345++,A purple shirt with a square collar and buttoned front,4,4.333333333,0,4,3,3.666666667,4,4,4,4,4.333333333,4
+One2345++,A pyramidal bottle with glowing liquid,5,5,0,5,4,4,5,4.666666667,4,4,5,4
+One2345++,A rabbit chewing a shoe,3.333333333,0,3.333333333,3.333333333,3,3,3,3.666666667,3.666666667,2.666666667,2.666666667,2.333333333
+One2345++,A rabbit kissing a fox,3,0,3,3,3,3,4,4,4,3.666666667,5,4
+One2345++,A rabbit pirate casting a spell with a magic wand,3.333333333,0,4,3.333333333,3.666666667,4,4,4,3.333333333,4,4,3
+One2345++,A rabbit wearing a dress,5,5,0,5,3.333333333,3.666666667,4,4.666666667,4,4,5,4
+One2345++,A raccoon detective on a rainbow bridge,3,4,2,2,3,3,3.333333333,3,3,3,4,2.333333333
+One2345++,A raccoon holding a goblet that shimmers with a rainbow of colors,4,4.333333333,4.333333333,4,3.666666667,3.666666667,4,4,3.666666667,4,4.333333333,3.666666667
+One2345++,A raccoon nibbling on a fallen walnut with paws holding the nut,3,0,1.666666667,2,3.666666667,3.333333333,4.666666667,4,4,4,5,3.333333333
+One2345++,A raccoon under a cable car with tail curling around the handle,2.666666667,0,1.333333333,2,3.333333333,4,3.333333333,4,3,3,4,2
+One2345++,A raccoon wearing a helmet piloting an airplane,2.666666667,5,2,3,3,3,4,4,4,3.666666667,4.666666667,3
+One2345++,A raccoon wearing a white chef's hat and red apron with floral patterns,3,4,0,3,3,3,4,4,4,3,4,3
+One2345++,A rainbow-colored rabbit with protruding front teeth,4,4.666666667,0,4,3.666666667,3,3,4.666666667,3.666666667,3.333333333,5,4
+One2345++,A rectangular belt with a flat buckle and evenly spaced holes,4,4,0,4,3,3,4,3.666666667,3.666666667,3,5,3
+One2345++,A rectangular car,4.333333333,4.333333333,0,4,3,3.666666667,4,4.666666667,4,3,4,3.333333333
+One2345++,A rectangular wooden bookshelf,5,5,0,5,4,4,5,4,4.333333333,3.666666667,5,4
+One2345++,A rectangular wrench with red patterns and hieroglyphic engravings,2,4,0,3,3.333333333,3.333333333,5,4.666666667,4.666666667,3.666666667,4,2.333333333
+One2345++,A red armchair with padded armrests,5,4,0,4,3.333333333,4,4.333333333,4,3.333333333,4,5,4
+One2345++,A red coffee mug on a table,4.333333333,5,4.666666667,4.333333333,4,4,4.666666667,4,4.666666667,4,5,4
+One2345++,A red drum with a wooden and cylindrical body,3,4,0,3.666666667,4.333333333,4,5,5,5,4.666666667,5,4
+One2345++,A red house shaped like an apple,4,3,0,3.333333333,4,4,4,3.666666667,4,4,4,3
+One2345++,A red tiger with a wicker tail,4,4,0,4,3,3,4,3.333333333,4,3,5,4
+One2345++,A robot dog below a glowing spaceship,2.333333333,2.333333333,2,2,3.666666667,3.333333333,4,4,3.666666667,3.333333333,4,3
+One2345++,A rocking chair made of amber with cloud-like foam cushions,4.666666667,2.666666667,0,3,3.666666667,3.666666667,5,4,3,3.666666667,4.5,3.5
+One2345++,A rose with petals of frosted crystal and a stem wrapped in green vines,4,2.333333333,0,3,3,3,4,3.666666667,3.333333333,3,4.666666667,3
+One2345++,"A round, red apple with a brown stem and green leaves",5,4,0,4,4,4,4,5,4,4,5,4
+One2345++,"A round chair with a cushioned seat, and carved spirals on the body",4.666666667,4.333333333,0,4.333333333,3,3,4.666666667,4.666666667,4,4,4,3
+One2345++,A round green plate like a water lily,4,4.666666667,0,4,4,4,5,4,4.333333333,4,5,4
+One2345++,A round pizza,4.666666667,5,0,4.666666667,3.666666667,3.666666667,4,3.666666667,3,3.666666667,3,3
+One2345++,A round sunflower,2,2,0,2,3,3,4,3,4,3,2,2
+One2345++,A round teapot of rainbow colors,5,5,0,5,4,4,4,4.666666667,4,4,5,4
+One2345++,A ruler and a pencil,3,0,0,3,4,4,5,4,4.666666667,4.333333333,4,3
+One2345++,A shark with a crown is holding a trident,3,4,2,3,3.333333333,3.333333333,4,3.666666667,3,3,4,4
+One2345++,A sheep wearing a dress made of glowing leaves,4,4,0,4.333333333,4,4,4.666666667,4,3.666666667,4,5,3.666666667
+One2345++,A sheep wearing a hoodie decorated with colorful flowers and green leaves,2,3,0,2.333333333,3,2.333333333,3,4,4,3,4.666666667,3
+One2345++,A shoe next to a sock,3,0,2,2.666666667,4.666666667,4,5,4.666666667,4,4,5,3
+One2345++,A shoe with a body shaped like a fish,4,3,0,3,3,3,4,4,3,3,4,2.666666667
+One2345++,A short and dense fern with leaves shaped like feathers,4,4,0,4,3,3.333333333,4,3,3,3.333333333,4,3
+One2345++,A short brush with gold bristles,4,4,0,4,4,4,4.666666667,4,4,4,5,4
+One2345++,"A short mushroom with a thick, rounded cap and a narrow stem",5,5,0,5,4,5,5,4.666666667,5,5,5,4.666666667
+One2345++,A silver circular ring with a gem,4,4.333333333,0,4,4,4,5,4,4.666666667,4,5,4
+One2345++,"A silver scissors with rubber handles, and a screw joint",4.666666667,4,0,4,4,4,4.666666667,4,5,4,4.666666667,4
+One2345++,A skeleton knight sitting on a throne whose armrests are adorned with intricate carvings,4,3,4,3.333333333,4,4,3,4,4,3.666666667,3,3
+One2345++,A skirt made of scales with a hem shaped like a mermaid's tail,4,3.333333333,0,3.666666667,3,3,3.666666667,4,3.333333333,3,5,4
+One2345++,A slender palm tree with fan-shaped leaves and curved branches,2,2,0,2,3,3,2.333333333,3,3.333333333,2.666666667,4.333333333,2
+One2345++,"A small, oval-shaped fish with a flat body and triangular fins",4,4,0,4,3.666666667,4,4,4.333333333,4,4,4.333333333,3
+One2345++,A small wooden ship inside a porcelain cup,3,3,2,2,4,4,5,4,4,4,5,3
+One2345++,A snail with a shell made of smooth jade,4,3,0,3,4,4,4,4.666666667,4,4,5,3.333333333
+One2345++,A snake shaped like a long tube,4,4,0,4,3,2.666666667,3.666666667,4,4,2.333333333,4,2.666666667
+One2345++,A snake with legs,2,1,0,2,3,2.333333333,4,3.666666667,3,2,3,2
+One2345++,A sneaker with blue stripes on the surface,3.666666667,4.333333333,0,3.666666667,3,3.333333333,4.666666667,3.333333333,3.666666667,3.666666667,5,3.666666667
+One2345++,A sparrow building a nest on the house with branches and leaves,3,3,2.666666667,2.666666667,4,3.666666667,3.666666667,4,4,4,4,3.666666667
+Rodin,A phoenix with a long beak and wings shaped like a flame fan,5,5,0,5,4.666666667,5,4.666666667,5,4,4.666666667,5,4.666666667
+Rodin,A phoenix with golden feathers,5,5,0,5,4,4.333333333,5,5,4.333333333,4.666666667,5,5
+Rodin,A piano with keys that sparkle like crushed diamonds,5,2.666666667,0,3.333333333,5,4.666666667,5,5,5,5,5,4
+Rodin,A pig playing a drum set,5,0,5,5,5,4,5,5,4.666666667,4.666666667,5,4.666666667
+Rodin,A pigeon reading a book,5,0,5,5,5,4.666666667,5,5,5,4.666666667,5,4.666666667
+Rodin,A pile of burning firewood in a refrigerator with the door open,5,5,5,5,5,5,5,5,5,5,5,5
+Rodin,"A pine tree with a tall, conical form",4.666666667,5,0,5,5,5,5,4.666666667,4.666666667,4.666666667,5,4.33333333333333
+Rodin,A pink boat,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A pink cherry blossom with a slender branch,3.333333333,5,0,4,5,5,4.666666667,4.333333333,5,4.666666667,3.333333333,4
+Rodin,A pink desk lamp shaped like a trumpet flower,5,5,0,5,5,4,4,5,4.333333333,4,5,4
+Rodin,A pink pig with a curly tail,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A pink rose with a ruby in the center,5,3,0,4,5,5,5,5,5,5,5,4.333333333
+Rodin,A pink shark,5,5,0,5,5,4.666666667,4,5,5,4.666666667,5,5
+Rodin,A pink smartwatch with a square face and a silicone band,5,5,0,5,5,4,5,5,5,5,5,5
+Rodin,A pink vase filled with white lilies,5,5,0,5,5,4.333333333,5,5,4.333333333,4.666666667,5,5
+Rodin,A pirate digging for treasure with a rusty shovel,5,3.333333333,5,4.333333333,4.333333333,4,5,5,5,4.333333333,5,4.5
+Rodin,A pizza placed beside a fresh salad,3,1,2.333333333,2,5,4.666666667,5,5,5,5,5,3.333333333
+Rodin,A plant with rainbow leaves in a clay pot,5,5,5,5,5,4.666666667,5,5,5,5,5,4.666666667
+Rodin,A pot shaped like a lotus leaf with a golden pattern on the surface,5,5,0,5,5,5,5,5,4.666666667,5,5,5
+Rodin,A pottery bowl with hand-painted flowers,5,5,0,5,5,5,5,5,4,5,5,5
+Rodin,A purple shirt with a square collar and buttoned front,5,5,0,5,5,4.333333333,5,4.666666667,4.333333333,4.666666667,5,4.666666667
+Rodin,A pyramidal bottle with glowing liquid,5,5,0,5,5,4.666666667,5,5,5,5,5,4.666666667
+Rodin,A rabbit chewing a shoe,5,0,5,5,5,5,5,5,5,5,5,5
+Rodin,A rabbit kissing a fox,3.666666667,0,5,4,5,5,4,5,5,4.333333333,5,4
+Rodin,A rabbit pirate casting a spell with a magic wand,5,0,5,5,5,5,5,5,5,5,5,5
+Rodin,A rabbit wearing a dress,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A raccoon detective on a rainbow bridge,3,1,2.333333333,2.333333333,5,5,5,5,5,5,5,4
+Rodin,A raccoon holding a goblet that shimmers with a rainbow of colors,5,4,5,4,5,5,5,5,5,5,5,4
+Rodin,A raccoon nibbling on a fallen walnut with paws holding the nut,5,0,5,5,5,5,5,5,4,4.666666667,5,5
+Rodin,A raccoon under a cable car with tail curling around the handle,5,0,2,2.333333333,5,4,5,5,5,4.666666667,5,4
+Rodin,A raccoon wearing a helmet piloting an airplane,5,5,5,5,5,4.666666667,4,5,4.333333333,4.666666667,5,5
+Rodin,A raccoon wearing a white chef's hat and red apron with floral patterns,5,4.666666667,0,4.666666667,5,5,5,5,5,5,5,5
+Rodin,A rainbow-colored rabbit with protruding front teeth,5,3,0,4,5,5,5,5,5,5,5,4.666666667
+Rodin,A rectangular belt with a flat buckle and evenly spaced holes,5,5,0,5,5,5,5,5,5,5,4.666666667,4
+Rodin,A rectangular car,5,4.666666667,0,5,5,5,5,5,5,5,5,5
+Rodin,A rectangular wooden bookshelf,5,5,0,5,5,4,5,5,5,5,5,4
+Rodin,A rectangular wrench with red patterns and hieroglyphic engravings,2.666666667,5,0,3.333333333,5,5,5,5,4.666666667,5,5,3.666666667
+Rodin,A red armchair with padded armrests,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A red coffee mug on a table,5,5,5,5,5,4,5,5,4.666666667,4.333333333,5,3.333333333
+Rodin,A red drum with a wooden and cylindrical body,5,5,0,5,5,4.333333333,5,5,5,5,5,4.666666667
+Rodin,A red house shaped like an apple,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A red tiger with a wicker tail,5,3.333333333,0,4,5,5,5,5,5,5,5,4.333333333
+Rodin,A robot dog below a glowing spaceship,3,3,2,2,5,5,5,4.333333333,4.333333333,4.666666667,5,4
+Rodin,A rocking chair made of amber with cloud-like foam cushions,5,3.666666667,0,4,5,5,5,5,4.666666667,5,5,5
+Rodin,A rose with petals of frosted crystal and a stem wrapped in green vines,5,2.333333333,0,3,5,5,5,5,5,5,5,3.666666667
+Rodin,"A round, red apple with a brown stem and green leaves",5,5,0,5,5,4.333333333,5,5,5,5,5,5
+Rodin,"A round chair with a cushioned seat, and carved spirals on the body",5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A round green plate like a water lily,5,5,0,5,5,4.666666667,5,5,5,4.666666667,5,4.333333333
+Rodin,A round pizza,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A round sunflower,4,4,0,4,5,4.333333333,5,4.666666667,5,4.666666667,4,3.333333333
+Rodin,A round teapot of rainbow colors,5,5,0,5,5,4,5,5,4.666666667,4,5,4.666666667
+Rodin,A ruler and a pencil,3,0,0,3,5,5,5,5,5,5,5,4
+Rodin,A shark with a crown is holding a trident,3.333333333,5,4,4,5,4,5,4,5,4.333333333,4.666666667,4.666666667
+Rodin,A sheep wearing a dress made of glowing leaves,5,4,0,4,5,5,5,5,4.666666667,5,5,4.666666667
+Rodin,A sheep wearing a hoodie decorated with colorful flowers and green leaves,5,4.666666667,0,4.666666667,5,4.666666667,5,5,5,5,5,4.333333333
+Rodin,A shoe next to a sock,3,0,2,2.666666667,5,5,5,5,5,5,5,4
+Rodin,A shoe with a body shaped like a fish,5,3.333333333,0,4,5,4.333333333,5,5,5,5,5,4
+Rodin,A short and dense fern with leaves shaped like feathers,5,5,0,5,4.333333333,4,4,3.333333333,5,4,5,5
+Rodin,A short brush with gold bristles,4.333333333,4.333333333,0,4.333333333,4,4,5,4,4,4,5,4.5
+Rodin,"A short mushroom with a thick, rounded cap and a narrow stem",5,5,0,5,5,4.666666667,5,5,4.666666667,5,5,5
+Rodin,A silver circular ring with a gem,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,"A silver scissors with rubber handles, and a screw joint",5,4,0,4,5,5,5,5,5,5,5,3.666666667
+Rodin,A skeleton knight sitting on a throne whose armrests are adorned with intricate carvings,5,5,5,5,5,5,5,5,5,5,5,5
+Rodin,A skirt made of scales with a hem shaped like a mermaid's tail,5,4,0,4,5,5,5,4.666666667,4.666666667,4.666666667,5,4.666666667
+Rodin,A slender palm tree with fan-shaped leaves and curved branches,5,4,0,4,5,5,5,5,5,5,5,4
+Rodin,"A small, oval-shaped fish with a flat body and triangular fins",5,4.666666667,0,5,5,5,5,5,5,5,5,5
+Rodin,A small wooden ship inside a porcelain cup,5,5,5,5,5,5,5,5,5,5,5,4.666666667
+Rodin,A snail with a shell made of smooth jade,4.333333333,5,0,4.333333333,4.333333333,4.333333333,5,4,4.666666667,4.333333333,3,4
+Rodin,A snake shaped like a long tube,4.666666667,4,0,4,4,4,4,5,4,4,5,3
+Rodin,A snake with legs,5,1,0,3,5,4.666666667,4,4,4.666666667,4,4.666666667,3
+Rodin,A sneaker with blue stripes on the surface,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Rodin,A sparrow building a nest on the house with branches and leaves,4,4.666666667,3.666666667,3.666666667,5,5,4.333333333,3.333333333,4.666666667,4,3,3.333333333
+Tripo,A phoenix with a long beak and wings shaped like a flame fan,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A phoenix with golden feathers,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A piano with keys that sparkle like crushed diamonds,5,2,0,2.333333333,4.666666667,4,4,5,5,4.666666667,5,4
+Tripo,A pig playing a drum set,5,0,5,5,5,5,5,5,5,5,5,5
+Tripo,A pigeon reading a book,5,0,5,5,5,5,4,5,4.333333333,5,5,4.666666667
+Tripo,A pile of burning firewood in a refrigerator with the door open,5,5,5,5,5,4,5,5,5,5,5,4.666666667
+Tripo,"A pine tree with a tall, conical form",4.666666667,5,0,5,4,4.333333333,5,5,5,4.666666667,5,4.666666667
+Tripo,A pink boat,4.666666667,4.666666667,0,4.666666667,4,3.333333333,4.666666667,4.666666667,5,4.333333333,4.666666667,3.333333333
+Tripo,A pink cherry blossom with a slender branch,4,5,0,4,5,5,5,5,5,5,5,4.333333333
+Tripo,A pink desk lamp shaped like a trumpet flower,5,5,0,5,5,4.666666667,5,5,5,4.666666667,5,4.333333333
+Tripo,A pink pig with a curly tail,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A pink rose with a ruby in the center,5,5,0,5,5,4.666666667,5,5,5,5,5,4.333333333
+Tripo,A pink shark,5,5,0,5,5,4.333333333,5,5,5,4.666666667,5,5
+Tripo,A pink smartwatch with a square face and a silicone band,5,5,0,5,5,3.666666667,5,5,5,5,5,4
+Tripo,A pink vase filled with white lilies,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A pirate digging for treasure with a rusty shovel,3.666666667,3,3,3.333333333,5,4.333333333,5,5,5,5,5,4
+Tripo,A pizza placed beside a fresh salad,3,1,2.666666667,2.666666667,5,4.666666667,5,5,5,5,5,4
+Tripo,A plant with rainbow leaves in a clay pot,5,5,5,5,5,5,5,5,5,5,5,5
+Tripo,A pot shaped like a lotus leaf with a golden pattern on the surface,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A pottery bowl with hand-painted flowers,5,5,0,5,5,4,5,5,5,5,5,4.333333333
+Tripo,A purple shirt with a square collar and buttoned front,5,5,0,5,5,4,5,5,5,5,5,4.666666667
+Tripo,A pyramidal bottle with glowing liquid,5,3.666666667,0,4,5,5,5,5,5,5,5,4.333333333
+Tripo,A rabbit chewing a shoe,5,0,5,5,5,5,5,5,5,5,5,5
+Tripo,A rabbit kissing a fox,4,0,4.666666667,4,5,4.333333333,5,5,5,5,5,4.333333333
+Tripo,A rabbit pirate casting a spell with a magic wand,5,0,5,5,5,5,5,5,5,5,5,5
+Tripo,A rabbit wearing a dress,5,5,0,5,5,5,5,5,4,5,5,4.666666667
+Tripo,A raccoon detective on a rainbow bridge,3,1,2.333333333,2.333333333,5,5,5,5,5,5,5,4
+Tripo,A raccoon holding a goblet that shimmers with a rainbow of colors,5,5,5,5,5,5,5,5,5,5,5,4.333333333
+Tripo,A raccoon nibbling on a fallen walnut with paws holding the nut,5,0,5,5,5,5,5,5,5,5,5,5
+Tripo,A raccoon under a cable car with tail curling around the handle,5,0,3.333333333,4,5,5,5,5,5,5,5,4
+Tripo,A raccoon wearing a helmet piloting an airplane,5,5,5,5,5,5,5,5,5,5,5,4.666666667
+Tripo,A raccoon wearing a white chef's hat and red apron with floral patterns,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A rainbow-colored rabbit with protruding front teeth,5,5,0,5,5,5,5,5,5,5,4,4.666666667
+Tripo,A rectangular belt with a flat buckle and evenly spaced holes,5,4.333333333,0,4.333333333,5,4.666666667,5,5,5,5,5,4.333333333
+Tripo,A rectangular car,5,4.333333333,0,4.333333333,5,5,5,4.333333333,5,5,5,4.333333333
+Tripo,A rectangular wooden bookshelf,5,5,0,5,5,5,5,5,5,5,5,4.333333333
+Tripo,A rectangular wrench with red patterns and hieroglyphic engravings,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Tripo,A red armchair with padded armrests,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A red coffee mug on a table,3,5,2,3,5,4,5,5,5,4,5,3.5
+Tripo,A red drum with a wooden and cylindrical body,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A red house shaped like an apple,5,5,0,5,5,5,5,5,5,5,5,2
+Tripo,A red tiger with a wicker tail,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A robot dog below a glowing spaceship,3,3,2.666666667,2.666666667,5,4,4.333333333,5,4.666666667,4,5,3.666666667
+Tripo,A rocking chair made of amber with cloud-like foam cushions,5,3,0,3.333333333,5,5,5,5,5,5,5,4.333333333
+Tripo,A rose with petals of frosted crystal and a stem wrapped in green vines,5,3,0,3.666666667,5,4.333333333,5,5,5,5,4.666666667,4
+Tripo,"A round, red apple with a brown stem and green leaves",5,5,0,5,5,4.333333333,5,5,5,5,5,3.666666667
+Tripo,"A round chair with a cushioned seat, and carved spirals on the body",5,4.333333333,0,4.333333333,5,5,5,5,5,5,5,4
+Tripo,A round green plate like a water lily,5,5,0,5,5,4.333333333,5,5,5,5,5,5
+Tripo,A round pizza,5,5,0,5,5,4.333333333,5,5,5,5,5,5
+Tripo,A round sunflower,5,5,0,5,5,5,5,5,5,5,5,4.333333333
+Tripo,A round teapot of rainbow colors,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A ruler and a pencil,3,0,0,3,4.666666667,4.333333333,5,5,4.666666667,4.666666667,5,3.333333333
+Tripo,A shark with a crown is holding a trident,5,5,5,5,5,5,5,5,5,5,5,5
+Tripo,A sheep wearing a dress made of glowing leaves,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A sheep wearing a hoodie decorated with colorful flowers and green leaves,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A shoe next to a sock,4,0,4,4,5,5,5,5,5,5,4,3.666666667
+Tripo,A shoe with a body shaped like a fish,1,4,0,2,5,4.666666667,5,5,5,5,4.666666667,3
+Tripo,A short and dense fern with leaves shaped like feathers,4.666666667,4,0,4,5,5,5,5,5,5,5,5
+Tripo,A short brush with gold bristles,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,"A short mushroom with a thick, rounded cap and a narrow stem",5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A silver circular ring with a gem,4.666666667,5,0,4.666666667,4,4,5,5,5,4,5,4
+Tripo,"A silver scissors with rubber handles, and a screw joint",5,5,0,5,4.333333333,4.333333333,5,5,5,5,5,5
+Tripo,A skeleton knight sitting on a throne whose armrests are adorned with intricate carvings,5,5,5,5,5,5,5,5,5,5,5,5
+Tripo,A skirt made of scales with a hem shaped like a mermaid's tail,5,5,0,5,5,5,5,5,5,5,5,4.666666667
+Tripo,A slender palm tree with fan-shaped leaves and curved branches,5,3.666666667,0,4,5,4,4.333333333,5,5,4.666666667,5,4
+Tripo,"A small, oval-shaped fish with a flat body and triangular fins",5,4.666666667,0,5,5,4.333333333,5,5,5,5,5,5
+Tripo,A small wooden ship inside a porcelain cup,5,5,5,5,5,4,5,5,5,4.666666667,5,4.333333333
+Tripo,A snail with a shell made of smooth jade,5,3,0,4,4.666666667,4.666666667,5,5,5,5,5,4.333333333
+Tripo,A snake shaped like a long tube,5,5,0,5,4.666666667,4.666666667,5,5,5,5,5,5
+Tripo,A snake with legs,5,4.666666667,0,4.666666667,4.666666667,4,5,4,4.666666667,4.666666667,5,5
+Tripo,A sneaker with blue stripes on the surface,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A sparrow building a nest on the house with branches and leaves,4,5,3,4,5,5,5,5,4.666666667,5,5,4

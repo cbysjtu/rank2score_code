@@ -1,0 +1,721 @@
+model,prompt,Object Alignment,Attribute Alignment,Interaction Alignment,Overall Alignment,Texture Clarity,Texture Aesthetics,Geometry Loss,Geometry Redundancy,Geometry Roughness,Overall Visual,3D Authentic,Overall Quality
+3DTopia,A colorful ladybug in a glass bottle,2.666666667,2,1.666666667,1.666666667,2,1.666666667,2,3,2.333333333,1.666666667,3,2
+3DTopia,A conical castle tower with a pointed roof and arched windows,5,4,0,4,3,3,3,4.666666667,3,3.333333333,5,3
+3DTopia,A conical tower,2.666666667,2,0,2,3,2.666666667,3,4.666666667,4,3,5,2.333333333
+3DTopia,A corgi dog lying on a sofa with head resting on a cushion,1,0,1,1,1,1,1,1,1,1,1,1
+3DTopia,A crocodile below a table,2,0,1,1.333333333,2,2,1,4,4,1.333333333,2,2
+3DTopia,A crystal key hanging on a metal hook,2,2.333333333,2,2,2.666666667,2.333333333,3.333333333,4,3.666666667,2,4,2
+3DTopia,A cup full of colorful pens and pencils,3,3,0,3,2,2.333333333,4,4.666666667,4,2,4,3
+3DTopia,A curved brush,2,2,0,2,1,1,1,1,1,1,1,1
+3DTopia,A cylindrical chair,2,4,0,2.333333333,3.333333333,3,4,4.333333333,4.333333333,3,3.666666667,2
+3DTopia,A deer standing near the ruins of a stone castle with ears perking up,2,2,1.333333333,2,2,2,1.666666667,3.666666667,3,1.666666667,2,2
+3DTopia,A deer with antlers of various sizes in the shape of branches,1,1.333333333,0,1,2,2,2.333333333,3,4,2,1,1
+3DTopia,A delicate porcelain teacup painted with flowers rests on a saucer,2.333333333,3,2,2.666666667,2.666666667,2.333333333,3,4,3,2.333333333,4,2.666666667
+3DTopia,A delicious sandwich next to a pile of crispy,1.333333333,0,1.333333333,1.333333333,1,1,1,1,1,1,3.666666667,2
+3DTopia,A dog barking at a cat,1,0,1,1,1,1,1,1,1,1,1,1
+3DTopia,A dog eating a piece of bread on the table with tail raising,1,1,1,1,1,1,1,1,1,1,1,1
+3DTopia,A dog sitting next to a white cat,1,1,1,1,1,1,1,1,1,1,1,1
+3DTopia,A dog wearing extremely cool sneakers,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,A dog with a beard and ears shaped like butterfly wings,2,1,0,1,1,1,1,1,1,1,4,1.666666667
+3DTopia,A dragon curled up on a floating sofa with tail wrapped around a cushion,1,0,1,1,1,1,1,1,1,1,1,1
+3DTopia,A dragon holding a staff wrapped in glowing vines with a crown on his head,1,1,1,1,1,1,1,1,1,1,1,1
+3DTopia,A dragon with metallic scales,1,1.333333333,0,1,3,3,2.333333333,2.666666667,3.333333333,2,1,1
+3DTopia,A dragonfly in a water tank,1.333333333,0,1.333333333,1.333333333,1,1,1,1,1,1,2,2
+3DTopia,A drone with balanced propellers,3.333333333,4,0,3.333333333,3,2,3,4,4,3,4,3
+3DTopia,A duck chasing a toy boat,1.666666667,1,1.666666667,1,2,1.333333333,3,3.666666667,3,2,3,2
+3DTopia,A fat owl wearing a black gown,1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,A fat penguin,1,1.333333333,0,1,1,1,1,1,1,1,1,1
+3DTopia,A fat wolf with pink fur,1,1,0,1,1,1,1,1,1,1,2,2
+3DTopia,A fish with deep black scales speckled with stars,3.333333333,2,0,2,3,3,2,3,3.666666667,2.333333333,3.666666667,2
+3DTopia,A fish-shaped shoe,1,2.333333333,0,1.333333333,3,3,2.333333333,3,4,2.333333333,3,2
+3DTopia,A floral dress hanging on a coat rack,3,4.333333333,1,2.333333333,3.666666667,3.666666667,3,3.333333333,4,3,4,3
+3DTopia,A flower on a table,2,0,1.333333333,1.333333333,2,2,2.333333333,3,3.333333333,2,3,1.666666667
+3DTopia,A flower that blooms petals shaped like butterflies,2,1.666666667,0,2,3,2.666666667,2,3,4,2,3.666666667,2
+3DTopia,A flower with petals made of soft pink silk,3.666666667,3,0,3.333333333,2,2,3,3.666666667,3.666666667,2.333333333,3,2.333333333
+3DTopia,A flower with round copper petals,3.333333333,2,0,2,2.666666667,2.333333333,3,4,3,2.666666667,4.333333333,3
+3DTopia,A flower with star-shaped petals,2.333333333,2,0,2,3,3,2,3,4,2.333333333,3.333333333,2
+3DTopia,A fluffy cat lying on its back on a couch,1,1,1,1,1,1,1,1,1,1,1,1
+3DTopia,A footballer kicking a ball,2,0,1.333333333,1.666666667,2.666666667,2,3.666666667,4,3.666666667,2.333333333,3.333333333,2
+3DTopia,A fox holding a basketball,3,0,2.333333333,2.333333333,3,2,3,3.666666667,3,2.333333333,3,2.666666667
+3DTopia,A fox lying on a couch and watching television with a coffee cup in his hand,2,1,1.666666667,1.666666667,1,1,1,1,1,1,2,1.666666667
+3DTopia,A fox on a maple leaf with tail draped over the edges,2,0,1.333333333,1.333333333,3,2.333333333,3.333333333,3,3,2,2.666666667,1.333333333
+3DTopia,A fox taking a photograph using a DSLR,2.333333333,0,2,2,1,1,1,1,1,1,3,1.666666667
+3DTopia,A fox wearing a tailored suit and a tie,3.333333333,3.333333333,0,3.333333333,3,2.333333333,2.333333333,4,4,3,4,3
+3DTopia,"A fox with a bushy, crescent-shaped tail and pointed ears",2.333333333,3,0,3,3,3,3.666666667,4,4,3,3,2.666666667
+3DTopia,"A fox with nine tails, each of which is made of metal",1,1,0,1,1,1,1,1,1,1,1,1
+3DTopia,A frog inside a refrigerator full of fruits and vegetables,1,1,1,1,1,1,1,1,1,1,2,2
+3DTopia,A frog on a lily pad,1,0,1,1,2,1.666666667,2,3.333333333,3,1.333333333,2.333333333,1.666666667
+3DTopia,A frog with a mechanical heart,1.333333333,1,0,1,2,2,1.333333333,1.333333333,2.333333333,2,1,1
+3DTopia,A fruit basket filled with apples and oranges on a table,1,1,1,1,1,1,1,1,1,1,1,1
+3DTopia,A fruit basket holding apples,2.333333333,0,2,2,3,3,2,4,3.333333333,3,3,2
+3DTopia,A fruit basket on a table,1,0,1,1,2,2,3.333333333,2.666666667,4,1.666666667,4,1.666666667
+3DTopia,A gaming console with a gray plastic shell and red buttons,3,3.333333333,0,3,3,3,3,4,3,2.666666667,4,3.333333333
+3DTopia,A giant ant standing on a blue crystal ball,1,1,1,1,1,1,1,1,1,1,1,1
+3DTopia,A goat drinking beer,1.333333333,0,1.333333333,1,1,1,1,1,1,1,1,1
+3DTopia,A gold necklace lying on a wooden table next to a pair of earrings,3.666666667,4,3,3,2.333333333,3,4,4,4,3,4,2.333333333
+3DTopia,A gold necklace with a circular pendant,2,3,0,2,3,2.333333333,3,4,3,2.666666667,3.666666667,2
+3DTopia,A golden croissant with a flaky layer of butter and a smooth finish,2,2,0,2,3,3,3,4.333333333,3,3,4,2.333333333
+3DTopia,A golden motorcycle,4,4,0,4,3,3,3,4,4,3,4.666666667,3.333333333
+3DTopia,A golden ring with a miniature castle built atop the band,4,4,0,4,3,3,4,4.666666667,4,4,5,4
+3DTopia,A goldfish on a guitar,1,0,1,1,1,1,1,1,1,1,1,1
+3DTopia,A gray car shaped like a toast,1,2,0,1,3,2,4,4,3.666666667,2,1,1
+3DTopia,A gray cotton t-shirt with a printed logo,4,2.333333333,0,2.666666667,3,3,3,3,3,3,4.666666667,3
+3DTopia,A gray dog licking an ice cream cone,1,1,1,1,1,1,1,1,1,1,1,1
+3DTopia,A gray elephant with a long trunk,2.333333333,2,0,2.333333333,3,3,2,2.666666667,4,2,4,2
+3DTopia,A gray horse with a long mane and wrinkled skin,2.333333333,2,0,2,2.666666667,2.666666667,2.333333333,3.666666667,4,2.333333333,2.666666667,2
+3DTopia,A gray knife shaped like a leaf,2,3,0,2,3,3,4,4.333333333,4,3,4,2.333333333
+3DTopia,A gray skyscraper with rectangular windows,5,4,0,4,3,2.333333333,4,4,3,3.333333333,5,4.333333333
+3DTopia,A gray submarine resembling a giant fish,4,4,0,4,3,3,4,5,4,3.333333333,5,4
+3DTopia,A gray wrench,1.333333333,3,0,2,3,3,4,5,5,3,4.333333333,2
+3DTopia,A green bowl with a wide rim and a ceramic texture,3,3.333333333,0,3,2,2,2,3.666666667,3,2,4,2
+3DTopia,A green cactus in a clay pot,3.333333333,3,3,3,2.666666667,2.666666667,2.666666667,4,3,2.666666667,3,2.333333333
+3DTopia,A green cactus with sharp spines,2,3,0,2,3,2,2.333333333,4,3,2,3.333333333,2
+3DTopia,A green flute with a cylindrical shape and finger holes,4,4,0,4,3,3,4.333333333,4,5,3,4,3.333333333
+Consistent3D,A colorful ladybug in a glass bottle,3.333333333,3,3,3,2,2,3,4,2.666666667,2,3.5,2.666666667
+Consistent3D,A conical castle tower with a pointed roof and arched windows,3.333333333,3.666666667,0,3.333333333,2.666666667,3,3,4,3,3,4,2.666666667
+Consistent3D,A conical tower,1.333333333,3,0,2,2.666666667,2.333333333,2.666666667,4,3,1.666666667,4,2
+Consistent3D,A corgi dog lying on a sofa with head resting on a cushion,2,0,2,2,2,1.333333333,3,3,3,1.666666667,2.333333333,2
+Consistent3D,A crocodile below a table,1,0,1,1,1,1,1,1,1,1,1,1
+Consistent3D,A crystal key hanging on a metal hook,3.666666667,2.333333333,4,3,2.333333333,2,4,4,3,3,4.333333333,3
+Consistent3D,A cup full of colorful pens and pencils,1.666666667,2,0,2,2,1.333333333,3,3,2,1.666666667,3.333333333,1.666666667
+Consistent3D,A curved brush,1,1,0,1,1,1,1,1,1,1,1,1
+Consistent3D,A cylindrical chair,2,3,0,2,2,1,2,4,2,2,3.333333333,2
+Consistent3D,A deer standing near the ruins of a stone castle with ears perking up,2.333333333,2.333333333,2.333333333,2.333333333,2,2,3.333333333,1.333333333,2.333333333,2,2.333333333,2
+Consistent3D,A deer with antlers of various sizes in the shape of branches,3.333333333,2,0,2.666666667,2,1,1.666666667,3.333333333,2.333333333,1.333333333,3,2
+Consistent3D,A delicate porcelain teacup painted with flowers rests on a saucer,3,2,3.333333333,2.666666667,2,1.666666667,3,3,2,2,3,3
+Consistent3D,A delicious sandwich next to a pile of crispy,2,0,2,2,2,2,3,4,3,2,3,2.333333333
+Consistent3D,A dog barking at a cat,2.666666667,0,2,2,2.333333333,2,3,4,3,2.666666667,3.666666667,3
+Consistent3D,A dog eating a piece of bread on the table with tail raising,2,1,2.333333333,1.666666667,2,1.666666667,2,2,2,1.666666667,3,3
+Consistent3D,A dog sitting next to a white cat,1,1,1,1,1,1,1,1,1,1,1,1
+Consistent3D,A dog wearing extremely cool sneakers,4,1,0,2,2,2,4,4,3,2,4,2
+Consistent3D,A dog with a beard and ears shaped like butterfly wings,2.666666667,2.666666667,0,2.666666667,2.333333333,1.333333333,4,3,1.666666667,2,2,2
+Consistent3D,A dragon curled up on a floating sofa with tail wrapped around a cushion,3,0,3,3,2.333333333,1.333333333,2.666666667,3.666666667,2,2,3,2.333333333
+Consistent3D,A dragon holding a staff wrapped in glowing vines with a crown on his head,2.666666667,2.666666667,2,2,2,2,4,3.333333333,2,2,3,3
+Consistent3D,A dragon with metallic scales,4,3,0,3,2.666666667,3,4,3,2,2.666666667,3,2.333333333
+Consistent3D,A dragonfly in a water tank,1,0,1.333333333,1,1.333333333,1,2.333333333,2.666666667,2,1.333333333,1,1
+Consistent3D,A drone with balanced propellers,3,3.333333333,0,3,2,1.333333333,4,4,1,2,4,2
+Consistent3D,A duck chasing a toy boat,2.333333333,1,2,2,2,2,4,2,2,2,2,2
+Consistent3D,A fat owl wearing a black gown,1,1,0,1,1,1,1,1,1,1,1,1
+Consistent3D,A fat penguin,3.666666667,3.666666667,0,3.666666667,2,1.666666667,2.666666667,4,3,2,4,2
+Consistent3D,A fat wolf with pink fur,2,3.333333333,0,2,3,2.666666667,2.666666667,2.333333333,3,2,2,2.666666667
+Consistent3D,A fish with deep black scales speckled with stars,2,2,0,2,2.666666667,2,3,2.333333333,3,1.666666667,2.333333333,1.666666667
+Consistent3D,A fish-shaped shoe,3,1.333333333,0,2,2,2,3,3,3.666666667,2,3,2
+Consistent3D,A floral dress hanging on a coat rack,3,4,2,2,3,3,4,3.333333333,3,3.333333333,3,2
+Consistent3D,A flower on a table,2,0,1.666666667,1.666666667,2.666666667,2,3,4,2.333333333,2,2,2
+Consistent3D,A flower that blooms petals shaped like butterflies,3,2,0,2,2,2,3,3,2,2,4,2.333333333
+Consistent3D,A flower with petals made of soft pink silk,3.333333333,3,0,3,2,2,4,4,2,2,4,2
+Consistent3D,A flower with round copper petals,2.333333333,2.333333333,0,2,3,2.333333333,3,4,2.333333333,2.333333333,3,2
+Consistent3D,A flower with star-shaped petals,3,1.333333333,0,2,2.333333333,2,4,3,2.666666667,2.333333333,2,2
+Consistent3D,A fluffy cat lying on its back on a couch,1,1,1,1,1,1,1,1,1,1,1,1
+Consistent3D,A footballer kicking a ball,3,0,4,3,2,2,3.333333333,4,3,2,3,2.333333333
+Consistent3D,A fox holding a basketball,3,0,2,2,2,2,3,3.666666667,2.666666667,2,2,2
+Consistent3D,A fox lying on a couch and watching television with a coffee cup in his hand,2.333333333,1,2,2,2.666666667,2,2.333333333,4,3,2,2.333333333,1.666666667
+Consistent3D,A fox on a maple leaf with tail draped over the edges,2.666666667,0,2,2,3,2.666666667,4,2.666666667,3,3,2.666666667,2.666666667
+Consistent3D,A fox taking a photograph using a DSLR,3,0,3,3,2,2,4,2.666666667,2.333333333,2,2,1.666666667
+Consistent3D,A fox wearing a tailored suit and a tie,3,3,0,3,2.666666667,2,3,3,2.666666667,2,3,2.333333333
+Consistent3D,"A fox with a bushy, crescent-shaped tail and pointed ears",3.666666667,3,0,3.666666667,3,2,2,3,3,2.333333333,4,2.666666667
+Consistent3D,"A fox with nine tails, each of which is made of metal",3.666666667,2,0,2,2,1.666666667,4.333333333,3.333333333,2,2,2,2.666666667
+Consistent3D,A frog inside a refrigerator full of fruits and vegetables,3,3.333333333,2,2.666666667,3,2,3,2.333333333,2,2,2,2.666666667
+Consistent3D,A frog on a lily pad,2.333333333,0,2.666666667,2.333333333,2.666666667,2,3,1.666666667,3,1.666666667,2,2
+Consistent3D,A frog with a mechanical heart,4,3,0,3,2.333333333,1.666666667,4,3,2.333333333,2,2,2
+Consistent3D,A fruit basket filled with apples and oranges on a table,2,3,1.333333333,2,2,2,4,4,3,2,3,2
+Consistent3D,A fruit basket holding apples,3,0,3.333333333,3,2,2,4,3,3,2,3,3
+Consistent3D,A fruit basket on a table,2,0,1.666666667,2,2,2,4,3.666666667,3,2,3,2
+Consistent3D,A gaming console with a gray plastic shell and red buttons,2,3,0,2.666666667,2,2,3,4,3,2.333333333,4,2
+Consistent3D,A giant ant standing on a blue crystal ball,2,3,3,2.666666667,2,1,3,2.333333333,2,1.333333333,2,2
+Consistent3D,A goat drinking beer,3,0,2.333333333,2,2,1.666666667,2.333333333,4,2,1.666666667,2,2
+Consistent3D,A gold necklace lying on a wooden table next to a pair of earrings,1,1,1,1,1,1,1,1,1,1,1,1
+Consistent3D,A gold necklace with a circular pendant,1.333333333,1.666666667,0,1.333333333,1,1,1,1,1,1,2,2
+Consistent3D,A golden croissant with a flaky layer of butter and a smooth finish,3,3,0,3,3,2.333333333,3,3.666666667,3,2.333333333,3,2.333333333
+Consistent3D,A golden motorcycle,3.333333333,3,0,3,2.333333333,2,3.666666667,3,3.333333333,2,3,3
+Consistent3D,A golden ring with a miniature castle built atop the band,1,1,0,1,2,2,4,2,2.333333333,2,1,1
+Consistent3D,A goldfish on a guitar,1.666666667,0,1.666666667,1.666666667,2,2,3,3,2.666666667,2,2,2.333333333
+Consistent3D,A gray car shaped like a toast,4,3,0,3,2,2,3.333333333,4,3,2,4,2.333333333
+Consistent3D,A gray cotton t-shirt with a printed logo,2.666666667,4,0,3,2.333333333,2,2.333333333,3.333333333,3,2,3.666666667,2
+Consistent3D,A gray dog licking an ice cream cone,3.333333333,3.333333333,2,3,2,2,2,3,3,2,3,2
+Consistent3D,A gray elephant with a long trunk,4,3,0,3,2,2,4,3,2.666666667,2,2,2
+Consistent3D,A gray horse with a long mane and wrinkled skin,3,1,0,2,2.666666667,2,2.333333333,4,2.666666667,2,3,2
+Consistent3D,A gray knife shaped like a leaf,2,3.333333333,0,2,2.333333333,2,3.666666667,3.333333333,3,2.666666667,1.666666667,1.666666667
+Consistent3D,A gray skyscraper with rectangular windows,1,1,0,1,2,1,2,4,3,2,3,2
+Consistent3D,A gray submarine resembling a giant fish,1,1,0,1,1,1,1,1,1,1,1,1
+Consistent3D,A gray wrench,2,2.666666667,0,2.333333333,3,2.333333333,3.666666667,4.333333333,3.333333333,3,3.333333333,2.333333333
+Consistent3D,A green bowl with a wide rim and a ceramic texture,4,2,0,2.333333333,2,1,3,4,1.666666667,1.333333333,4,2
+Consistent3D,A green cactus in a clay pot,3,1.333333333,2,2,2,1.666666667,3.333333333,4,3,2,3,2.333333333
+Consistent3D,A green cactus with sharp spines,2.333333333,3,0,2.666666667,3,2.666666667,4,4,3,2.666666667,4,2
+Consistent3D,A green flute with a cylindrical shape and finger holes,2.666666667,3,0,3,2,1.333333333,3.666666667,4,2.333333333,1.666666667,5,2.333333333
+DreamFusion,A colorful ladybug in a glass bottle,2,1,1,1,2,1.666666667,4,4,3.666666667,1.333333333,1,1
+DreamFusion,A conical castle tower with a pointed roof and arched windows,4,4,0,4,3,2,3.333333333,3,3.333333333,2.666666667,4.333333333,2
+DreamFusion,A conical tower,2.333333333,4,0,2.666666667,3,2.333333333,2,4,3.333333333,2,3,1.666666667
+DreamFusion,A corgi dog lying on a sofa with head resting on a cushion,2,0,2,2,2.666666667,2,3,4,3,2.333333333,4,2
+DreamFusion,A crocodile below a table,2.666666667,0,1.666666667,2,2,2,4,4,3,2,4,2.333333333
+DreamFusion,A crystal key hanging on a metal hook,2,2,1.666666667,1.666666667,2,2,3,4,3.333333333,2.333333333,3,2
+DreamFusion,A cup full of colorful pens and pencils,1.666666667,3,0,2.333333333,2.333333333,2,2.666666667,4.666666667,3,2,4,2.666666667
+DreamFusion,A curved brush,3.333333333,4,0,3.666666667,3,2.333333333,3.333333333,4.333333333,3,2.333333333,4.666666667,3
+DreamFusion,A cylindrical chair,1,1,0,1,1.333333333,1.333333333,2,4,3.666666667,1.333333333,4,2
+DreamFusion,A deer standing near the ruins of a stone castle with ears perking up,1,1,1,1,2,1.333333333,2,5,3.666666667,1.666666667,1,1
+DreamFusion,A deer with antlers of various sizes in the shape of branches,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A delicate porcelain teacup painted with flowers rests on a saucer,3,2,4,2,2,1.666666667,4,4,3.333333333,2,4,2
+DreamFusion,A delicious sandwich next to a pile of crispy,2,0,1.333333333,1.333333333,2,2,4,4,3.333333333,2,4,1.666666667
+DreamFusion,A dog barking at a cat,2,0,2,2,2,2,3,4,3,2,3.333333333,2
+DreamFusion,A dog eating a piece of bread on the table with tail raising,2,1,2,2,2,2,3,4,3,2,4,2
+DreamFusion,A dog sitting next to a white cat,1.666666667,1,2,2,2,2,3,3.333333333,4,2,3,1.666666667
+DreamFusion,A dog wearing extremely cool sneakers,2.333333333,3.666666667,0,3,2,2,2,4,3.333333333,2,3,2
+DreamFusion,A dog with a beard and ears shaped like butterfly wings,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A dragon curled up on a floating sofa with tail wrapped around a cushion,3,0,3.333333333,3,2,2,4,4,3.333333333,2,4,3
+DreamFusion,A dragon holding a staff wrapped in glowing vines with a crown on his head,1,1,1,1,1,1,1,1,1,1,1,1
+DreamFusion,A dragon with metallic scales,2,1,0,1,2,2,2,3.333333333,3,2,4,2
+DreamFusion,A dragonfly in a water tank,1,0,1,1,1,1,1,1,1,1,1,1
+DreamFusion,A drone with balanced propellers,2,1.333333333,0,1.333333333,2,1,2,2.333333333,3,2,3.333333333,2
+DreamFusion,A duck chasing a toy boat,4,5,3,3.333333333,3,2.333333333,5,3,2.333333333,3,4.666666667,3.666666667
+DreamFusion,A fat owl wearing a black gown,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A fat penguin,4,4,0,4,3,2.666666667,3,3.333333333,4,3,3,3
+DreamFusion,A fat wolf with pink fur,1,1,0,1,2.333333333,1.333333333,3,4.333333333,4,1.666666667,3.333333333,2
+DreamFusion,A fish with deep black scales speckled with stars,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A fish-shaped shoe,4,1.333333333,0,2.666666667,3,2,4,3,3.333333333,3,4.333333333,2.333333333
+DreamFusion,A floral dress hanging on a coat rack,2,2,1.333333333,1.666666667,2,2,4,4,3,2,3,1.666666667
+DreamFusion,A flower on a table,3,0,2,2,3,2,5,5,3,3,5,2.666666667
+DreamFusion,A flower that blooms petals shaped like butterflies,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A flower with petals made of soft pink silk,1.333333333,1.666666667,0,1.333333333,1,1,1,1,1,1,1.666666667,1
+DreamFusion,A flower with round copper petals,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A flower with star-shaped petals,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A fluffy cat lying on its back on a couch,1,1,1,1,1,1,1,1,1,1,1,1
+DreamFusion,A footballer kicking a ball,2.666666667,0,2,2,2.666666667,2,3,3.666666667,3.666666667,2,3.333333333,2
+DreamFusion,A fox holding a basketball,3,0,2.666666667,2.666666667,3,2.666666667,3,4,3,2.666666667,3,3
+DreamFusion,A fox lying on a couch and watching television with a coffee cup in his hand,3.333333333,3,3,3,3,2,4,4.333333333,3,3,4,2.5
+DreamFusion,A fox on a maple leaf with tail draped over the edges,1,0,1,1,1,1,1,1,1,1,1,1
+DreamFusion,A fox taking a photograph using a DSLR,2,0,2,2,2,1.666666667,3,3.666666667,3,2,2.333333333,2
+DreamFusion,A fox wearing a tailored suit and a tie,4,4.666666667,0,4,3,2.333333333,3,3,3,3,3,2.666666667
+DreamFusion,"A fox with a bushy, crescent-shaped tail and pointed ears",3,3,0,3,2.333333333,2,2.333333333,4,3.666666667,2,4.666666667,2
+DreamFusion,"A fox with nine tails, each of which is made of metal",3,2,0,2,2.333333333,2,3.666666667,4,3,2.333333333,4,2
+DreamFusion,A frog inside a refrigerator full of fruits and vegetables,2.333333333,3,2,2,2,1.666666667,3.333333333,2.333333333,3,2,4,2
+DreamFusion,A frog on a lily pad,4,0,4,4,2,2,4,3.666666667,3.333333333,2,4,2.666666667
+DreamFusion,A frog with a mechanical heart,4,2.666666667,0,2.666666667,3,2,4,4,3.333333333,2.666666667,5,2.666666667
+DreamFusion,A fruit basket filled with apples and oranges on a table,2.333333333,4,2,2.333333333,3,3,4,4,3,2.666666667,5,3
+DreamFusion,A fruit basket holding apples,3.666666667,0,3.666666667,3.666666667,3,3,5,4,3,3,4.333333333,3.666666667
+DreamFusion,A fruit basket on a table,2,0,2,2,2.333333333,2,4,4,3,2,4,2.666666667
+DreamFusion,A gaming console with a gray plastic shell and red buttons,4,5,0,4,3,2,4.666666667,5,4,3,5,3
+DreamFusion,A giant ant standing on a blue crystal ball,3.333333333,4,3,3,3,2.666666667,3,4,3.333333333,2.333333333,4,2
+DreamFusion,A goat drinking beer,2,0,1,1.333333333,2,2,2,4,3.666666667,1.666666667,1,1
+DreamFusion,A gold necklace lying on a wooden table next to a pair of earrings,1.333333333,1,1.333333333,1.333333333,2.333333333,2.333333333,4,4,2,2.666666667,4,2
+DreamFusion,A gold necklace with a circular pendant,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A golden croissant with a flaky layer of butter and a smooth finish,3,2.333333333,0,2.666666667,3,2,4,4.666666667,3.333333333,2.666666667,4,2.333333333
+DreamFusion,A golden motorcycle,4,4.333333333,0,4,2.666666667,2.666666667,3.666666667,4,3,2.666666667,5,3
+DreamFusion,A golden ring with a miniature castle built atop the band,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A goldfish on a guitar,3,0,2,2.333333333,3,2.666666667,4,4,3,3,4.666666667,2.666666667
+DreamFusion,A gray car shaped like a toast,4,4,0,4,3,3,4.333333333,4.333333333,3.333333333,3,4.333333333,2.333333333
+DreamFusion,A gray cotton t-shirt with a printed logo,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A gray dog licking an ice cream cone,4,3.333333333,3.333333333,3.333333333,2,2,3,4,3,2,4,3.333333333
+DreamFusion,A gray elephant with a long trunk,1,1,0,1,1,1,1,1,1,1,1,1
+DreamFusion,A gray horse with a long mane and wrinkled skin,3,2.333333333,0,2.333333333,3,2,2,3.333333333,4,2,2.666666667,2
+DreamFusion,A gray knife shaped like a leaf,3,3,0,3,3,3,4,4.666666667,3.333333333,3.333333333,5,3.666666667
+DreamFusion,A gray skyscraper with rectangular windows,2.666666667,3,0,2.666666667,3,2.333333333,2.666666667,4,3,2.666666667,4,1.666666667
+DreamFusion,A gray submarine resembling a giant fish,4,4,0,4,2.666666667,2.666666667,4,4.333333333,3.333333333,3,4,3
+DreamFusion,A gray wrench,3.666666667,3,0,3,2,2,4,4,3,3,5,3
+DreamFusion,A green bowl with a wide rim and a ceramic texture,2,3,0,2.333333333,2,2,4,3,3,2.333333333,4,2
+DreamFusion,A green cactus in a clay pot,4,4,4,4,3,2.666666667,4,4,3,3,4.333333333,4
+DreamFusion,A green cactus with sharp spines,4,2.666666667,0,3,3,2,4,4,3,2.333333333,4.666666667,2.66666666666667
+DreamFusion,A green flute with a cylindrical shape and finger holes,1,1,0,1,1,1,1,1,1,1,1,1
+Hunyuan,A colorful ladybug in a glass bottle,5,3,3.666666667,3.333333333,5,4,5,5,5,4.666666667,5,4.333333333
+Hunyuan,A conical castle tower with a pointed roof and arched windows,5,5,0,5,5,4,5,5,4,4.333333333,5,5
+Hunyuan,A conical tower,4.333333333,3,0,3.666666667,4.666666667,4.666666667,5,5,5,4.666666667,4.666666667,3.666666667
+Hunyuan,A corgi dog lying on a sofa with head resting on a cushion,5,0,4,4,5,4,5,5,5,4,5,4.333333333
+Hunyuan,A crocodile below a table,3,0,2,2,5,4.666666667,3.666666667,5,4.666666667,4,5,3.333333333
+Hunyuan,A crystal key hanging on a metal hook,2,3,2,2,5,5,5,5,5,5,4,3.333333333
+Hunyuan,A cup full of colorful pens and pencils,5,4,0,4,4.666666667,4,5,4,4.666666667,4,5,3.666666667
+Hunyuan,A curved brush,4,2.333333333,0,3,4,4,5,4,5,4,4.666666667,3.666666667
+Hunyuan,A cylindrical chair,5,1,0,3,4.666666667,4.333333333,5,5,5,4.666666667,5,4
+Hunyuan,A deer standing near the ruins of a stone castle with ears perking up,5,5,5,5,5,4,5,4.666666667,4.666666667,4.666666667,5,4.666666667
+Hunyuan,A deer with antlers of various sizes in the shape of branches,4,3,0,3,5,4,3,5,5,4,4.666666667,3.333333333
+Hunyuan,A delicate porcelain teacup painted with flowers rests on a saucer,5,5,5,5,5,4,5,5,5,4.666666667,5,4.666666667
+Hunyuan,A delicious sandwich next to a pile of crispy,4,0,4,4,5,5,5,5,4.666666667,5,4.666666667,4
+Hunyuan,A dog barking at a cat,5,0,4.333333333,4.333333333,5,4,5,5,5,4.333333333,5,4
+Hunyuan,A dog eating a piece of bread on the table with tail raising,4,1,2.333333333,3,5,4,4,5,4.666666667,4.333333333,5,3.666666667
+Hunyuan,A dog sitting next to a white cat,5,3,5,4,4.666666667,4.333333333,5,5,5,5,5,4.666666667
+Hunyuan,A dog wearing extremely cool sneakers,5,5,0,5,5,4,5,5,4.333333333,4.666666667,5,5
+Hunyuan,A dog with a beard and ears shaped like butterfly wings,4,3,0,3.333333333,4,3.333333333,2.333333333,4.333333333,4.333333333,3.666666667,4.666666667,3
+Hunyuan,A dragon curled up on a floating sofa with tail wrapped around a cushion,5,0,5,5,5,4,4.333333333,5,5,4.333333333,5,5
+Hunyuan,A dragon holding a staff wrapped in glowing vines with a crown on his head,5,4,5,4,4.666666667,4.666666667,5,5,4.333333333,4.666666667,5,4
+Hunyuan,A dragon with metallic scales,5,4.666666667,0,4.666666667,4.666666667,4,4,4.333333333,5,4.666666667,5,5
+Hunyuan,A dragonfly in a water tank,4,0,4.666666667,4,5,4,4,5,4.666666667,4,5,4
+Hunyuan,A drone with balanced propellers,5,4.333333333,0,4.333333333,5,4,5,4,5,5,3,3.333333333
+Hunyuan,A duck chasing a toy boat,5,5,3,4,5,4.666666667,5,5,4.666666667,5,5,4.333333333
+Hunyuan,A fat owl wearing a black gown,5,5,0,5,5,5,5,5,5,5,5,4.666666667
+Hunyuan,A fat penguin,5,5,0,5,5,5,5,5,5,5,5,5
+Hunyuan,A fat wolf with pink fur,5,5,0,5,4,4,5,4,4,4,5,4.333333333
+Hunyuan,A fish with deep black scales speckled with stars,5,4,0,4,5,5,5,5,4.666666667,5,5,5
+Hunyuan,A fish-shaped shoe,5,4,0,4,5,5,5,5,4,5,4.666666667,4
+Hunyuan,A floral dress hanging on a coat rack,5,5,5,5,5,4.666666667,5,4.666666667,4.666666667,4.666666667,5,3.666666667
+Hunyuan,A flower on a table,3,0,2.666666667,2,5,4.666666667,4.666666667,5,5,4.666666667,5,3.666666667
+Hunyuan,A flower that blooms petals shaped like butterflies,5,3,0,4,5,4.666666667,4,5,5,4.666666667,5,4
+Hunyuan,A flower with petals made of soft pink silk,3.333333333,4,0,3.666666667,4,4,4.666666667,5,4,4,2.666666667,3
+Hunyuan,A flower with round copper petals,5,4.666666667,0,4.666666667,5,5,5,5,5,5,5,4.666666667
+Hunyuan,A flower with star-shaped petals,4.666666667,2,0,3,5,4,5,5,5,5,4,4
+Hunyuan,A fluffy cat lying on its back on a couch,3,5,2,2,4.666666667,4,4.666666667,4,4.666666667,4,5,3.333333333
+Hunyuan,A footballer kicking a ball,3,0,3,3.333333333,5,4,5,5,5,4,4.666666667,3.333333333
+Hunyuan,A fox holding a basketball,5,0,5,5,5,5,5,5,5,5,5,4.333333333
+Hunyuan,A fox lying on a couch and watching television with a coffee cup in his hand,4,5,4,4,5,5,5,5,5,5,5,5
+Hunyuan,A fox on a maple leaf with tail draped over the edges,5,0,5,5,4.333333333,4,5,5,4,4,5,4
+Hunyuan,A fox taking a photograph using a DSLR,5,0,5,5,4.666666667,4,5,4,4,4,5,4.666666667
+Hunyuan,A fox wearing a tailored suit and a tie,4.666666667,5,0,4.666666667,4.333333333,4.666666667,4.666666667,5,4.666666667,4.666666667,5,4.666666667
+Hunyuan,"A fox with a bushy, crescent-shaped tail and pointed ears",5,4.666666667,0,4.666666667,5,4.666666667,5,5,5,5,5,4.666666667
+Hunyuan,"A fox with nine tails, each of which is made of metal",5,3,0,4,4.666666667,4.666666667,5,5,4.666666667,5,5,4
+Hunyuan,A frog inside a refrigerator full of fruits and vegetables,4,5,4.666666667,4,4.666666667,4,4,5,4,4,5,4
+Hunyuan,A frog on a lily pad,5,0,5,5,5,4.666666667,5,5,5,5,5,4.333333333
+Hunyuan,A frog with a mechanical heart,4.666666667,4.333333333,0,4.5,5,4.333333333,5,5,4.666666667,4.333333333,5,4
+Hunyuan,A fruit basket filled with apples and oranges on a table,3,5,2,3,5,4,5,4.666666667,4,4,5,4
+Hunyuan,A fruit basket holding apples,5,0,5,5,5,4,5,5,4,4,5,4.666666667
+Hunyuan,A fruit basket on a table,3,0,2.333333333,2.333333333,5,4,5,5,4.666666667,4.666666667,5,4
+Hunyuan,A gaming console with a gray plastic shell and red buttons,4.333333333,4.333333333,0,4,4.666666667,4,5,5,5,4,5,4
+Hunyuan,A giant ant standing on a blue crystal ball,5,5,5,5,5,4,5,5,5,4,5,4
+Hunyuan,A goat drinking beer,5,0,4.333333333,4.333333333,5,4,4,5,5,4,5,4
+Hunyuan,A gold necklace lying on a wooden table next to a pair of earrings,2.666666667,4,2.666666667,2.666666667,5,4,5,5,5,4.333333333,5,4
+Hunyuan,A gold necklace with a circular pendant,5,5,0,5,5,4,4.666666667,5,5,4,5,4.333333333
+Hunyuan,A golden croissant with a flaky layer of butter and a smooth finish,4.333333333,4,0,4,5,5,4.666666667,5,4,4.666666667,5,4
+Hunyuan,A golden motorcycle,5,5,0,5,5,4.666666667,5,5,5,5,5,4.333333333
+Hunyuan,A golden ring with a miniature castle built atop the band,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Hunyuan,A goldfish on a guitar,5,0,4,4,4.666666667,4,5,4,4,4,4,4
+Hunyuan,A gray car shaped like a toast,5,3.666666667,0,3.666666667,5,4.666666667,5,5,5,5,5,4.333333333
+Hunyuan,A gray cotton t-shirt with a printed logo,5,5,0,5,5,5,5,5,5,5,5,4.666666667
+Hunyuan,A gray dog licking an ice cream cone,5,5,5,5,5,5,5,5,5,5,5,5
+Hunyuan,A gray elephant with a long trunk,5,4,0,4.333333333,4.666666667,4.333333333,5,5,5,4.666666667,5,4
+Hunyuan,A gray horse with a long mane and wrinkled skin,5,4.666666667,0,4.666666667,4.666666667,4,5,5,5,4.333333333,5,5
+Hunyuan,A gray knife shaped like a leaf,5,5,0,5,5,5,5,5,5,5,5,5
+Hunyuan,A gray skyscraper with rectangular windows,5,4.666666667,0,4.666666667,4,4,5,5,5,4.333333333,5,4
+Hunyuan,A gray submarine resembling a giant fish,5,5,0,5,4,4,5,4.666666667,4,4,5,4
+Hunyuan,A gray wrench,5,5,0,5,5,5,5,5,5,5,5,5
+Hunyuan,A green bowl with a wide rim and a ceramic texture,4.666666667,3.666666667,0,4,4,3.333333333,5,5,4.666666667,4,5,4
+Hunyuan,A green cactus in a clay pot,5,5,5,5,5,5,5,5,5,5,5,5
+Hunyuan,A green cactus with sharp spines,5,5,0,5,4.666666667,4,5,4.666666667,4.666666667,4,5,5
+Hunyuan,A green flute with a cylindrical shape and finger holes,4,5,0,4,4.333333333,4,5,5,5,5,4.666666667,4
+LGM,A colorful ladybug in a glass bottle,4,4,5,4,3,3,3,4,3,3,3,3
+LGM,A conical castle tower with a pointed roof and arched windows,4,4,0,4,3,3,3,4,3,3,4.333333333,3
+LGM,A conical tower,2,4,0,3,2.666666667,2.666666667,3,4,3,3,5,3
+LGM,A corgi dog lying on a sofa with head resting on a cushion,2,0,1.333333333,1.333333333,3,3,2,3.333333333,3,2,3.333333333,2
+LGM,A crocodile below a table,1.333333333,0,1.333333333,1.333333333,2,2,1.666666667,3,3,1.333333333,2,1.666666667
+LGM,A crystal key hanging on a metal hook,3.333333333,2,3.333333333,3,3.333333333,3.333333333,5,3.666666667,4,3.333333333,4,2
+LGM,A cup full of colorful pens and pencils,3.333333333,3.333333333,0,3.333333333,3,2.333333333,2,3.333333333,3,2,4,3.5
+LGM,A curved brush,1,1,0,1,1,1,1,1,1,1,1,1
+LGM,A cylindrical chair,1.666666667,1,0,1.333333333,3,3,2,3.333333333,3.666666667,2,3.333333333,2
+LGM,A deer standing near the ruins of a stone castle with ears perking up,1,1,1,1,1,1,1,1,1,1,1,1
+LGM,A deer with antlers of various sizes in the shape of branches,3,4,0,4,2.333333333,2,3,3,3,2,4,1.666666667
+LGM,A delicate porcelain teacup painted with flowers rests on a saucer,4,4,4,4,3,3,3,3.666666667,3,3,4,3
+LGM,A delicious sandwich next to a pile of crispy,2,0,1.666666667,1.666666667,3,3,2.333333333,3,3,2.666666667,3,2
+LGM,A dog barking at a cat,2,0,1,1.666666667,2.666666667,2,2.666666667,2.333333333,3,2,3,2.333333333
+LGM,A dog eating a piece of bread on the table with tail raising,2.333333333,1,1.666666667,2,3,3,2.333333333,3,3,2.333333333,4,3
+LGM,A dog sitting next to a white cat,1,1,1,1,1,1,1,1,1,1,1,1
+LGM,A dog wearing extremely cool sneakers,1.666666667,2.333333333,0,2,2.333333333,2,2,3,2.333333333,2,2.333333333,1.666666667
+LGM,A dog with a beard and ears shaped like butterfly wings,2.666666667,3.333333333,0,3,2.333333333,2.333333333,4,3,3,2.333333333,4,2
+LGM,A dragon curled up on a floating sofa with tail wrapped around a cushion,1,0,1,1,2,2,2,2,2.333333333,1.333333333,3,1.666666667
+LGM,A dragon holding a staff wrapped in glowing vines with a crown on his head,2,1.666666667,1.333333333,1.333333333,2,2,3,3,2.333333333,2,3,2
+LGM,A dragon with metallic scales,1,1,0,1,2,2,2,2.333333333,3,1.333333333,4,2
+LGM,A dragonfly in a water tank,1,0,1,1,1,1,1,1,1,1,1,1
+LGM,A drone with balanced propellers,2.333333333,2,0,2,2.333333333,2,1.333333333,2,2.333333333,1.333333333,4,2
+LGM,A duck chasing a toy boat,1,1,1,1,1,1,1,1,1,1,1,1
+LGM,A fat owl wearing a black gown,3.333333333,3,0,3.333333333,3,2.333333333,3,3.666666667,3,2.333333333,4,3
+LGM,A fat penguin,4,5,0,4,3,2.666666667,3,4,3,3,5,3
+LGM,A fat wolf with pink fur,2.333333333,4,0,3,3,3,4,3.666666667,3,3,3.666666667,3
+LGM,A fish with deep black scales speckled with stars,1,1,0,1,1,1,1,1,1,1,1,1
+LGM,A fish-shaped shoe,1,1,0,1,1,1,1,1,1,1,1,1
+LGM,A floral dress hanging on a coat rack,3.333333333,4,3.333333333,3.333333333,3,3.333333333,4,3.333333333,3,3.333333333,4,3.666666667
+LGM,A flower on a table,3,0,2,2,3.666666667,3,3.666666667,3.333333333,3,3.333333333,4,2.333333333
+LGM,A flower that blooms petals shaped like butterflies,2,2.666666667,0,2,3,2.666666667,2,3.666666667,3.333333333,2,3.666666667,2
+LGM,A flower with petals made of soft pink silk,5,4,0,4,4,4,3.333333333,4,4,3.333333333,5,4
+LGM,A flower with round copper petals,4,2.333333333,0,3,3,3.333333333,4,3.666666667,3,3.333333333,3.333333333,3.666666667
+LGM,A flower with star-shaped petals,3,2,0,2,2.333333333,2.666666667,2.333333333,3,3,2,4,2
+LGM,A fluffy cat lying on its back on a couch,1,1,1,1,1,1,1,1,1,1,1,1
+LGM,A footballer kicking a ball,3.333333333,0,4,4,2.666666667,3,3,4,3,2.666666667,4,3.333333333
+LGM,A fox holding a basketball,2,0,1.666666667,2,3,2,3,2.333333333,3,2,3,3
+LGM,A fox lying on a couch and watching television with a coffee cup in his hand,1.666666667,1.333333333,1.333333333,1.666666667,2.333333333,2,2.333333333,3,3,1.666666667,1,2
+LGM,A fox on a maple leaf with tail draped over the edges,2.333333333,0,2,2,3,3,4,3,3,3,4,2.333333333
+LGM,A fox taking a photograph using a DSLR,3,0,2,2,3,3,3.333333333,2.666666667,3,2.666666667,3,2
+LGM,A fox wearing a tailored suit and a tie,4,4,0,3.666666667,2.333333333,3,3,3.666666667,3.333333333,3,4,3
+LGM,"A fox with a bushy, crescent-shaped tail and pointed ears",4,4,0,4,3.333333333,3,2.333333333,2,3,2,2.333333333,2
+LGM,"A fox with nine tails, each of which is made of metal",2,2,0,1.666666667,3,2,3,2.333333333,3,2,3.333333333,1.666666667
+LGM,A frog inside a refrigerator full of fruits and vegetables,2,3,1.333333333,3,3,3,3,3,3,3,3,2.333333333
+LGM,A frog on a lily pad,2,0,3,2,2.333333333,2,2,3,3,2,4,2.666666667
+LGM,A frog with a mechanical heart,2.333333333,1,0,2,2.333333333,2.333333333,2,3,3,2,3.333333333,2
+LGM,A fruit basket filled with apples and oranges on a table,3,3,2,2,3,3,4,3,3.333333333,3,4.333333333,3
+LGM,A fruit basket holding apples,3.666666667,0,4,4,3,3,3,3.666666667,3,3,4,3
+LGM,A fruit basket on a table,3,0,2,2,3,3,3.333333333,3.666666667,3,3,4.333333333,2.666666667
+LGM,A gaming console with a gray plastic shell and red buttons,3.666666667,4,0,4,3,3,4,4,3.333333333,3.333333333,4.666666667,3
+LGM,A giant ant standing on a blue crystal ball,3,4,4,3.333333333,3,3,2.333333333,2,3,2,2,2
+LGM,A goat drinking beer,2,0,2,2,2,2,2,1.666666667,2,1.333333333,1.666666667,1.333333333
+LGM,A gold necklace lying on a wooden table next to a pair of earrings,1,1,1,1,1,1,1,1,1,1,1,1
+LGM,A gold necklace with a circular pendant,1,1,0,1,1,1,1,1,1,1,1,1
+LGM,A golden croissant with a flaky layer of butter and a smooth finish,3,2,0,2,3,3,2,3.666666667,3,2,4,2
+LGM,A golden motorcycle,2.333333333,3,0,3,2,2,3,2,3,1.666666667,3,2
+LGM,A golden ring with a miniature castle built atop the band,2,3,0,2.666666667,2.666666667,2,3,2,3,1.666666667,2,2.333333333
+LGM,A goldfish on a guitar,2.666666667,0,2,2,3,3,3,4,3.666666667,3,3.666666667,2
+LGM,A gray car shaped like a toast,1.666666667,1.666666667,0,1.666666667,2,1.666666667,1.333333333,2.333333333,2.333333333,1,1,1
+LGM,A gray cotton t-shirt with a printed logo,5,5,0,5,3,4,3.666666667,4,3,3.666666667,4.333333333,4
+LGM,A gray dog licking an ice cream cone,2.333333333,4,2,2,3,2.666666667,3.333333333,3,3,2.333333333,3,2.5
+LGM,A gray elephant with a long trunk,4,5,0,4,3,2.333333333,3,3,3,3,5,3
+LGM,A gray horse with a long mane and wrinkled skin,3.666666667,3.333333333,0,4,3,3,3,2,3,2,3,2.333333333
+LGM,A gray knife shaped like a leaf,2,3.333333333,0,2.333333333,2.666666667,2,2.666666667,3,3,1.666666667,4,2.666666667
+LGM,A gray skyscraper with rectangular windows,4,3.666666667,0,3.666666667,3,2.666666667,4,5,3.333333333,2.666666667,4.666666667,2.666666667
+LGM,A gray submarine resembling a giant fish,1,1,0,1,3,3,3,2,3,2,1,1
+LGM,A gray wrench,4,4.333333333,0,4,3,4,4,3.666666667,4.666666667,4,3,3
+LGM,A green bowl with a wide rim and a ceramic texture,4,4,0,4,3,2.666666667,3.666666667,3.333333333,3,2.666666667,5,3
+LGM,A green cactus in a clay pot,3.666666667,4,4,3.666666667,3,3,4,3.333333333,3,3,3.333333333,3
+LGM,A green cactus with sharp spines,2,2.666666667,0,2.666666667,3,2.333333333,3,4,3,2.333333333,4,2
+LGM,A green flute with a cylindrical shape and finger holes,1.666666667,2,0,1.666666667,1,1,1,1,1,1,1,1
+Magic3D,A colorful ladybug in a glass bottle,3,2.333333333,2,2,3.333333333,3,4,4,3,3,3.666666667,3
+Magic3D,A conical castle tower with a pointed roof and arched windows,4,5,0,4,3,2.666666667,4,4.666666667,3,3,5,3
+Magic3D,A conical tower,3.666666667,4,0,3.666666667,3,2,4.666666667,5,4,3,4,2.666666667
+Magic3D,A corgi dog lying on a sofa with head resting on a cushion,2,0,2,2,3,2.666666667,4,3.666666667,3.333333333,3,4,2.333333333
+Magic3D,A crocodile below a table,2,0,1.333333333,2,2,1,3,1.666666667,3,1.333333333,2.333333333,1.666666667
+Magic3D,A crystal key hanging on a metal hook,2,2,1.666666667,1.666666667,2,2,4.333333333,4.666666667,2,2,5,2.666666667
+Magic3D,A cup full of colorful pens and pencils,3,4,0,3,2,2,4,4,2,2,4,2.333333333
+Magic3D,A curved brush,3,2.333333333,0,2.666666667,2.666666667,2,3.333333333,4,3,2,4.333333333,3
+Magic3D,A cylindrical chair,2,2,0,2,2.333333333,2,3,3,4,2,4,2
+Magic3D,A deer standing near the ruins of a stone castle with ears perking up,2.333333333,2,2,2,2,1.666666667,2.666666667,2.666666667,3,2,2,1.666666667
+Magic3D,A deer with antlers of various sizes in the shape of branches,3,3,0,3,2,2,3.333333333,4.666666667,2,2,4.666666667,2
+Magic3D,A delicate porcelain teacup painted with flowers rests on a saucer,3,1,2.333333333,2,1,1,3.666666667,3.666666667,2,1.666666667,3.333333333,2
+Magic3D,A delicious sandwich next to a pile of crispy,4,0,4,4,3,2.333333333,4,3.666666667,3,2.666666667,4,3
+Magic3D,A dog barking at a cat,2.333333333,0,2,2,3,2.666666667,3,4,3.333333333,2.666666667,3,2
+Magic3D,A dog eating a piece of bread on the table with tail raising,3,1,2,2,3,2.666666667,3,4,3,3,3.666666667,2.333333333
+Magic3D,A dog sitting next to a white cat,4,4,5,4,2.666666667,2,4,4.666666667,3,3,5,3.5
+Magic3D,A dog wearing extremely cool sneakers,3.666666667,4,0,4,2.666666667,2,3,4,3,2.333333333,4,3
+Magic3D,A dog with a beard and ears shaped like butterfly wings,3,2.666666667,0,2.666666667,3,2,3,4,4,2.666666667,2,2
+Magic3D,A dragon curled up on a floating sofa with tail wrapped around a cushion,3,0,3,3,3,3,4,4,3,3,3,2.333333333
+Magic3D,A dragon holding a staff wrapped in glowing vines with a crown on his head,2,2.333333333,1.666666667,2,2.666666667,1,3,4,2,1.333333333,4,2
+Magic3D,A dragon with metallic scales,1.666666667,1.666666667,0,1.666666667,2,1.333333333,2.333333333,2.666666667,2.666666667,2,3.666666667,2
+Magic3D,A dragonfly in a water tank,2,0,1,1.333333333,2,1.666666667,2.333333333,2.333333333,3,1.333333333,2,1.666666667
+Magic3D,A drone with balanced propellers,4,3.333333333,0,3.333333333,3,2,3.666666667,4,2,2,4,2
+Magic3D,A duck chasing a toy boat,3.666666667,4,3.333333333,3.333333333,2,1.333333333,4,4,2,1.666666667,4.333333333,3
+Magic3D,A fat owl wearing a black gown,2.333333333,2,0,2,3,2,3,4,3.333333333,2.333333333,2,2
+Magic3D,A fat penguin,4,4,0,4,3.333333333,2.333333333,3.666666667,4.333333333,3.666666667,2.333333333,4.666666667,3
+Magic3D,A fat wolf with pink fur,4.666666667,5,0,4.666666667,4,3,5,4,3,3.666666667,3,3.333333333
+Magic3D,A fish with deep black scales speckled with stars,4,3,0,3.333333333,2.666666667,2,4,4.666666667,3.666666667,3,4.333333333,2
+Magic3D,A fish-shaped shoe,4,2,0,3,3,2,5,3,3,2.666666667,4,3
+Magic3D,A floral dress hanging on a coat rack,2,3,2,2,2.333333333,2,4,4,3.666666667,2,2.333333333,2
+Magic3D,A flower on a table,1,0,1,1,1,1,1,1,1,1,1,1
+Magic3D,A flower that blooms petals shaped like butterflies,3,2,0,2,3,1.333333333,4,3.666666667,3.333333333,2,4,2
+Magic3D,A flower with petals made of soft pink silk,1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A flower with round copper petals,2,3,0,2,2,2,3.333333333,2,2.333333333,1.333333333,2,2
+Magic3D,A flower with star-shaped petals,4,3.333333333,0,3.333333333,4,3,4,3,4.666666667,3,3.333333333,2
+Magic3D,A fluffy cat lying on its back on a couch,2.333333333,3,2,2,2.333333333,2,3,4,3,2.333333333,4,2.333333333
+Magic3D,A footballer kicking a ball,4,0,4,4,2,2,3,3.333333333,2.333333333,2,3,2.333333333
+Magic3D,A fox holding a basketball,3.333333333,0,3,3,3,2.666666667,4,3.666666667,2.666666667,3,3,3.333333333
+Magic3D,A fox lying on a couch and watching television with a coffee cup in his hand,2.333333333,2,1,2,3,2.333333333,3,3,3,3,3,2.5
+Magic3D,A fox on a maple leaf with tail draped over the edges,3.333333333,0,2,3,3,2,4,3.666666667,3,2.666666667,2.666666667,3
+Magic3D,A fox taking a photograph using a DSLR,3.666666667,0,3.666666667,3.666666667,2,2,4,4,3,2,4,3
+Magic3D,A fox wearing a tailored suit and a tie,4,4,0,4.333333333,3,2.666666667,3,3,2.666666667,3,3,3
+Magic3D,"A fox with a bushy, crescent-shaped tail and pointed ears",4,3,0,3,3,2,4.666666667,4.666666667,2,2,3.666666667,2.666666667
+Magic3D,"A fox with nine tails, each of which is made of metal",3.333333333,2,0,2,2,1.666666667,4,2.666666667,2,2,3,2.333333333
+Magic3D,A frog inside a refrigerator full of fruits and vegetables,2,2.333333333,1.666666667,1.666666667,2.666666667,2,4,2.333333333,3,2,2,2
+Magic3D,A frog on a lily pad,3.333333333,0,4,4,2.666666667,2,4,4,3.333333333,3,4,3
+Magic3D,A frog with a mechanical heart,4,2,0,2.333333333,2.666666667,2,2.666666667,4,2.333333333,2.666666667,4,2
+Magic3D,A fruit basket filled with apples and oranges on a table,2.666666667,4.666666667,2,3,3,3,3.333333333,4,3.666666667,3,4.666666667,3
+Magic3D,A fruit basket holding apples,4,0,4.666666667,4,2.666666667,2.333333333,4.666666667,4.666666667,3,3,4.5,3.666666667
+Magic3D,A fruit basket on a table,2.666666667,0,2,2,2.666666667,2,4,4,3.333333333,2.333333333,3.333333333,2.333333333
+Magic3D,A gaming console with a gray plastic shell and red buttons,4,3.333333333,0,4,3.666666667,3,4,5,4,3.333333333,4,3.333333333
+Magic3D,A giant ant standing on a blue crystal ball,3.333333333,3.333333333,3.333333333,3.333333333,3,2,3,4,4.333333333,3,1,1
+Magic3D,A goat drinking beer,2.333333333,0,2,2,2,1.666666667,2,3,3.333333333,1.666666667,2,1.333333333
+Magic3D,A gold necklace lying on a wooden table next to a pair of earrings,2,1,1.666666667,2,2,1,2.666666667,4,2,1.333333333,3,1.333333333
+Magic3D,A gold necklace with a circular pendant,1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A golden croissant with a flaky layer of butter and a smooth finish,4,3,0,3.333333333,3,3,5,4.333333333,3.666666667,3,4,3
+Magic3D,A golden motorcycle,4.666666667,4,0,4,3,3,4,4,3,3.666666667,4.666666667,3
+Magic3D,A golden ring with a miniature castle built atop the band,2,2.666666667,0,2.666666667,2,2,3,3,3,2,3,2
+Magic3D,A goldfish on a guitar,3,0,2,2,2.666666667,2.666666667,3.666666667,4,3,3,4,3
+Magic3D,A gray car shaped like a toast,1,2,0,2,3,3,4.333333333,4.333333333,3.666666667,3,4,2
+Magic3D,A gray cotton t-shirt with a printed logo,2,2.666666667,0,2.666666667,3,2,3.666666667,3.333333333,3,2,5,2
+Magic3D,A gray dog licking an ice cream cone,4.333333333,4,4,4,3,2,3,4,3,2,3.5,3.5
+Magic3D,A gray elephant with a long trunk,3.333333333,4,0,3.666666667,3,2,3,3,4,3,3,2.666666667
+Magic3D,A gray horse with a long mane and wrinkled skin,2,1.666666667,0,1.666666667,2.666666667,2,1.666666667,3.666666667,3,2,4,2
+Magic3D,A gray knife shaped like a leaf,3.333333333,3,0,3,3,3,4.666666667,4.666666667,4,3.666666667,4.666666667,3.333333333
+Magic3D,A gray skyscraper with rectangular windows,1,1,0,1,1,1,1,1,1,1,1,1
+Magic3D,A gray submarine resembling a giant fish,3.666666667,2.666666667,0,3,3,2.666666667,4,4,4,3,3.333333333,3
+Magic3D,A gray wrench,2.333333333,1.333333333,0,2,2,2,4,3,2.666666667,2,3.666666667,2
+Magic3D,A green bowl with a wide rim and a ceramic texture,1,1.666666667,0,1.333333333,1,1,1,1,1,1,1,1
+Magic3D,A green cactus in a clay pot,4,4,4.666666667,4,3,3,4,5,3,3,5,3.666666667
+Magic3D,A green cactus with sharp spines,4,2.666666667,0,3,3,2.333333333,4,3.666666667,3,2.666666667,5,3.333333333
+Magic3D,A green flute with a cylindrical shape and finger holes,4,4,0,4,3,2,4.333333333,3.666666667,3,2.333333333,4,2
+Meshy,A colorful ladybug in a glass bottle,4,3,3.333333333,3,4,4,5,5,5,4,4,4.333333333
+Meshy,A conical castle tower with a pointed roof and arched windows,5,5,0,5,5,5,5,4.666666667,5,5,5,5
+Meshy,A conical tower,5,5,0,5,5,5,5,5,5,5,5,5
+Meshy,A corgi dog lying on a sofa with head resting on a cushion,4,0,3.666666667,4,5,4,5,5,5,4.333333333,5,4
+Meshy,A crocodile below a table,4,0,4,4,4.666666667,4,4,4.666666667,5,4,3.333333333,4
+Meshy,A crystal key hanging on a metal hook,5,5,5,5,5,4.333333333,5,4.666666667,5,4.666666667,5,5
+Meshy,A cup full of colorful pens and pencils,5,4,0,4,5,4,5,4.666666667,4.666666667,4.333333333,5,4
+Meshy,A curved brush,2,2,0,2,4.666666667,3,4.333333333,4,5,4,4.666666667,3.333333333
+Meshy,A cylindrical chair,5,4.666666667,0,5,5,4.333333333,5,5,4.666666667,5,5,4.666666667
+Meshy,A deer standing near the ruins of a stone castle with ears perking up,3,3,2,2,4.333333333,4.333333333,5,5,4.666666667,4.666666667,5,3
+Meshy,A deer with antlers of various sizes in the shape of branches,5,3.666666667,0,4,4.666666667,4,5,5,5,4.666666667,5,4.333333333
+Meshy,A delicate porcelain teacup painted with flowers rests on a saucer,5,5,5,5,5,4.333333333,5,5,5,5,5,5
+Meshy,A delicious sandwich next to a pile of crispy,3,0,3,3,4.666666667,4,5,4.666666667,4.666666667,4.333333333,5,4
+Meshy,A dog barking at a cat,4.333333333,0,4,4,5,4,5,4.333333333,5,4,4,4
+Meshy,A dog eating a piece of bread on the table with tail raising,3.666666667,5,3,3.666666667,5,4,5,5,5,4,5,3.666666667
+Meshy,A dog sitting next to a white cat,5,5,5,5,5,4,5,4,4.666666667,4,5,4.333333333
+Meshy,A dog wearing extremely cool sneakers,5,5,0,5,5,4,5,5,5,4.333333333,5,4.333333333
+Meshy,A dog with a beard and ears shaped like butterfly wings,5,4.666666667,0,4.666666667,4.333333333,4,5,5,4.333333333,4.333333333,5,4
+Meshy,A dragon curled up on a floating sofa with tail wrapped around a cushion,5,0,4.333333333,4.333333333,4.333333333,4,5,4.333333333,5,4,5,5
+Meshy,A dragon holding a staff wrapped in glowing vines with a crown on his head,5,3,5,4,5,5,5,5,5,5,5,4.666666667
+Meshy,A dragon with metallic scales,5,5,0,5,4.666666667,4.666666667,5,5,5,4.666666667,5,4.333333333
+Meshy,A dragonfly in a water tank,3.333333333,0,2.333333333,2,4.666666667,4,5,5,5,4.333333333,5,4
+Meshy,A drone with balanced propellers,5,5,0,5,5,4,5,4,5,5,5,4
+Meshy,A duck chasing a toy boat,5,5,4.333333333,4.333333333,4,3,4.666666667,4.666666667,4.333333333,4,5,4
+Meshy,A fat owl wearing a black gown,5,5,0,5,5,4.666666667,5,5,4.666666667,4.666666667,5,4.333333333
+Meshy,A fat penguin,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Meshy,A fat wolf with pink fur,5,5,0,5,5,4.666666667,5,5,5,5,5,4.666666667
+Meshy,A fish with deep black scales speckled with stars,5,5,0,5,4.666666667,4,5,5,5,5,5,5
+Meshy,A fish-shaped shoe,5,5,0,5,5,4,5,5,5,5,5,4.666666667
+Meshy,A floral dress hanging on a coat rack,5,5,5,5,4.666666667,4.333333333,5,4.666666667,5,4.333333333,5,5
+Meshy,A flower on a table,5,0,5,5,5,4,5,4.333333333,5,4,5,4.333333333
+Meshy,A flower that blooms petals shaped like butterflies,5,4.333333333,0,4.333333333,4.666666667,5,4.333333333,5,4.666666667,5,4.333333333,4
+Meshy,A flower with petals made of soft pink silk,5,5,0,5,5,4,4,5,5,4.666666667,5,4.666666667
+Meshy,A flower with round copper petals,5,5,0,5,5,4,5,5,5,4.666666667,5,4.666666667
+Meshy,A flower with star-shaped petals,5,2,0,3,4.666666667,4,5,5,4.666666667,4.666666667,4.333333333,4
+Meshy,A fluffy cat lying on its back on a couch,3,4,3,3.333333333,4,3,4,3.333333333,5,3.666666667,4,2.333333333
+Meshy,A footballer kicking a ball,5,0,5,5,4.333333333,4.333333333,5,5,4,4.333333333,5,4.5
+Meshy,A fox holding a basketball,5,0,5,5,4.666666667,4,5,5,5,4,5,5
+Meshy,A fox lying on a couch and watching television with a coffee cup in his hand,4,5,4,4,4,4,5,5,5,4,5,4.333333333
+Meshy,A fox on a maple leaf with tail draped over the edges,5,0,5,5,5,4,5,4,5,4.333333333,3.666666667,4
+Meshy,A fox taking a photograph using a DSLR,5,0,5,5,4,4,5,5,5,4,5,4
+Meshy,A fox wearing a tailored suit and a tie,5,5,0,5,5,4.666666667,5,4,4.333333333,4.333333333,5,4.333333333
+Meshy,"A fox with a bushy, crescent-shaped tail and pointed ears",5,5,0,5,5,4.666666667,5,5,5,5,5,4.666666667
+Meshy,"A fox with nine tails, each of which is made of metal",5,4,0,4,5,5,5,5,5,5,5,4.333333333
+Meshy,A frog inside a refrigerator full of fruits and vegetables,3.666666667,4.333333333,4.666666667,4,4,3.666666667,5,5,5,4,3,4
+Meshy,A frog on a lily pad,5,0,5,5,4.666666667,4.333333333,4.666666667,5,5,4.333333333,5,4
+Meshy,A frog with a mechanical heart,5,5,0,5,5,4,5,5,5,5,5,4.333333333
+Meshy,A fruit basket filled with apples and oranges on a table,3,5,2,3,5,4,5,5,4.666666667,4,5,3.666666667
+Meshy,A fruit basket holding apples,5,0,5,5,5,4,5,5,4,4.333333333,5,4.666666667
+Meshy,A fruit basket on a table,3,0,2,2.333333333,5,4,5,5,4.666666667,4.666666667,5,4
+Meshy,A gaming console with a gray plastic shell and red buttons,4.333333333,4.666666667,0,4.333333333,4.666666667,4,5,5,5,4.333333333,5,4.666666667
+Meshy,A giant ant standing on a blue crystal ball,5,5,5,5,4.666666667,4.666666667,5,5,5,4.666666667,5,5
+Meshy,A goat drinking beer,5,0,5,5,5,4.333333333,5,5,5,5,5,4.333333333
+Meshy,A gold necklace lying on a wooden table next to a pair of earrings,4,3,3,3.666666667,4.666666667,4,5,4.666666667,4.666666667,4.666666667,5,4
+Meshy,A gold necklace with a circular pendant,5,5,0,5,5,4,5,5,5,5,5,4.666666667
+Meshy,A golden croissant with a flaky layer of butter and a smooth finish,5,3.333333333,0,4,5,4.666666667,5,5,4.666666667,5,5,4
+Meshy,A golden motorcycle,5,5,0,5,4,4,4,4,5,4.333333333,5,4.666666667
+Meshy,A golden ring with a miniature castle built atop the band,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Meshy,A goldfish on a guitar,5,0,5,5,4.333333333,4,5,4.666666667,5,4.666666667,4,3.333333333
+Meshy,A gray car shaped like a toast,5,5,0,5,5,5,5,5,5,5,5,5
+Meshy,A gray cotton t-shirt with a printed logo,5,5,0,5,5,4,5,5,5,5,5,4
+Meshy,A gray dog licking an ice cream cone,5,5,5,5,5,4,5,5,5,4.333333333,5,4
+Meshy,A gray elephant with a long trunk,5,5,0,5,5,5,5,5,5,5,5,5
+Meshy,A gray horse with a long mane and wrinkled skin,5,5,0,5,4.666666667,4,5,5,5,5,5,4
+Meshy,A gray knife shaped like a leaf,5,5,0,5,4.333333333,4,5,4,4.333333333,4,5,5
+Meshy,A gray skyscraper with rectangular windows,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Meshy,A gray submarine resembling a giant fish,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Meshy,A gray wrench,5,4.666666667,0,5,5,5,5,4.666666667,5,5,5,4.333333333
+Meshy,A green bowl with a wide rim and a ceramic texture,5,5,0,5,5,4,5,5,5,5,5,4.666666667
+Meshy,A green cactus in a clay pot,5,5,5,5,4.666666667,4,5,4.333333333,4.666666667,4.333333333,5,4.333333333
+Meshy,A green cactus with sharp spines,5,5,0,5,5,5,5,5,5,5,5,5
+Meshy,A green flute with a cylindrical shape and finger holes,5,4.333333333,0,4.333333333,5,5,5,5,5,5,5,5
+One2345++,A colorful ladybug in a glass bottle,4.666666667,3,5,4,4,4,3,4.333333333,3,3,4,3
+One2345++,A conical castle tower with a pointed roof and arched windows,5,4,0,4,3.333333333,4,4.666666667,4,4,4,4,4
+One2345++,A conical tower,4,5,0,4,3,3,3.333333333,4.333333333,4,3.333333333,4.333333333,3.333333333
+One2345++,A corgi dog lying on a sofa with head resting on a cushion,4.333333333,0,5,4.333333333,3.333333333,4,4.333333333,4,4,4,5,3.333333333
+One2345++,A crocodile below a table,3.333333333,0,2.666666667,2.666666667,3,2.666666667,4,4,4,2.666666667,4,2.666666667
+One2345++,A crystal key hanging on a metal hook,4.333333333,3,4.333333333,4,4.333333333,4.333333333,5,4.666666667,4.666666667,4.333333333,5,4
+One2345++,A cup full of colorful pens and pencils,4,3.333333333,0,3.333333333,3,3,4,3,3.333333333,3,4,3
+One2345++,A curved brush,3,5,0,4,3,2.666666667,3.333333333,4,3,3,4.333333333,2
+One2345++,A cylindrical chair,4.333333333,5,0,4.333333333,4,4,5,4,5,4,4.666666667,4
+One2345++,A deer standing near the ruins of a stone castle with ears perking up,4,3.333333333,4.666666667,4,2.666666667,3,3,3.666666667,3,3,4.333333333,3.666666667
+One2345++,A deer with antlers of various sizes in the shape of branches,4,4.333333333,0,4,2,2.666666667,3,3,3,2.666666667,4,3
+One2345++,A delicate porcelain teacup painted with flowers rests on a saucer,2,4,2,2.666666667,3,3,4,3,3,3,4,3.333333333
+One2345++,A delicious sandwich next to a pile of crispy,2.333333333,0,2,2.666666667,3,3,4,4,3.333333333,3.333333333,4,2.666666667
+One2345++,A dog barking at a cat,2,0,2,2,3,3,4,3.666666667,3.333333333,3.333333333,4,2
+One2345++,A dog eating a piece of bread on the table with tail raising,3,2,3,3,3,3.333333333,4,4,4,3,4,3.333333333
+One2345++,A dog sitting next to a white cat,3,4,2,2,3,3,3.333333333,4,4,3.333333333,4,2.666666667
+One2345++,A dog wearing extremely cool sneakers,3.666666667,2.333333333,0,3,3,3,4,4,3.666666667,3.666666667,5,3.666666667
+One2345++,A dog with a beard and ears shaped like butterfly wings,3.333333333,2,0,2,2.333333333,3,3.333333333,4,3.666666667,3,4.666666667,3
+One2345++,A dragon curled up on a floating sofa with tail wrapped around a cushion,4,0,2.666666667,2.666666667,3,3,3.333333333,4,3.333333333,3.333333333,5,4
+One2345++,A dragon holding a staff wrapped in glowing vines with a crown on his head,2.666666667,1,4,2.333333333,2.333333333,2,3,3,3,2,4,2
+One2345++,A dragon with metallic scales,4.333333333,3.333333333,0,3.333333333,3,3,3,3,3.333333333,3,5,3.666666667
+One2345++,A dragonfly in a water tank,1.333333333,0,1,1.333333333,3,2.666666667,4,3.666666667,3,2.333333333,4,3
+One2345++,A drone with balanced propellers,3.333333333,3.666666667,0,3,3,3,3,3.333333333,3.333333333,3,4,3
+One2345++,A duck chasing a toy boat,2.333333333,3.666666667,2,2,2,2,2.333333333,1.333333333,2.333333333,1.333333333,2,1.666666667
+One2345++,A fat owl wearing a black gown,4,4,0,4,5,4,4.666666667,4,4.333333333,4.333333333,4.333333333,4
+One2345++,A fat penguin,4,4.666666667,0,4.666666667,4.333333333,4,5,4.666666667,5,4,5,4.333333333
+One2345++,A fat wolf with pink fur,5,5,0,5,4,4,5,4.333333333,4.333333333,4,5,4
+One2345++,A fish with deep black scales speckled with stars,3,3.666666667,0,3,3,3,3.333333333,4,4,3,5,3.333333333
+One2345++,A fish-shaped shoe,4,4,0,4,3,4,5,5,5,4,5,4
+One2345++,A floral dress hanging on a coat rack,4.666666667,5,4,4.666666667,3,3.666666667,3.333333333,4,3,3.333333333,4,3.666666667
+One2345++,A flower on a table,5,0,5,5,4,4,4.666666667,4,4.333333333,4,5,4.666666667
+One2345++,A flower that blooms petals shaped like butterflies,4,3.666666667,0,3.333333333,3,3.333333333,4,3,3,3,3,3
+One2345++,A flower with petals made of soft pink silk,4,4,0,4.333333333,4,3.333333333,4,4,3.666666667,4,4.666666667,3
+One2345++,A flower with round copper petals,5,4,0,4,4,4,4,4,4,4,5,4
+One2345++,A flower with star-shaped petals,4.666666667,2,0,3,4,4.666666667,3.333333333,4,4.666666667,4.666666667,4.666666667,3.333333333
+One2345++,A fluffy cat lying on its back on a couch,4,4.333333333,4,4,2.333333333,3,4,4,3.333333333,3,4.333333333,3.333333333
+One2345++,A footballer kicking a ball,4,0,4,4,4,3.666666667,4,4,4,4,4.333333333,3.333333333
+One2345++,A fox holding a basketball,4,0,4,4,3.333333333,3.333333333,4,4,4,4,5,4
+One2345++,A fox lying on a couch and watching television with a coffee cup in his hand,4,3,3,3,2.333333333,3,4,4,3.333333333,3,4,2.666666667
+One2345++,A fox on a maple leaf with tail draped over the edges,4.666666667,0,5,4.666666667,4,4,4.666666667,3.666666667,3.666666667,4,5,4.333333333
+One2345++,A fox taking a photograph using a DSLR,3,0,2,2,3.666666667,4,4,4,3.333333333,4,4,2
+One2345++,A fox wearing a tailored suit and a tie,4,5,0,4,2.333333333,3.333333333,4,4,3.333333333,3.333333333,5,3.666666667
+One2345++,"A fox with a bushy, crescent-shaped tail and pointed ears",4,3.333333333,0,4,3,3,4,4,4,3.666666667,5,3
+One2345++,"A fox with nine tails, each of which is made of metal",3.666666667,3,0,3.333333333,3,3,4,4,4,3.666666667,3,2.333333333
+One2345++,A frog inside a refrigerator full of fruits and vegetables,4,4,4,4,3,3.333333333,4,3.666666667,3.333333333,3.666666667,3,3.333333333
+One2345++,A frog on a lily pad,4.666666667,0,4.666666667,4.666666667,4,4.333333333,4,4.333333333,4,4,5,4
+One2345++,A frog with a mechanical heart,4,2.333333333,0,3,3,3.666666667,3,3.666666667,4,3,4,3
+One2345++,A fruit basket filled with apples and oranges on a table,3,4,2,3,4,4,5,4,4,4,5,3.666666667
+One2345++,A fruit basket holding apples,5,0,5,5,3.333333333,4,5,4,4,4,5,4.666666667
+One2345++,A fruit basket on a table,4,0,4,4,3.333333333,3.666666667,5,4,3.666666667,4,5,3.666666667
+One2345++,A gaming console with a gray plastic shell and red buttons,3,4,0,3,3,3,3.333333333,4.666666667,4,3,4.333333333,3
+One2345++,A giant ant standing on a blue crystal ball,3.333333333,4,3.333333333,3.333333333,3,3,3.333333333,4,4,3,4,3
+One2345++,A goat drinking beer,4.333333333,0,4,4,3.333333333,4,4,4,4,4,5,3.333333333
+One2345++,A gold necklace lying on a wooden table next to a pair of earrings,2,1,1.333333333,2,3.666666667,3.666666667,4,4,3.666666667,3.666666667,3.666666667,2.333333333
+One2345++,A gold necklace with a circular pendant,3.333333333,2.333333333,0,2.333333333,3,3,4,4,3.666666667,3.666666667,5,3
+One2345++,A golden croissant with a flaky layer of butter and a smooth finish,5,4,0,4,4,4,5,5,4.666666667,5,3.333333333,3.666666667
+One2345++,A golden motorcycle,4,4,0,4,3,3,4,3,3.666666667,3.333333333,4.333333333,3
+One2345++,A golden ring with a miniature castle built atop the band,3,3,0,3,3.666666667,3.666666667,3,4,4,3.333333333,4,2.333333333
+One2345++,A goldfish on a guitar,3,0,1.333333333,2,3.333333333,3,4,4,3,3,5,3
+One2345++,A gray car shaped like a toast,5,3.666666667,0,4,4,4,5,4.333333333,4.333333333,4.333333333,5,4
+One2345++,A gray cotton t-shirt with a printed logo,4.5,4.333333333,0,4.333333333,3,4,4.333333333,4,4,4,5,4
+One2345++,A gray dog licking an ice cream cone,4,4,4,4,4,4,4,4,4,4,4.333333333,4
+One2345++,A gray elephant with a long trunk,4.666666667,3.333333333,0,4,3.666666667,4,4,4,4,4,5,3.333333333
+One2345++,A gray horse with a long mane and wrinkled skin,5,4,0,4.333333333,2.666666667,4,4,3.666666667,4,3.666666667,4,3
+One2345++,A gray knife shaped like a leaf,2.333333333,4,0,3.333333333,4,3.333333333,4,4,4,4,4,3
+One2345++,A gray skyscraper with rectangular windows,4,5,0,4,4,4,5,4.333333333,4,4,4,4
+One2345++,A gray submarine resembling a giant fish,4.333333333,4,0,4,4,4,4,4,4,4,5,4
+One2345++,A gray wrench,4,3,0,3,3,3,4.666666667,4,5,3.666666667,5,3.666666667
+One2345++,A green bowl with a wide rim and a ceramic texture,3,3.666666667,0,3,3.333333333,3.666666667,4,2.333333333,3,3,3.333333333,2.333333333
+One2345++,A green cactus in a clay pot,4,4.666666667,4.666666667,4,4,3.666666667,4,4,4,4,5,4
+One2345++,A green cactus with sharp spines,2,4,0,2.666666667,2.666666667,2,3,2.666666667,3,2,4,2
+One2345++,A green flute with a cylindrical shape and finger holes,5,5,0,5,3,3.666666667,5,3.666666667,4,3.666666667,5,4
+Rodin,A colorful ladybug in a glass bottle,5,3,3.666666667,3.333333333,4.666666667,4,5,5,4.333333333,4,5,4.333333333
+Rodin,A conical castle tower with a pointed roof and arched windows,5,5,0,5,5,4.666666667,5,5,5,5,5,4.666666667
+Rodin,A conical tower,4.666666667,5,0,4.666666667,4.666666667,4.666666667,5,5,5,5,4.666666667,4.666666667
+Rodin,A corgi dog lying on a sofa with head resting on a cushion,2.333333333,0,1.666666667,1.666666667,5,5,5,5,5,5,5,3
+Rodin,A crocodile below a table,3,0,2,2.333333333,5,4.666666667,5,5,5,5,5,4
+Rodin,A crystal key hanging on a metal hook,5,4,5,4,5,4.666666667,5,5,4.666666667,4.666666667,5,4.666666667
+Rodin,A cup full of colorful pens and pencils,5,4,0,4,5,4.666666667,5,4.666666667,5,5,5,4
+Rodin,A curved brush,5,5,0,5,5,5,5,4.333333333,5,5,5,5
+Rodin,A cylindrical chair,5,4.333333333,0,4.333333333,5,4,5,5,5,5,5,4
+Rodin,A deer standing near the ruins of a stone castle with ears perking up,5,5,5,5,5,4.666666667,5,5,4.333333333,5,5,5
+Rodin,A deer with antlers of various sizes in the shape of branches,5,3,0,4,5,5,4,5,5,5,5,4
+Rodin,A delicate porcelain teacup painted with flowers rests on a saucer,5,5,5,5,5,5,5,5,5,5,5,5
+Rodin,A delicious sandwich next to a pile of crispy,3,0,3,3,5,5,5,5,5,5,5,4
+Rodin,A dog barking at a cat,4.666666667,0,3.666666667,4,5,5,5,4,5,4,5,4
+Rodin,A dog eating a piece of bread on the table with tail raising,4,4.666666667,4.666666667,4,5,5,5,5,5,5,5,4.333333333
+Rodin,A dog sitting next to a white cat,5,5,5,5,5,5,5,4.333333333,5,4.666666667,5,4.333333333
+Rodin,A dog wearing extremely cool sneakers,5,5,0,5,5,5,5,5,4.666666667,5,5,5
+Rodin,A dog with a beard and ears shaped like butterfly wings,5,4,0,4.333333333,5,5,5,5,5,5,5,5
+Rodin,A dragon curled up on a floating sofa with tail wrapped around a cushion,5,0,4,4,5,5,5,4.666666667,5,5,3.666666667,4.333333333
+Rodin,A dragon holding a staff wrapped in glowing vines with a crown on his head,5,2,5,3,5,4.666666667,5,4,4.666666667,4.666666667,5,4
+Rodin,A dragon with metallic scales,5,4,0,4.333333333,5,4.666666667,5,5,5,5,5,5
+Rodin,A dragonfly in a water tank,4,0,5,4,4.666666667,4,4,4.666666667,4,4,5,3.666666667
+Rodin,A drone with balanced propellers,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A duck chasing a toy boat,5,5,4,4,5,5,5,5,4.666666667,5,5,4.333333333
+Rodin,A fat owl wearing a black gown,5,3.333333333,0,4,5,5,5,5,5,5,5,4
+Rodin,A fat penguin,5,5,0,5,5,5,5,5,4.666666667,5,5,5
+Rodin,A fat wolf with pink fur,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A fish with deep black scales speckled with stars,5,4,0,4,5,5,5,5,5,5,5,4.666666667
+Rodin,A fish-shaped shoe,4.666666667,5,0,5,5,5,5,5,5,5,5,4.666666667
+Rodin,A floral dress hanging on a coat rack,5,5,5,5,5,5,5,5,5,5,5,5
+Rodin,A flower on a table,3,0,2.333333333,2.333333333,5,5,5,5,4.666666667,5,5,3.666666667
+Rodin,A flower that blooms petals shaped like butterflies,5,2.666666667,0,3.333333333,5,4.666666667,5,5,5,5,5,4
+Rodin,A flower with petals made of soft pink silk,5,5,0,5,5,4.333333333,5,5,5,5,5,4.666666667
+Rodin,A flower with round copper petals,5,5,0,3.333333333,5,5,5,5,5,5,5,5
+Rodin,A flower with star-shaped petals,5,3.333333333,0,4,5,5,4.333333333,5,5,5,5,4
+Rodin,A fluffy cat lying on its back on a couch,5,5,5,5,5,4.333333333,5,5,4,5,5,4.666666667
+Rodin,A footballer kicking a ball,3,0,3,3.333333333,5,4,5,5,4.333333333,4,5,3.666666667
+Rodin,A fox holding a basketball,5,0,5,5,5,5,5,5,5,5,5,5
+Rodin,A fox lying on a couch and watching television with a coffee cup in his hand,4,5,3,4,5,4.333333333,4.666666667,4.333333333,4.666666667,4.666666667,4.666666667,4
+Rodin,A fox on a maple leaf with tail draped over the edges,5,0,5,5,5,5,5,5,5,5,5,5
+Rodin,A fox taking a photograph using a DSLR,5,0,5,5,5,4.333333333,5,5,5,5,5,5
+Rodin,A fox wearing a tailored suit and a tie,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,"A fox with a bushy, crescent-shaped tail and pointed ears",5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,"A fox with nine tails, each of which is made of metal",5,2,0,2.666666667,5,5,5,5,4.666666667,5,5,4
+Rodin,A frog inside a refrigerator full of fruits and vegetables,5,4.666666667,5,4.666666667,5,4,4,4,4.666666667,4,5,4.333333333
+Rodin,A frog on a lily pad,5,0,5,5,5,5,5,5,5,5,5,5
+Rodin,A frog with a mechanical heart,5,3,0,4,5,4.666666667,5,5,5,5,5,4
+Rodin,A fruit basket filled with apples and oranges on a table,3,4.333333333,2,3,5,4.333333333,5,5,4,4.666666667,5,4.666666667
+Rodin,A fruit basket holding apples,5,0,5,5,5,4.333333333,5,5,4.333333333,4.666666667,5,4.666666667
+Rodin,A fruit basket on a table,3,0,2,2,5,4.666666667,5,4.666666667,4.333333333,4.666666667,5,4
+Rodin,A gaming console with a gray plastic shell and red buttons,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A giant ant standing on a blue crystal ball,3.333333333,4,3,3,5,4,5,5,4,4,4,3
+Rodin,A goat drinking beer,5,0,4,4,5,5,4,4.666666667,4.666666667,4,4,4
+Rodin,A gold necklace lying on a wooden table next to a pair of earrings,4,3,3,3.333333333,5,4.666666667,5,5,5,5,4.666666667,4
+Rodin,A gold necklace with a circular pendant,5,5,0,5,4.666666667,4,5,5,5,4.666666667,5,4.333333333
+Rodin,A golden croissant with a flaky layer of butter and a smooth finish,5,4,0,4,5,5,5,5,5,5,5,4
+Rodin,A golden motorcycle,5,5,0,5,5,5,4.333333333,5,5,5,5,4.666666667
+Rodin,A golden ring with a miniature castle built atop the band,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A goldfish on a guitar,5,0,3.666666667,4,5,5,5,5,5,5,5,4
+Rodin,A gray car shaped like a toast,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A gray cotton t-shirt with a printed logo,5,5,0,5,5,4,4,5,5,4.333333333,5,4
+Rodin,A gray dog licking an ice cream cone,5,5,4.666666667,4.666666667,5,5,5,5,5,5,5,4.666666667
+Rodin,A gray elephant with a long trunk,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A gray horse with a long mane and wrinkled skin,5,4,0,4,5,5,5,5,5,5,5,5
+Rodin,A gray knife shaped like a leaf,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A gray skyscraper with rectangular windows,5,5,0,5,5,4,5,4.333333333,5,5,5,5
+Rodin,A gray submarine resembling a giant fish,5,4.666666667,0,4.666666667,5,5,5,5,5,5,5,5
+Rodin,A gray wrench,5,5,0,5,5,5,5,5,5,5,5,5
+Rodin,A green bowl with a wide rim and a ceramic texture,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Rodin,A green cactus in a clay pot,5,5,5,5,5,5,4.333333333,5,4.666666667,5,5,4.666666667
+Rodin,A green cactus with sharp spines,4,3.333333333,0,4,4.666666667,4,4,5,4,4,5,4
+Rodin,A green flute with a cylindrical shape and finger holes,4,3.333333333,0,3.333333333,5,4.666666667,5,4.666666667,5,4.666666667,4.333333333,3.666666667
+Tripo,A colorful ladybug in a glass bottle,5,4,3.666666667,4,5,5,5,5,5,5,5,4.333333333
+Tripo,A conical castle tower with a pointed roof and arched windows,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A conical tower,5,5,0,5,5,4.333333333,5,5,5,5,5,5
+Tripo,A corgi dog lying on a sofa with head resting on a cushion,3,0,2,2,5,4.333333333,5,5,5,4.666666667,5,3.333333333
+Tripo,A crocodile below a table,3,0,2,2.333333333,5,5,5,5,5,5,5,4
+Tripo,A crystal key hanging on a metal hook,4.666666667,4,4.666666667,4,5,5,4,5,5,5,5,4
+Tripo,A cup full of colorful pens and pencils,5,4.333333333,0,4.333333333,5,5,5,5,4.666666667,5,5,4
+Tripo,A curved brush,4.666666667,4,0,4,5,5,5,5,5,5,5,5
+Tripo,A cylindrical chair,5,3.333333333,0,4,4.333333333,5,5,5,5,5,5,4.666666667
+Tripo,A deer standing near the ruins of a stone castle with ears perking up,3,5,2.333333333,3,5,5,5,5,5,5,5,4
+Tripo,A deer with antlers of various sizes in the shape of branches,4,3,0,3.666666667,4.666666667,4.333333333,5,5,5,4.666666667,5,4
+Tripo,A delicate porcelain teacup painted with flowers rests on a saucer,5,5,5,5,5,5,5,5,5,5,5,5
+Tripo,A delicious sandwich next to a pile of crispy,5,0,5,5,5,5,5,5,4.666666667,5,5,5
+Tripo,A dog barking at a cat,5,0,4.666666667,4.666666667,5,5,5,4.666666667,5,5,5,5
+Tripo,A dog eating a piece of bread on the table with tail raising,5,5,5,5,5,4.333333333,5,5,5,4.666666667,5,5
+Tripo,A dog sitting next to a white cat,5,5,5,5,5,4,5,4,5,4.333333333,5,4.666666667
+Tripo,A dog wearing extremely cool sneakers,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A dog with a beard and ears shaped like butterfly wings,5,5,0,5,5,4.333333333,4.333333333,5,5,4.666666667,5,4
+Tripo,A dragon curled up on a floating sofa with tail wrapped around a cushion,5,0,5,5,5,4,5,5,5,4.333333333,5,5
+Tripo,A dragon holding a staff wrapped in glowing vines with a crown on his head,5,3.333333333,5,4,5,5,5,5,5,5,5,5
+Tripo,A dragon with metallic scales,5,4.666666667,0,4.666666667,4.666666667,4.666666667,5,5,5,5,5,5
+Tripo,A dragonfly in a water tank,3,0,2,2.333333333,5,4.666666667,5,5,4.666666667,5,4.333333333,3.333333333
+Tripo,A drone with balanced propellers,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A duck chasing a toy boat,5,5,5,5,5,4,5,5,5,4,5,5
+Tripo,A fat owl wearing a black gown,5,5,0,5,5,5,5,5,5,5,5,4.666666667
+Tripo,A fat penguin,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A fat wolf with pink fur,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Tripo,A fish with deep black scales speckled with stars,5,4,0,4,5,5,4.666666667,5,5,5,5,4.666666667
+Tripo,A fish-shaped shoe,1,5,0,2.333333333,5,5,5,5,5,5,5,3.666666667
+Tripo,A floral dress hanging on a coat rack,5,5,5,5,5,5,5,5,5,5,5,5
+Tripo,A flower on a table,4,0,4,4,5,5,4,5,4.666666667,4.333333333,5,4.333333333
+Tripo,A flower that blooms petals shaped like butterflies,5,3.333333333,0,3.333333333,5,5,4.333333333,4.333333333,5,5,5,3.666666667
+Tripo,A flower with petals made of soft pink silk,5,5,0,5,5,5,4.666666667,5,5,5,5,4.666666667
+Tripo,A flower with round copper petals,5,4.333333333,0,4.333333333,5,5,5,5,5,5,5,4
+Tripo,A flower with star-shaped petals,5,3,0,4,5,4.666666667,5,5,5,5,5,5
+Tripo,A fluffy cat lying on its back on a couch,3,5,2.333333333,3,5,5,5,5,5,5,5,4
+Tripo,A footballer kicking a ball,5,0,5,5,4.333333333,4.333333333,5,5,5,4.333333333,5,4.666666667
+Tripo,A fox holding a basketball,5,0,5,5,5,5,5,5,5,5,5,5
+Tripo,A fox lying on a couch and watching television with a coffee cup in his hand,3.333333333,5,3,3,4.666666667,5,4,5,5,4.666666667,5,3.333333333
+Tripo,A fox on a maple leaf with tail draped over the edges,5,0,5,5,5,5,5,5,5,5,5,5
+Tripo,A fox taking a photograph using a DSLR,5,0,5,5,5,5,5,5,5,5,5,5
+Tripo,A fox wearing a tailored suit and a tie,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Tripo,"A fox with a bushy, crescent-shaped tail and pointed ears",5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,"A fox with nine tails, each of which is made of metal",5,2.666666667,0,3,5,5,5,5,5,5,4,4
+Tripo,A frog inside a refrigerator full of fruits and vegetables,3,4,2.333333333,3.333333333,5,5,5,5,5,5,5,4
+Tripo,A frog on a lily pad,5,0,5,5,5,5,5,5,5,5,5,5
+Tripo,A frog with a mechanical heart,5,3,0,4,5,4.333333333,5,5,5,5,5,4
+Tripo,A fruit basket filled with apples and oranges on a table,3,5,2,3.666666667,5,4.333333333,5,5,5,5,5,4
+Tripo,A fruit basket holding apples,5,0,5,5,5,5,5,5,5,5,5,5
+Tripo,A fruit basket on a table,3,0,2,2.666666667,5,4.333333333,5,5,5,5,5,4
+Tripo,A gaming console with a gray plastic shell and red buttons,5,5,0,5,5,5,5,5,5,5,5,5
+Tripo,A giant ant standing on a blue crystal ball,5,5,5,5,5,5,5,5,5,5,5,5
+Tripo,A goat drinking beer,5,0,5,5,5,5,5,5,5,5,5,5
+Tripo,A gold necklace lying on a wooden table next to a pair of earrings,4,4.666666667,3,3.333333333,4.666666667,4,5,5,5,5,5,4
+Tripo,A gold necklace with a circular pendant,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Tripo,A golden croissant with a flaky layer of butter and a smooth finish,5,3.666666667,0,4,5,5,5,5,5,5,5,4
+Tripo,A golden motorcycle,5,5,0,5,4,4.666666667,5,5,5,5,5,5
+Tripo,A golden ring with a miniature castle built atop the band,5,5,0,5,5,4,5,5,5,5,5,5
+Tripo,A goldfish on a guitar,5,0,5,5,5,4.333333333,5,5,5,4.666666667,5,4.333333333
+Tripo,A gray car shaped like a toast,5,4.666666667,0,4.666666667,5,5,5,5,5,5,5,4.333333333
+Tripo,A gray cotton t-shirt with a printed logo,5,5,0,5,4.666666667,4,5,5,5,4.666666667,5,4
+Tripo,A gray dog licking an ice cream cone,5,5,5,5,5,5,5,5,5,5,5,5
+Tripo,A gray elephant with a long trunk,5,5,0,5,5,4.666666667,5,5,5,5,5,5
+Tripo,A gray horse with a long mane and wrinkled skin,5,4,0,4,4.666666667,4.666666667,5,5,5,5,5,4.666666667
+Tripo,A gray knife shaped like a leaf,5,5,0,5,4.666666667,4,5,5,5,4,5,4.666666667
+Tripo,A gray skyscraper with rectangular windows,5,5,0,5,5,4.666666667,4.666666667,5,5,4.666666667,5,5
+Tripo,A gray submarine resembling a giant fish,5,5,0,5,5,4.333333333,5,5,5,4.666666667,5,4.666666667
+Tripo,A gray wrench,5,5,0,5,5,4,5,5,5,4.666666667,5,4.666666667
+Tripo,A green bowl with a wide rim and a ceramic texture,4.666666667,5,0,4.666666667,5,5,5,5,4,5,5,4.666666667
+Tripo,A green cactus in a clay pot,5,5,5,5,5,5,5,5,5,5,5,5
+Tripo,A green cactus with sharp spines,4,5,0,4,4,4,5,5,5,4,4,3.666666667
+Tripo,A green flute with a cylindrical shape and finger holes,5,5,0,5,4.666666667,4,5,5,5,5,5,4.333333333
