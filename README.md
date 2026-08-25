@@ -25,7 +25,7 @@ This repository contains a PyTorch implementation of **Rank2Score**, as presente
 > Recent advances in Text-to-3D generative models have enabled the synthesis of diverse, high-fidelity 3D assets from textual prompts. However, existing challenges restrict the development of reliable T23D quality assessment. To address the existing limitations, we introduce T23D-CompBench, a comprehensive benchmark for compositional T23D generation. We define five components with twelve sub-components for compositional prompts, which are used to generate 3,600 textured meshes from ten state-of-the-art generative models. A large-scale subjective experiment is conducted to collect 129,600 reliable human ratings across different perspectives. Based on T23D-CompBench, we further propose Rank2Score, an effective evaluator with two-stage training for Text-to-3D quality assessment. Rank2Score enhances pairwise training via supervised contrastive regression and curriculum learning in the first stage, and subsequently refines predictions using mean opinion scores to achieve closer alignment with human judgments in the second stage. Extensive experiments and downstream applications demonstrate that Rank2Score consistently outperforms existing metrics across multiple dimensions and can additionally serve as a reward function to optimize generative models.
 
 <div align="center">
-<img src="https://github.com/cbysjtu/rank2score_code/blob/main/asset/framework.png" width = 80% height = 80%/>
+<img src="https://github.com/cbysjtu/rank2score_code/blob/main/assets/framework.png" width = 80% height = 80%/>
 <br>
 Overview of the Rank2Score Evaluator
 </div>
